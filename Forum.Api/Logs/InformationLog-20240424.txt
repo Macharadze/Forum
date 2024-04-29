@@ -1,0 +1,5 @@
+2024-04-24 17:56:08.324 +04:00 Now listening on: https://localhost:7283
+2024-04-24 17:56:08.429 +04:00 Now listening on: http://localhost:5001
+2024-04-24 17:56:08.437 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-24 17:56:08.439 +04:00 Hosting environment: Development
+2024-04-24 17:56:08.440 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Api\

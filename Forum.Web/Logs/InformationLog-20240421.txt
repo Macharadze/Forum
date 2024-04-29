@@ -1,0 +1,527 @@
+2024-04-21 19:45:18.411 +04:00 Initializing UI Database
+2024-04-21 19:45:21.761 +04:00 Now listening on: https://localhost:7245
+2024-04-21 19:45:21.764 +04:00 Now listening on: http://localhost:5178
+2024-04-21 19:45:21.965 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-21 19:45:21.966 +04:00 Hosting environment: Development
+2024-04-21 19:45:21.966 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Web\
+2024-04-21 19:45:22.015 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 19:45:22.023 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 19:45:26.342 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 19:45:28.649 +04:00 An unhandled exception has occurred while executing the request.
+2024-04-21 20:04:22.879 +04:00 Initializing UI Database
+2024-04-21 20:04:25.500 +04:00 Now listening on: https://localhost:7245
+2024-04-21 20:04:25.503 +04:00 Now listening on: http://localhost:5178
+2024-04-21 20:04:25.532 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-21 20:04:25.532 +04:00 Hosting environment: Development
+2024-04-21 20:04:25.533 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Web\
+2024-04-21 20:04:25.553 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:04:25.560 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:04:26.423 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/21/2024 8:04:26 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:04:26.624 +04:00 HTTP GET / responded 200 in 180.0850 ms
+2024-04-21 20:04:29.383 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/21/2024 8:04:29 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:04:29.733 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:04:30.076 +04:00 HTTP GET /Account/Login responded 200 in 691.4470 ms
+2024-04-21 20:04:34.662 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/21/2024 8:04:34 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:04:34.895 +04:00 HTTP POST /Account/Login responded 500 in 229.4644 ms
+2024-04-21 20:04:34.971 +04:00 An unhandled exception occurred
+2024-04-21 20:04:35.133 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = ?messagesJson=
+Time = 4/21/2024 8:04:35 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:04:35.169 +04:00 HTTP GET /Home/Errors responded 200 in 35.3524 ms
+2024-04-21 20:04:40.552 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:04:40.553 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:05:43.045 +04:00 Initializing UI Database
+2024-04-21 20:05:45.118 +04:00 Now listening on: https://localhost:7245
+2024-04-21 20:05:45.120 +04:00 Now listening on: http://localhost:5178
+2024-04-21 20:05:45.152 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-21 20:05:45.152 +04:00 Hosting environment: Development
+2024-04-21 20:05:45.153 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Web\
+2024-04-21 20:05:45.173 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:05:45.179 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:05:46.143 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/21/2024 8:05:46 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:05:46.435 +04:00 HTTP GET / responded 200 in 260.1040 ms
+2024-04-21 20:05:49.030 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/21/2024 8:05:49 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:05:49.312 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:05:49.710 +04:00 HTTP GET /Account/Login responded 200 in 678.1966 ms
+2024-04-21 20:05:49.776 +04:00 Notification is sent on same window time.
+2024-04-21 20:05:53.832 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/21/2024 8:05:53 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:05:54.102 +04:00 HTTP POST /Account/Login responded 500 in 265.1968 ms
+2024-04-21 20:05:54.176 +04:00 An unhandled exception occurred
+2024-04-21 20:05:54.279 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = ?messageJson=
+Time = 4/21/2024 8:05:54 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:07:02.730 +04:00 Initializing UI Database
+2024-04-21 20:07:04.995 +04:00 Now listening on: https://localhost:7245
+2024-04-21 20:07:04.998 +04:00 Now listening on: http://localhost:5178
+2024-04-21 20:07:05.024 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-21 20:07:05.024 +04:00 Hosting environment: Development
+2024-04-21 20:07:05.025 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Web\
+2024-04-21 20:07:05.047 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:07:05.053 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:07:05.849 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/21/2024 8:07:05 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:07:06.073 +04:00 HTTP GET / responded 200 in 200.8918 ms
+2024-04-21 20:07:08.467 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/21/2024 8:07:08 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:07:08.980 +04:00 HTTP GET /Account/Login responded 200 in 511.0945 ms
+2024-04-21 20:07:09.185 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:07:09.402 +04:00 Notification is sent on same window time.
+2024-04-21 20:07:12.944 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/21/2024 8:07:12 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:07:20.141 +04:00 HTTP POST /Account/Login responded 500 in 7192.5544 ms
+2024-04-21 20:07:20.214 +04:00 An unhandled exception occurred
+2024-04-21 20:07:20.227 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:07:20.228 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:07:20.319 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = ?messageJson={%22Path%22:%22\%22/Account/Login\%22%22,%22Errors%22:[%22Object%20reference%20not%20set%20to%20an%20instance%20of%20an%20object.%22]}
+Time = 4/21/2024 8:07:20 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:07:20.374 +04:00 HTTP GET /Home/Errors responded 200 in 54.1761 ms
+2024-04-21 20:07:24.319 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:07:24.330 +04:00 Notification is sent on same window time.
+2024-04-21 20:08:52.141 +04:00 Initializing UI Database
+2024-04-21 20:08:54.064 +04:00 Now listening on: https://localhost:7245
+2024-04-21 20:08:54.068 +04:00 Now listening on: http://localhost:5178
+2024-04-21 20:08:54.120 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-21 20:08:54.121 +04:00 Hosting environment: Development
+2024-04-21 20:08:54.122 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Web\
+2024-04-21 20:08:54.145 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:08:54.152 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:08:54.578 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/21/2024 8:08:54 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:08:54.812 +04:00 HTTP GET / responded 200 in 211.3522 ms
+2024-04-21 20:08:56.498 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/21/2024 8:08:56 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:08:57.012 +04:00 HTTP GET /Account/Login responded 200 in 512.5216 ms
+2024-04-21 20:08:58.287 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:08:58.491 +04:00 Notification is sent on same window time.
+2024-04-21 20:09:00.037 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/21/2024 8:09:00 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:09:02.679 +04:00 HTTP POST /Account/Login responded 500 in 2637.7089 ms
+2024-04-21 20:09:02.730 +04:00 An unhandled exception occurred
+2024-04-21 20:09:02.834 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = ?messageJson={%22Path%22:%22\%22/Account/Login\%22%22,%22Errors%22:[%22Object%20reference%20not%20set%20to%20an%20instance%20of%20an%20object.%22]}
+Time = 4/21/2024 8:09:02 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:09:02.890 +04:00 HTTP GET /Home/Error responded 200 in 54.8427 ms
+2024-04-21 20:09:08.870 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:09:08.871 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:15:39.156 +04:00 Initializing UI Database
+2024-04-21 20:15:42.356 +04:00 Now listening on: https://localhost:7245
+2024-04-21 20:15:42.359 +04:00 Now listening on: http://localhost:5178
+2024-04-21 20:15:42.385 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-21 20:15:42.385 +04:00 Hosting environment: Development
+2024-04-21 20:15:42.386 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Web\
+2024-04-21 20:15:42.406 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:15:42.412 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:15:43.116 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/21/2024 8:15:43 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:15:43.302 +04:00 HTTP GET / responded 200 in 167.7125 ms
+2024-04-21 20:15:46.576 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:15:50.990 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/21/2024 8:15:50 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:15:51.622 +04:00 HTTP GET /Account/Login responded 200 in 630.7331 ms
+2024-04-21 20:15:55.491 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/21/2024 8:15:55 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:16:00.980 +04:00 HTTP POST /Account/Login responded 500 in 5485.5803 ms
+2024-04-21 20:16:01.036 +04:00 An unhandled exception occurred
+2024-04-21 20:16:01.038 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:16:01.043 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:16:01.151 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = ?messageJson={%22Path%22:%22\%22/Account/Login\%22%22,%22ProblemDetails%22:{%22Type%22:null,%22Title%22:%22An%20error%20occurred%22,%22Status%22:200,%22Detail%22:%22Sorry,%20an%20error%20occurred%20while%20processing%20your%20request.%22,%22Instance%22:null,%22Extensions%22:{}},%22Errors%22:[%22Object%20reference%20not%20set%20to%20an%20instance%20of%20an%20object.%22]}
+Time = 4/21/2024 8:16:01 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:16:01.215 +04:00 HTTP GET /Home/Error responded 200 in 63.3786 ms
+2024-04-21 20:16:05.129 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:16:05.138 +04:00 Notification is sent on same window time.
+2024-04-21 20:33:34.088 +04:00 Initializing UI Database
+2024-04-21 20:33:37.211 +04:00 Now listening on: https://localhost:7245
+2024-04-21 20:33:37.214 +04:00 Now listening on: http://localhost:5178
+2024-04-21 20:33:37.289 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-21 20:33:37.290 +04:00 Hosting environment: Development
+2024-04-21 20:33:37.290 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Web\
+2024-04-21 20:33:37.316 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:33:37.322 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:33:38.196 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/21/2024 8:33:38 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:33:38.428 +04:00 HTTP GET / responded 200 in 207.8364 ms
+2024-04-21 20:33:41.503 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:33:51.990 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/21/2024 8:33:51 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:33:52.081 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:33:52.082 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:33:52.563 +04:00 HTTP GET /Account/Login responded 200 in 571.1988 ms
+2024-04-21 20:33:56.136 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:33:56.144 +04:00 Notification is sent on same window time.
+2024-04-21 20:33:56.811 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/21/2024 8:33:56 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:34:00.263 +04:00 HTTP POST /Account/Login responded 500 in 3448.0951 ms
+2024-04-21 20:34:00.344 +04:00 An unhandled exception occurred
+2024-04-21 20:34:00.459 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = ?messageJson={%22Path%22:%22\%22/Account/Login\%22%22,%22ProblemDetails%22:{%22Type%22:null,%22Title%22:%22An%20error%20occurred%22,%22Status%22:200,%22Detail%22:%22Sorry,%20an%20error%20occurred%20while%20processing%20your%20request.%22,%22Instance%22:null,%22Extensions%22:{}},%22Errors%22:[%22Object%20reference%20not%20set%20to%20an%20instance%20of%20an%20object.%22]}
+Time = 4/21/2024 8:34:00 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:34:00.524 +04:00 HTTP GET /Home/Error responded 200 in 64.4881 ms
+2024-04-21 20:34:06.166 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:34:06.167 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:34:10.266 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:34:10.272 +04:00 Notification is sent on same window time.
+2024-04-21 20:34:20.302 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:34:20.303 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:34:24.399 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:34:24.405 +04:00 Notification is sent on same window time.
+2024-04-21 20:34:34.425 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:34:34.426 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:34:38.500 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:34:38.505 +04:00 Notification is sent on same window time.
+2024-04-21 20:35:47.760 +04:00 Initializing UI Database
+2024-04-21 20:35:50.059 +04:00 Now listening on: https://localhost:7245
+2024-04-21 20:35:50.062 +04:00 Now listening on: http://localhost:5178
+2024-04-21 20:35:50.089 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-21 20:35:50.090 +04:00 Hosting environment: Development
+2024-04-21 20:35:50.090 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Web\
+2024-04-21 20:35:50.126 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:35:50.137 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:35:51.425 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/21/2024 8:35:51 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:35:51.657 +04:00 HTTP GET / responded 200 in 201.8165 ms
+2024-04-21 20:35:54.086 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/21/2024 8:35:54 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:35:54.313 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:35:54.867 +04:00 Notification is sent on same window time.
+2024-04-21 20:35:54.917 +04:00 HTTP GET /Account/Login responded 200 in 829.7313 ms
+2024-04-21 20:35:58.036 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/21/2024 8:35:58 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:36:00.897 +04:00 HTTP POST /Account/Login responded 500 in 2856.6002 ms
+2024-04-21 20:36:00.945 +04:00 An unhandled exception occurred
+2024-04-21 20:36:01.053 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = ?messageJson={%22Path%22:%22\%22/Account/Login\%22%22,%22ProblemDetails%22:{%22Type%22:null,%22Title%22:%22An%20error%20occurred%22,%22Status%22:null,%22Detail%22:%22Sorry,%20an%20error%20occurred%20while%20processing%20your%20request.%22,%22Instance%22:null,%22Extensions%22:{}},%22Errors%22:[%22Object%20reference%20not%20set%20to%20an%20instance%20of%20an%20object.%22]}
+Time = 4/21/2024 8:36:01 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:36:01.124 +04:00 HTTP GET /Home/Error responded 200 in 69.1089 ms
+2024-04-21 20:36:05.360 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:36:05.361 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:36:45.102 +04:00 Initializing UI Database
+2024-04-21 20:36:47.416 +04:00 Now listening on: https://localhost:7245
+2024-04-21 20:36:47.420 +04:00 Now listening on: http://localhost:5178
+2024-04-21 20:36:47.453 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-21 20:36:47.454 +04:00 Hosting environment: Development
+2024-04-21 20:36:47.455 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Web\
+2024-04-21 20:36:47.478 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:36:47.485 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-21 20:36:48.076 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/21/2024 8:36:48 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-21 20:36:48.303 +04:00 HTTP GET / responded 200 in 204.0542 ms

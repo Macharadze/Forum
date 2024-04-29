@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Forum.Application.ArticleModel.ArticleResponse>
+
+@{
+    ViewData["Title"] = "Pending";
+}
+
+<h1>Pending</h1>
+
+<table class="table">
+    <thead
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Content)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+           
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Content)
+            </td>
+           
+                <td>
+                    <div style="display:flex; justify-content:center; align-items:center;">
+
+                    <form asp-action="Accept" asp-controller="Article" method="post">
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <button type="submit" class="btn btn-success">Accept</button>
+                    </form>
+                        Pending
+                    <form asp-action="Delete" asp-controller="Article" method="post">
+                        <input type="hidden" name="id" value="@item.Id" />
+                            <input type="hidden" name="isPending" value=true />
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                    </div>
+                </td>
+
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,19 @@
+﻿
+@model ErrorViewModel
+
+@{
+    ViewData["Title"] = "Error";
+}
+
+
+@if (Model != null)
+{
+    <h3>Error Details</h3>
+    <h1>@Model.ProblemDetails.Status</h1>
+    <p>Title: @Model.ProblemDetails.Title</p>
+
+    <p>Detail: @Model.ProblemDetails.Detail</p>
+}
+
+
+<p>Please try again later or contact support if the problem persists.</p>

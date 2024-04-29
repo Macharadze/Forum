@@ -1,0 +1,2188 @@
+2024-04-22 16:28:48.572 +04:00 Initializing UI Database
+2024-04-22 16:28:51.441 +04:00 Now listening on: https://localhost:7245
+2024-04-22 16:28:51.444 +04:00 Now listening on: http://localhost:5178
+2024-04-22 16:28:51.596 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-22 16:28:51.597 +04:00 Hosting environment: Development
+2024-04-22 16:28:51.597 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Web\
+2024-04-22 16:28:51.642 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:28:51.649 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:28:52.146 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 4:28:52 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 16:28:52.382 +04:00 HTTP GET / responded 200 in 214.6957 ms
+2024-04-22 16:28:55.823 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:29:01.876 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 4:29:01 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 16:29:02.562 +04:00 HTTP GET /Account/Login responded 200 in 683.9013 ms
+2024-04-22 16:29:06.531 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:29:06.532 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:29:10.599 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:29:10.609 +04:00 Notification is sent on same window time.
+2024-04-22 16:29:13.034 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 4:29:13 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 16:29:13.443 +04:00 HTTP POST /Account/Login responded 302 in 404.9270 ms
+2024-04-22 16:29:13.455 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 4:29:13 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 16:29:13.750 +04:00 HTTP GET /Article/Articles responded 200 in 291.3181 ms
+2024-04-22 16:29:18.644 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = ?isAuth=True
+Time = 4/22/2024 4:29:18 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 16:29:18.701 +04:00 HTTP GET /Account/GetProfile responded 200 in 55.1949 ms
+2024-04-22 16:29:20.623 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:29:20.624 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:29:24.672 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:29:24.681 +04:00 Notification is sent on same window time.
+2024-04-22 16:29:24.711 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 4:29:24 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 16:29:24.741 +04:00 HTTP GET /Account/BanAccount responded 200 in 22.8863 ms
+2024-04-22 16:29:34.704 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:29:34.705 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:29:35.848 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 4:29:35 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 16:29:35.862 +04:00 HTTP GET /Account/ChangePassword responded 200 in 12.6954 ms
+2024-04-22 16:29:38.763 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:29:38.781 +04:00 Notification is sent on same window time.
+2024-04-22 16:29:48.811 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:29:48.812 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:29:52.873 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:29:52.880 +04:00 Notification is sent on same window time.
+2024-04-22 16:30:02.908 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:30:02.971 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:30:07.036 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:30:07.042 +04:00 Notification is sent on same window time.
+2024-04-22 16:30:17.061 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:30:17.062 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:30:21.164 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:30:21.170 +04:00 Notification is sent on same window time.
+2024-04-22 16:30:31.190 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:30:31.191 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:30:35.286 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:30:35.292 +04:00 Notification is sent on same window time.
+2024-04-22 16:30:45.325 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:30:45.326 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:30:49.417 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:30:49.422 +04:00 Notification is sent on same window time.
+2024-04-22 16:30:54.629 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 4:30:54 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 16:30:54.656 +04:00 HTTP GET /Article/Pending responded 200 in 20.1614 ms
+2024-04-22 16:30:59.433 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:30:59.434 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:31:00.627 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 4:31:00 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 16:31:00.643 +04:00 HTTP GET /Article/Pending responded 200 in 13.4718 ms
+2024-04-22 16:31:03.504 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:31:03.511 +04:00 Notification is sent on same window time.
+2024-04-22 16:31:13.553 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:31:13.554 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:31:17.618 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:31:17.625 +04:00 Notification is sent on same window time.
+2024-04-22 16:31:27.652 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:31:27.653 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:31:31.715 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:31:31.723 +04:00 Notification is sent on same window time.
+2024-04-22 16:31:41.757 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:31:41.758 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:31:45.834 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:31:45.841 +04:00 Notification is sent on same window time.
+2024-04-22 16:31:55.876 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:31:55.880 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:31:59.958 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:31:59.964 +04:00 Notification is sent on same window time.
+2024-04-22 16:32:09.999 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:32:09.999 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:32:14.081 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:32:14.087 +04:00 Notification is sent on same window time.
+2024-04-22 16:32:24.111 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:32:24.112 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:32:28.194 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:32:28.201 +04:00 Notification is sent on same window time.
+2024-04-22 16:32:38.228 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:32:38.229 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:32:42.294 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:32:42.300 +04:00 Notification is sent on same window time.
+2024-04-22 16:32:52.325 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:32:52.326 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:32:56.403 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:32:56.409 +04:00 Notification is sent on same window time.
+2024-04-22 16:33:06.428 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:33:06.429 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:33:10.501 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:33:10.508 +04:00 Notification is sent on same window time.
+2024-04-22 16:33:20.540 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:33:20.541 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:33:24.633 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:33:24.639 +04:00 Notification is sent on same window time.
+2024-04-22 16:33:34.660 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:33:34.661 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:33:38.752 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:33:38.759 +04:00 Notification is sent on same window time.
+2024-04-22 16:33:48.776 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:33:48.777 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:33:52.852 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:33:52.858 +04:00 Notification is sent on same window time.
+2024-04-22 16:34:02.884 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:34:02.885 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:34:06.975 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:34:06.981 +04:00 Notification is sent on same window time.
+2024-04-22 16:34:17.015 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:34:17.016 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:34:21.103 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:34:21.109 +04:00 Notification is sent on same window time.
+2024-04-22 16:34:31.147 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:34:31.148 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:34:35.243 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:34:35.249 +04:00 Notification is sent on same window time.
+2024-04-22 16:34:45.280 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:34:45.281 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:34:49.359 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:34:49.365 +04:00 Notification is sent on same window time.
+2024-04-22 16:34:59.370 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:34:59.371 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:35:03.443 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:35:03.449 +04:00 Notification is sent on same window time.
+2024-04-22 16:35:13.471 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:35:13.472 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:35:17.562 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:35:17.568 +04:00 Notification is sent on same window time.
+2024-04-22 16:35:27.599 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:35:27.600 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:35:31.676 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:35:31.682 +04:00 Notification is sent on same window time.
+2024-04-22 16:35:41.697 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:35:41.698 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:35:45.793 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:35:45.799 +04:00 Notification is sent on same window time.
+2024-04-22 16:35:55.851 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:35:55.852 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:35:59.918 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:35:59.924 +04:00 Notification is sent on same window time.
+2024-04-22 16:36:09.942 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:36:09.943 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 16:36:14.004 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 16:36:14.011 +04:00 Notification is sent on same window time.
+2024-04-22 18:34:58.521 +04:00 Initializing UI Database
+2024-04-22 18:35:03.327 +04:00 Now listening on: https://localhost:7245
+2024-04-22 18:35:03.334 +04:00 Now listening on: http://localhost:5178
+2024-04-22 18:35:03.451 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-22 18:35:03.453 +04:00 Hosting environment: Development
+2024-04-22 18:35:03.456 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Web\
+2024-04-22 18:35:03.525 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:35:03.541 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:35:05.286 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:35:05 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:35:05.857 +04:00 HTTP GET / responded 200 in 533.4680 ms
+2024-04-22 18:35:07.803 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:35:19.309 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:35:19.312 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:35:20.196 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:35:20 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:35:21.647 +04:00 HTTP GET /Account/Login responded 200 in 1448.1658 ms
+2024-04-22 18:35:23.366 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:35:23.384 +04:00 Notification is sent on same window time.
+2024-04-22 18:35:25.090 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:35:25 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:35:25.522 +04:00 HTTP POST /Account/Login responded 200 in 410.9548 ms
+2024-04-22 18:35:33.454 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:35:33.456 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:35:37.059 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:35:37 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:35:37.349 +04:00 HTTP POST /Account/Login responded 200 in 287.9130 ms
+2024-04-22 18:35:37.540 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:35:37.553 +04:00 Notification is sent on same window time.
+2024-04-22 18:35:47.568 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:35:47.570 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:35:51.670 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:35:51.682 +04:00 Notification is sent on same window time.
+2024-04-22 18:36:01.701 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:36:01.703 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:36:05.814 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:36:05.826 +04:00 Notification is sent on same window time.
+2024-04-22 18:36:15.885 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:36:15.887 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:36:19.967 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:36:19.980 +04:00 Notification is sent on same window time.
+2024-04-22 18:36:30.005 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:36:30.007 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:36:34.114 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:36:34.131 +04:00 Notification is sent on same window time.
+2024-04-22 18:36:44.195 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:36:44.202 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:36:48.275 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:36:48.289 +04:00 Notification is sent on same window time.
+2024-04-22 18:36:54.016 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:36:54 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:36:54.552 +04:00 HTTP POST /Account/Login responded 302 in 534.5262 ms
+2024-04-22 18:36:54.574 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:36:54 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:36:55.134 +04:00 HTTP GET /Article/Articles responded 200 in 550.4866 ms
+2024-04-22 18:36:58.351 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:36:58.353 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:37:00.466 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:37:00 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:37:00.520 +04:00 HTTP GET /Article/Create responded 200 in 49.9779 ms
+2024-04-22 18:37:02.426 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:37:02.481 +04:00 Notification is sent on same window time.
+2024-04-22 18:37:12.525 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:37:12.527 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:46:41.870 +04:00 Initializing UI Database
+2024-04-22 18:46:46.693 +04:00 Now listening on: https://localhost:7245
+2024-04-22 18:46:46.700 +04:00 Now listening on: http://localhost:5178
+2024-04-22 18:46:46.806 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-22 18:46:46.808 +04:00 Hosting environment: Development
+2024-04-22 18:46:46.812 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Web\
+2024-04-22 18:46:46.866 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:46:46.883 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:46:48.004 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:46:47 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:46:48.482 +04:00 HTTP GET / responded 200 in 429.5156 ms
+2024-04-22 18:46:51.165 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:46:52.244 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:46:52 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:46:53.830 +04:00 HTTP GET /Account/Register responded 200 in 1580.4526 ms
+2024-04-22 18:47:02.854 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:47:02.856 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:47:06.920 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:47:06.941 +04:00 Notification is sent on same window time.
+2024-04-22 18:47:07.544 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:47:07 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:47:08.744 +04:00 HTTP POST /Account/Register responded 302 in 1191.0792 ms
+2024-04-22 18:47:08.760 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:47:08 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:47:09.428 +04:00 HTTP GET /Article/Articles responded 200 in 655.5784 ms
+2024-04-22 18:47:17.006 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:47:17.008 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:47:18.115 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:47:18 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:47:18.152 +04:00 HTTP GET /Account/LogOut responded 302 in 20.4912 ms
+2024-04-22 18:47:18.166 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:47:18 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:47:18.199 +04:00 HTTP GET /Article/Articles responded 200 in 31.3789 ms
+2024-04-22 18:47:21.090 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:47:21.109 +04:00 Notification is sent on same window time.
+2024-04-22 18:49:22.600 +04:00 Initializing UI Database
+2024-04-22 18:49:27.474 +04:00 Now listening on: https://localhost:7245
+2024-04-22 18:49:27.480 +04:00 Now listening on: http://localhost:5178
+2024-04-22 18:49:27.568 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-22 18:49:27.569 +04:00 Hosting environment: Development
+2024-04-22 18:49:27.571 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Web\
+2024-04-22 18:49:27.622 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:49:27.642 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:49:30.327 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:49:30 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:49:30.795 +04:00 HTTP GET / responded 200 in 410.7990 ms
+2024-04-22 18:49:31.968 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:49:32.447 +04:00 Notification is sent on same window time.
+2024-04-22 18:49:43.158 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:49:43.162 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:49:47.262 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:49:47.295 +04:00 Notification is sent on same window time.
+2024-04-22 18:49:52.022 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:49:52 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:49:53.539 +04:00 HTTP GET /Account/Register responded 200 in 1513.4354 ms
+2024-04-22 18:49:57.342 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:49:57.344 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:50:01.418 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:50:01.436 +04:00 Notification is sent on same window time.
+2024-04-22 18:50:11.497 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:50:11.499 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:50:12.834 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:50:12 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:50:13.155 +04:00 HTTP POST /Account/Register responded 200 in 312.2405 ms
+2024-04-22 18:50:15.557 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:50:15.572 +04:00 Notification is sent on same window time.
+2024-04-22 18:50:25.609 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:50:25.611 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:50:26.649 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:50:26 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:50:26.761 +04:00 HTTP GET /Account/Login responded 200 in 109.9515 ms
+2024-04-22 18:50:29.679 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:50:29.696 +04:00 Notification is sent on same window time.
+2024-04-22 18:50:32.370 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:50:32 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:50:33.309 +04:00 HTTP POST /Account/Login responded 302 in 935.8567 ms
+2024-04-22 18:50:33.333 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:50:33 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:50:34.014 +04:00 HTTP GET /Article/Articles responded 200 in 671.1768 ms
+2024-04-22 18:50:39.768 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:50:39.770 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:50:43.854 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:50:43.869 +04:00 Notification is sent on same window time.
+2024-04-22 18:50:50.339 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:50:50 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+
+2024-04-22 18:50:50.343 +04:00 HTTP GET /css/bootstrap.min.css.map responded 404 in 0.0897 ms
+2024-04-22 18:50:53.939 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:50:53.942 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:50:58.036 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:50:58.091 +04:00 Notification is sent on same window time.
+2024-04-22 18:51:08.123 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:51:08.125 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:51:12.194 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:51:12.209 +04:00 Notification is sent on same window time.
+2024-04-22 18:51:22.270 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:51:22.272 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:51:27.293 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:51:27.309 +04:00 Notification is sent on same window time.
+2024-04-22 18:51:37.365 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:51:37.367 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:51:41.437 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:51:41.455 +04:00 Notification is sent on same window time.
+2024-04-22 18:51:51.535 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:51:51.537 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:51:55.608 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:51:55.634 +04:00 Notification is sent on same window time.
+2024-04-22 18:52:05.663 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:52:05.665 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:52:09.740 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:52:09.755 +04:00 Notification is sent on same window time.
+2024-04-22 18:52:19.785 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:52:19.788 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:52:23.841 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:52:23.856 +04:00 Notification is sent on same window time.
+2024-04-22 18:52:33.922 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:52:33.924 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:52:38.020 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:52:38.034 +04:00 Notification is sent on same window time.
+2024-04-22 18:52:48.091 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:52:48.093 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:52:52.162 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:52:52.176 +04:00 Notification is sent on same window time.
+2024-04-22 18:53:02.243 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:53:02.245 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:53:06.299 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:53:06.313 +04:00 Notification is sent on same window time.
+2024-04-22 18:53:16.337 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:53:16.340 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:53:20.402 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:53:20.417 +04:00 Notification is sent on same window time.
+2024-04-22 18:53:30.485 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:53:30.486 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:53:34.559 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:53:34.573 +04:00 Notification is sent on same window time.
+2024-04-22 18:53:44.634 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:53:44.636 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:53:48.712 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:53:48.728 +04:00 Notification is sent on same window time.
+2024-04-22 18:53:58.799 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:53:58.801 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:54:02.866 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:54:02.882 +04:00 Notification is sent on same window time.
+2024-04-22 18:54:12.923 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:54:12.925 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:54:17.027 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:54:17.041 +04:00 Notification is sent on same window time.
+2024-04-22 18:54:27.114 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:54:27.116 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:54:31.186 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:54:31.200 +04:00 Notification is sent on same window time.
+2024-04-22 18:54:41.235 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:54:41.237 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:54:45.345 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:54:45.364 +04:00 Notification is sent on same window time.
+2024-04-22 18:54:55.436 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:54:55.438 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:54:59.533 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:54:59.550 +04:00 Notification is sent on same window time.
+2024-04-22 18:55:09.624 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:55:09.626 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:55:13.715 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:55:13.769 +04:00 Notification is sent on same window time.
+2024-04-22 18:55:23.799 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:55:23.800 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:55:40.689 +04:00 Initializing UI Database
+2024-04-22 18:55:45.471 +04:00 Now listening on: https://localhost:7245
+2024-04-22 18:55:45.478 +04:00 Now listening on: http://localhost:5178
+2024-04-22 18:55:45.564 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-22 18:55:45.566 +04:00 Hosting environment: Development
+2024-04-22 18:55:45.568 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Web\
+2024-04-22 18:55:45.627 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:55:45.646 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:55:48.117 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:55:48 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:55:48.600 +04:00 HTTP GET / responded 200 in 438.0826 ms
+2024-04-22 18:55:49.907 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:55:50.407 +04:00 Notification is sent on same window time.
+2024-04-22 18:55:51.976 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:55:51 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:55:53.360 +04:00 HTTP GET /Account/Login responded 200 in 1381.6043 ms
+2024-04-22 18:55:57.732 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:55:57 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:55:58.829 +04:00 HTTP POST /Account/Login responded 302 in 1088.8791 ms
+2024-04-22 18:55:58.850 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:55:58 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:55:59.492 +04:00 HTTP GET /Article/Articles responded 200 in 634.4094 ms
+2024-04-22 18:56:01.184 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:56:01.186 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:56:05.270 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:56:05.297 +04:00 Notification is sent on same window time.
+2024-04-22 18:56:06.765 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:56:06 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+
+2024-04-22 18:56:06.769 +04:00 HTTP GET /css/bootstrap.min.css.map responded 404 in 0.1720 ms
+2024-04-22 18:56:15.341 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:56:15.343 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:56:19.395 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:56:19.412 +04:00 Notification is sent on same window time.
+2024-04-22 18:56:29.497 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:56:29.499 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:56:33.593 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:56:33.607 +04:00 Notification is sent on same window time.
+2024-04-22 18:56:43.636 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:56:43.638 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:56:47.753 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:56:47.767 +04:00 Notification is sent on same window time.
+2024-04-22 18:56:57.844 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:56:57.845 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:57:01.927 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:57:29.176 +04:00 Initializing UI Database
+2024-04-22 18:57:33.566 +04:00 Now listening on: https://localhost:7245
+2024-04-22 18:57:33.573 +04:00 Now listening on: http://localhost:5178
+2024-04-22 18:57:33.655 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-22 18:57:33.662 +04:00 Hosting environment: Development
+2024-04-22 18:57:33.664 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Web\
+2024-04-22 18:57:33.723 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:57:33.742 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:57:36.107 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:57:36 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:57:36.542 +04:00 HTTP GET / responded 200 in 398.9051 ms
+2024-04-22 18:57:37.978 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:57:38.452 +04:00 Notification is sent on same window time.
+2024-04-22 18:57:40.526 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:57:40 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:57:41.909 +04:00 HTTP GET /Account/Login responded 200 in 1380.3983 ms
+2024-04-22 18:57:48.798 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:57:48 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:57:49.287 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:57:49.289 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:57:49.902 +04:00 HTTP POST /Account/Login responded 302 in 1098.0021 ms
+2024-04-22 18:57:49.926 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:57:49 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:57:50.583 +04:00 HTTP GET /Article/Articles responded 200 in 647.9545 ms
+2024-04-22 18:57:53.364 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:57:53.380 +04:00 Notification is sent on same window time.
+2024-04-22 18:58:03.457 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:58:03.459 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:58:07.563 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:58:07.585 +04:00 Notification is sent on same window time.
+2024-04-22 18:58:17.620 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:58:17.621 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:58:21.718 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:58:21.733 +04:00 Notification is sent on same window time.
+2024-04-22 18:58:31.805 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:58:31.812 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:58:35.902 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:58:35.915 +04:00 Notification is sent on same window time.
+2024-04-22 18:58:45.950 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:58:45.952 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:59:09.907 +04:00 Initializing UI Database
+2024-04-22 18:59:14.331 +04:00 Now listening on: https://localhost:7245
+2024-04-22 18:59:14.337 +04:00 Now listening on: http://localhost:5178
+2024-04-22 18:59:14.405 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-22 18:59:14.406 +04:00 Hosting environment: Development
+2024-04-22 18:59:14.410 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Web\
+2024-04-22 18:59:14.450 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:59:14.466 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:59:18.695 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:59:19.067 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:59:19 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:59:20.267 +04:00 Notification is sent on same window time.
+2024-04-22 18:59:20.477 +04:00 HTTP GET / responded 200 in 1360.9086 ms
+2024-04-22 18:59:22.714 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:59:22 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:59:24.162 +04:00 HTTP GET /Account/Login responded 200 in 1444.8697 ms
+2024-04-22 18:59:30.052 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:59:30 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:59:31.134 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:59:31.136 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:59:31.217 +04:00 HTTP POST /Account/Login responded 302 in 1157.2983 ms
+2024-04-22 18:59:31.242 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:59:31 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 18:59:31.903 +04:00 HTTP GET /Article/Articles responded 200 in 651.7868 ms
+2024-04-22 18:59:35.197 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:59:35.215 +04:00 Notification is sent on same window time.
+2024-04-22 18:59:38.281 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 6:59:38 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+
+2024-04-22 18:59:38.286 +04:00 HTTP GET /css/bootstrap.min.css.map responded 404 in 0.1205 ms
+2024-04-22 18:59:45.306 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:59:45.308 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:59:49.391 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 18:59:49.416 +04:00 Notification is sent on same window time.
+2024-04-22 18:59:59.453 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 18:59:59.455 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:00:03.547 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:00:03.564 +04:00 Notification is sent on same window time.
+2024-04-22 19:00:13.616 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:00:13.618 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:00:17.712 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:00:17.729 +04:00 Notification is sent on same window time.
+2024-04-22 19:00:27.763 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:00:27.765 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:00:31.853 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:00:31.869 +04:00 Notification is sent on same window time.
+2024-04-22 19:00:41.940 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:00:41.942 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:00:46.006 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:00:46.020 +04:00 Notification is sent on same window time.
+2024-04-22 19:01:15.725 +04:00 Initializing UI Database
+2024-04-22 19:01:20.029 +04:00 Now listening on: https://localhost:7245
+2024-04-22 19:01:20.035 +04:00 Now listening on: http://localhost:5178
+2024-04-22 19:01:20.113 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-22 19:01:20.115 +04:00 Hosting environment: Development
+2024-04-22 19:01:20.121 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Web\
+2024-04-22 19:01:20.166 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:01:20.184 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:01:22.566 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 7:01:22 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 19:01:23.034 +04:00 HTTP GET / responded 200 in 417.8374 ms
+2024-04-22 19:01:24.440 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:01:24.949 +04:00 Notification is sent on same window time.
+2024-04-22 19:01:28.388 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 7:01:28 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 19:01:29.635 +04:00 HTTP GET /Account/Login responded 200 in 1244.2670 ms
+2024-04-22 19:01:35.721 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:01:35.723 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:01:39.809 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:01:39.834 +04:00 Notification is sent on same window time.
+2024-04-22 19:01:40.211 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 7:01:40 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 19:01:41.326 +04:00 HTTP POST /Account/Login responded 302 in 1107.0292 ms
+2024-04-22 19:01:41.350 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 7:01:41 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 19:01:41.965 +04:00 HTTP GET /Article/Articles responded 200 in 606.0385 ms
+2024-04-22 19:01:46.721 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = ?isAuth=True
+Time = 4/22/2024 7:01:46 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 19:01:46.859 +04:00 HTTP GET /Account/GetProfile responded 200 in 134.3002 ms
+2024-04-22 19:01:49.255 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 7:01:49 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 19:01:49.306 +04:00 HTTP GET /Article/Articles responded 200 in 33.4551 ms
+2024-04-22 19:01:49.918 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:01:49.920 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:01:53.987 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:01:54.004 +04:00 Notification is sent on same window time.
+2024-04-22 19:02:01.155 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 7:02:01 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+
+2024-04-22 19:02:01.160 +04:00 HTTP GET /css/bootstrap.min.css.map responded 404 in 1.1693 ms
+2024-04-22 19:02:04.059 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:02:04.061 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:02:08.129 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:02:08.143 +04:00 Notification is sent on same window time.
+2024-04-22 19:02:18.207 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:02:18.209 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:03:52.514 +04:00 Initializing UI Database
+2024-04-22 19:03:56.643 +04:00 Now listening on: https://localhost:7245
+2024-04-22 19:03:56.649 +04:00 Now listening on: http://localhost:5178
+2024-04-22 19:03:56.736 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-22 19:03:56.738 +04:00 Hosting environment: Development
+2024-04-22 19:03:56.747 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Web\
+2024-04-22 19:03:56.780 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:03:56.797 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:03:58.601 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 7:03:58 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 19:03:59.075 +04:00 HTTP GET / responded 200 in 430.7700 ms
+2024-04-22 19:04:01.025 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:04:01.503 +04:00 Notification is sent on same window time.
+2024-04-22 19:04:02.585 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 7:04:02 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 19:04:04.082 +04:00 HTTP GET /Account/Login responded 200 in 1494.5531 ms
+2024-04-22 19:04:08.906 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 7:04:08 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 19:04:10.004 +04:00 HTTP POST /Account/Login responded 302 in 1091.6624 ms
+2024-04-22 19:04:10.031 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 7:04:10 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 19:04:10.636 +04:00 HTTP GET /Article/Articles responded 200 in 595.8382 ms
+2024-04-22 19:04:12.312 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:04:12.314 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:04:16.375 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:04:16.392 +04:00 Notification is sent on same window time.
+2024-04-22 19:04:20.174 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 7:04:20 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 19:04:20.179 +04:00 HTTP GET /Article/Delete/276254bb-d370-4e2d-bd43-43989abd16d5 responded 405 in 0.2364 ms
+2024-04-22 19:04:24.502 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 7:04:24 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 19:04:24.603 +04:00 HTTP GET /Article/Articles responded 200 in 63.7088 ms
+2024-04-22 19:04:26.467 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:04:26.469 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:04:30.523 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:04:30.538 +04:00 Notification is sent on same window time.
+2024-04-22 19:04:40.576 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:04:40.578 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:04:44.660 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:04:44.674 +04:00 Notification is sent on same window time.
+2024-04-22 19:04:50.409 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 7:04:50 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 19:04:50.413 +04:00 HTTP GET /Article/Delete/b6070a70-84cb-4c6d-aa16-a6fde460f176 responded 405 in 0.0441 ms
+2024-04-22 19:04:54.742 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:04:54.744 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:04:55.393 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 7:04:55 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 19:04:55.433 +04:00 HTTP GET /Article/Articles responded 200 in 35.2695 ms
+2024-04-22 19:04:58.812 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:04:58.826 +04:00 Notification is sent on same window time.
+2024-04-22 19:05:08.893 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:05:08.894 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:05:12.993 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:05:13.007 +04:00 Notification is sent on same window time.
+2024-04-22 19:05:23.068 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:05:23.070 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:05:27.158 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:05:27.174 +04:00 Notification is sent on same window time.
+2024-04-22 19:05:37.239 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:05:37.241 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:05:41.344 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:05:41.359 +04:00 Notification is sent on same window time.
+2024-04-22 19:05:51.433 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:05:51.435 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:05:55.538 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:05:55.553 +04:00 Notification is sent on same window time.
+2024-04-22 19:06:05.626 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:06:05.627 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:06:09.693 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:06:09.708 +04:00 Notification is sent on same window time.
+2024-04-22 19:06:19.777 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:06:19.778 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:06:23.864 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:06:23.879 +04:00 Notification is sent on same window time.
+2024-04-22 19:06:33.909 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:06:33.911 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:06:37.971 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:06:37.986 +04:00 Notification is sent on same window time.
+2024-04-22 19:06:48.050 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:06:48.052 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:06:52.122 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:06:52.136 +04:00 Notification is sent on same window time.
+2024-04-22 19:07:02.199 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:07:02.201 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:07:06.298 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:14:19.534 +04:00 Initializing UI Database
+2024-04-22 19:14:23.879 +04:00 Now listening on: https://localhost:7245
+2024-04-22 19:14:23.885 +04:00 Now listening on: http://localhost:5178
+2024-04-22 19:14:23.959 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-22 19:14:23.961 +04:00 Hosting environment: Development
+2024-04-22 19:14:23.972 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Web\
+2024-04-22 19:14:24.014 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:14:24.034 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:14:24.983 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 7:14:24 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 19:14:25.456 +04:00 HTTP GET / responded 200 in 435.4158 ms
+2024-04-22 19:14:28.225 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 7:14:28 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 19:14:28.292 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:14:28.950 +04:00 Notification is sent on same window time.
+2024-04-22 19:14:29.667 +04:00 HTTP GET /Account/Login responded 200 in 1439.7334 ms
+2024-04-22 19:14:37.234 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 7:14:37 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 19:14:38.196 +04:00 HTTP POST /Account/Login responded 302 in 955.3072 ms
+2024-04-22 19:14:38.221 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 7:14:38 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 19:14:38.747 +04:00 HTTP GET /Article/Articles responded 200 in 517.5119 ms
+2024-04-22 19:14:40.101 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:14:40.103 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:14:44.199 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:14:44.212 +04:00 Notification is sent on same window time.
+2024-04-22 19:14:51.376 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 7:14:51 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 19:14:51.425 +04:00 HTTP POST /Article/Articles responded 200 in 43.8435 ms
+2024-04-22 19:14:52.848 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 7:14:52 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 19:14:52.905 +04:00 HTTP POST /Article/Articles responded 200 in 34.5931 ms
+2024-04-22 19:14:54.279 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:14:54.281 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:14:58.378 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:14:58.429 +04:00 Notification is sent on same window time.
+2024-04-22 19:15:08.474 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:15:08.475 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:15:12.556 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:15:12.568 +04:00 Notification is sent on same window time.
+2024-04-22 19:15:22.634 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:15:22.636 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:15:26.677 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:15:26.688 +04:00 Notification is sent on same window time.
+2024-04-22 19:15:36.754 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:15:36.760 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:15:40.835 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:15:40.850 +04:00 Notification is sent on same window time.
+2024-04-22 19:15:50.867 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:15:50.869 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:15:54.954 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:15:54.969 +04:00 Notification is sent on same window time.
+2024-04-22 19:16:05.005 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:16:05.011 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:16:09.128 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:16:09.141 +04:00 Notification is sent on same window time.
+2024-04-22 19:16:19.202 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:16:19.204 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:16:23.316 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:16:23.336 +04:00 Notification is sent on same window time.
+2024-04-22 19:16:33.416 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:16:33.418 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:16:37.519 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:16:37.530 +04:00 Notification is sent on same window time.
+2024-04-22 19:16:47.598 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:16:47.600 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:16:51.680 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:16:51.691 +04:00 Notification is sent on same window time.
+2024-04-22 19:17:01.744 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:17:01.746 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:17:05.810 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:17:05.823 +04:00 Notification is sent on same window time.
+2024-04-22 19:17:15.896 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:17:15.898 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:17:19.959 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:17:30.090 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:17:30.092 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:17:34.149 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:17:34.160 +04:00 Notification is sent on same window time.
+2024-04-22 19:17:44.200 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:17:44.202 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:17:48.290 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:17:48.302 +04:00 Notification is sent on same window time.
+2024-04-22 19:17:58.368 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:17:58.369 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:18:02.455 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:18:02.468 +04:00 Notification is sent on same window time.
+2024-04-22 19:18:12.533 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:18:12.535 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:18:16.610 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:18:16.624 +04:00 Notification is sent on same window time.
+2024-04-22 19:18:26.689 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:18:26.691 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:18:30.796 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:18:30.810 +04:00 Notification is sent on same window time.
+2024-04-22 19:18:40.873 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:18:40.874 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:18:44.961 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:18:44.972 +04:00 Notification is sent on same window time.
+2024-04-22 19:18:55.005 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:18:55.007 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:18:59.118 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:18:59.130 +04:00 Notification is sent on same window time.
+2024-04-22 19:19:09.194 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:19:09.195 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:19:13.276 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:19:13.292 +04:00 Notification is sent on same window time.
+2024-04-22 19:19:23.367 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:19:23.369 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:19:27.477 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:19:27.491 +04:00 Notification is sent on same window time.
+2024-04-22 19:19:37.550 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:19:37.552 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:19:41.651 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:19:41.661 +04:00 Notification is sent on same window time.
+2024-04-22 19:19:51.735 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:19:51.737 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:19:55.846 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:19:55.860 +04:00 Notification is sent on same window time.
+2024-04-22 19:20:05.908 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:20:05.911 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:20:09.995 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:20:10.015 +04:00 Notification is sent on same window time.
+2024-04-22 19:20:20.053 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:20:20.055 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:20:24.132 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:20:24.147 +04:00 Notification is sent on same window time.
+2024-04-22 19:20:34.214 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:20:34.216 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:20:38.320 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:20:38.342 +04:00 Notification is sent on same window time.
+2024-04-22 19:20:48.384 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:20:48.386 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:20:52.493 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:20:52.507 +04:00 Notification is sent on same window time.
+2024-04-22 19:21:02.575 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:21:02.577 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:21:06.675 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:21:06.689 +04:00 Notification is sent on same window time.
+2024-04-22 19:21:16.722 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:21:16.728 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:21:20.816 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:21:20.828 +04:00 Notification is sent on same window time.
+2024-04-22 19:21:30.891 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:21:30.893 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:21:34.994 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:21:35.015 +04:00 Notification is sent on same window time.
+2024-04-22 19:21:45.042 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:21:45.044 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:21:49.138 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:21:49.154 +04:00 Notification is sent on same window time.
+2024-04-22 19:21:59.220 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:21:59.222 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:22:03.316 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 19:22:03.330 +04:00 Notification is sent on same window time.
+2024-04-22 19:22:13.384 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 19:22:13.385 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 22:22:16.003 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 22:49:19.649 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 22:49:19.650 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 22:49:23.722 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 22:49:31.079 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = ?isAuth=True
+Time = 4/22/2024 10:49:31 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 22:49:31.187 +04:00 HTTP GET /Account/GetProfile responded 200 in 67.1318 ms
+2024-04-22 22:49:33.715 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 10:49:33 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 22:49:33.769 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 22:49:33.770 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 22:49:33.787 +04:00 HTTP GET /Article/Pending responded 200 in 34.3701 ms
+2024-04-22 22:49:37.826 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 22:49:37.833 +04:00 Notification is sent on same window time.
+2024-04-22 22:49:47.856 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 22:49:47.857 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 22:49:51.916 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 22:49:51.923 +04:00 Notification is sent on same window time.
+2024-04-22 22:50:01.932 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 22:50:01.933 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 22:50:05.972 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 22:50:05.978 +04:00 Notification is sent on same window time.
+2024-04-22 22:50:16.011 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 22:50:16.012 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 22:50:20.048 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 22:50:20.056 +04:00 Notification is sent on same window time.
+2024-04-22 22:50:25.353 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 10:50:25 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 22:50:27.514 +04:00 HTTP POST /Article/Delete responded 302 in 2159.1220 ms
+2024-04-22 22:50:27.525 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 10:50:27 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 22:50:27.541 +04:00 HTTP GET /Article/Articles responded 200 in 14.5272 ms
+2024-04-22 22:50:30.122 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 22:50:30.123 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 22:50:31.907 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = ?isAuth=True
+Time = 4/22/2024 10:50:31 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 22:50:31.924 +04:00 HTTP GET /Account/GetProfile responded 200 in 14.9392 ms
+2024-04-22 22:50:33.423 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 10:50:33 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 22:50:33.438 +04:00 HTTP GET /Article/Pending responded 200 in 12.7766 ms
+2024-04-22 22:50:34.184 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 22:50:34.191 +04:00 Notification is sent on same window time.
+2024-04-22 23:32:49.982 +04:00 Initializing UI Database
+2024-04-22 23:32:54.445 +04:00 Now listening on: https://localhost:7245
+2024-04-22 23:32:54.451 +04:00 Now listening on: http://localhost:5178
+2024-04-22 23:32:54.830 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-22 23:32:54.837 +04:00 Hosting environment: Development
+2024-04-22 23:32:54.844 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Web\
+2024-04-22 23:32:54.888 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:32:54.905 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:32:57.975 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:32:57 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 23:32:59.263 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:33:00.578 +04:00 HTTP GET / responded 200 in 457.9952 ms
+2024-04-22 23:33:05.268 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:33:05 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 23:33:06.015 +04:00 HTTP GET /Article/Articles responded 200 in 741.8025 ms
+2024-04-22 23:33:09.388 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:33:09 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 23:33:09.516 +04:00 HTTP GET /Article/Article/b6070a70-84cb-4c6d-aa16-a6fde460f176 responded 200 in 105.9865 ms
+2024-04-22 23:33:10.637 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:33:10.638 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:33:12.282 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:33:12 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 23:33:12.326 +04:00 HTTP GET /Article/Articles responded 200 in 40.9265 ms
+2024-04-22 23:33:13.643 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:33:13 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 23:33:13.687 +04:00 HTTP GET /Article/Article/276254bb-d370-4e2d-bd43-43989abd16d5 responded 200 in 40.6333 ms
+2024-04-22 23:33:13.724 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:33:13 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+
+2024-04-22 23:33:20.735 +04:00 HTTP GET /Account/GetPhoto responded 500 in 7007.3549 ms
+2024-04-22 23:33:20.737 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:33:20.800 +04:00 An unhandled exception occurred
+2024-04-22 23:33:20.812 +04:00 Notification is sent on same window time.
+2024-04-22 23:33:21.065 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = ?messageJson={%22Path%22:%22\%22/Account/GetPhoto\%22%22,%22ProblemDetails%22:{%22Type%22:null,%22Title%22:%22An%20error%20occurred%22,%22Status%22:200,%22Detail%22:%22Sorry,%20an%20error%20occurred%20while%20processing%20your%20request.%22,%22Instance%22:null,%22Extensions%22:{}},%22Errors%22:[%22Path%20cannot%20be%20null.%20(Parameter%20%27path%27)%22]}
+Time = 4/22/2024 11:33:21 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+
+2024-04-22 23:33:21.202 +04:00 HTTP GET /Home/Error responded 200 in 133.8626 ms
+2024-04-22 23:33:28.625 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:33:28 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 23:33:28.653 +04:00 HTTP GET /Article/Articles responded 200 in 24.5379 ms
+2024-04-22 23:33:30.088 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:33:30 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 23:33:30.112 +04:00 HTTP GET /Article/Article/26cc014e-77d1-41ce-a853-a9006942fca8 responded 200 in 20.5321 ms
+2024-04-22 23:33:30.162 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:33:30 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+
+2024-04-22 23:33:42.386 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:33:42 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 23:33:42.387 +04:00 HTTP GET /Account/GetPhoto responded 500 in 12220.3173 ms
+2024-04-22 23:33:42.461 +04:00 An unhandled exception occurred
+2024-04-22 23:33:42.471 +04:00 HTTP GET /Article/Articles responded 200 in 80.8379 ms
+2024-04-22 23:33:42.474 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:33:42.488 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:33:46.568 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:33:46.580 +04:00 Notification is sent on same window time.
+2024-04-22 23:33:56.600 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:33:56.601 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:34:00.698 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:34:00.711 +04:00 Notification is sent on same window time.
+2024-04-22 23:34:06.898 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:34:06 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 23:34:06.987 +04:00 HTTP POST /Article/Articles responded 200 in 73.0987 ms
+2024-04-22 23:34:07.956 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:34:07 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 23:34:07.978 +04:00 HTTP GET /Article/Article/9d233afb-9bdc-4147-addb-60a6d3b5fd42 responded 200 in 17.3583 ms
+2024-04-22 23:34:10.779 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:34:10.780 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:34:11.071 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:34:11 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 23:34:11.098 +04:00 HTTP GET /Article/Articles responded 200 in 22.7261 ms
+2024-04-22 23:34:13.636 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:34:13 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 23:34:13.677 +04:00 HTTP POST /Article/Articles responded 200 in 37.8787 ms
+2024-04-22 23:34:14.708 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:34:14 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 23:34:14.736 +04:00 HTTP GET /Article/Article/11a9e940-0757-4097-b778-027f65aed6f9 responded 200 in 24.7463 ms
+2024-04-22 23:34:14.779 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:34:14 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+
+2024-04-22 23:34:21.642 +04:00 HTTP GET /Account/GetPhoto responded 500 in 6859.2037 ms
+2024-04-22 23:34:21.645 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:34:21.705 +04:00 An unhandled exception occurred
+2024-04-22 23:34:21.723 +04:00 Notification is sent on same window time.
+2024-04-22 23:34:21.755 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = ?messageJson={%22Path%22:%22\%22/Account/GetPhoto\%22%22,%22ProblemDetails%22:{%22Type%22:null,%22Title%22:%22An%20error%20occurred%22,%22Status%22:200,%22Detail%22:%22Sorry,%20an%20error%20occurred%20while%20processing%20your%20request.%22,%22Instance%22:null,%22Extensions%22:{}},%22Errors%22:[%22Path%20cannot%20be%20null.%20(Parameter%20%27path%27)%22]}
+Time = 4/22/2024 11:34:21 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+
+2024-04-22 23:34:21.761 +04:00 HTTP GET /Home/Error responded 200 in 2.3010 ms
+2024-04-22 23:34:22.839 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:34:22 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 23:34:22.883 +04:00 HTTP GET /Article/Article/11a9e940-0757-4097-b778-027f65aed6f9 responded 200 in 41.6708 ms
+2024-04-22 23:34:22.931 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:34:22 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+
+2024-04-22 23:34:22.941 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-22 23:34:22.965 +04:00 HTTP GET /Account/GetPhoto responded 500 in 29.1266 ms
+2024-04-22 23:34:23.012 +04:00 An unhandled exception occurred
+2024-04-22 23:34:23.035 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = ?messageJson={%22Path%22:%22\%22/Account/GetPhoto\%22%22,%22ProblemDetails%22:{%22Type%22:null,%22Title%22:%22An%20error%20occurred%22,%22Status%22:200,%22Detail%22:%22Sorry,%20an%20error%20occurred%20while%20processing%20your%20request.%22,%22Instance%22:null,%22Extensions%22:{}},%22Errors%22:[%22The%20view%20%27GetPhoto%27%20was%20not%20found.%20The%20following%20locations%20were%20searched:\r\n/Views/Account/GetPhoto.cshtml\r\n/Views/Shared/GetPhoto.cshtml%22]}
+Time = 4/22/2024 11:34:23 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+
+2024-04-22 23:34:23.039 +04:00 HTTP GET /Home/Error responded 200 in 1.5927 ms
+2024-04-22 23:34:23.065 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:34:23 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+
+2024-04-22 23:34:23.069 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-22 23:34:23.075 +04:00 HTTP GET /Account/GetPhoto responded 500 in 6.8356 ms
+2024-04-22 23:34:23.118 +04:00 An unhandled exception occurred
+2024-04-22 23:34:23.162 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = ?messageJson={%22Path%22:%22\%22/Account/GetPhoto\%22%22,%22ProblemDetails%22:{%22Type%22:null,%22Title%22:%22An%20error%20occurred%22,%22Status%22:200,%22Detail%22:%22Sorry,%20an%20error%20occurred%20while%20processing%20your%20request.%22,%22Instance%22:null,%22Extensions%22:{}},%22Errors%22:[%22The%20view%20%27GetPhoto%27%20was%20not%20found.%20The%20following%20locations%20were%20searched:\r\n/Views/Account/GetPhoto.cshtml\r\n/Views/Shared/GetPhoto.cshtml%22]}
+Time = 4/22/2024 11:34:23 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+
+2024-04-22 23:34:23.172 +04:00 HTTP GET /Home/Error responded 200 in 2.0358 ms
+2024-04-22 23:34:31.762 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:34:31.763 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:34:34.712 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:34:34 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+
+2024-04-22 23:34:34.715 +04:00 HTTP GET /css/bootstrap.min.css.map responded 404 in 0.1339 ms
+2024-04-22 23:34:35.820 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:34:35.839 +04:00 Notification is sent on same window time.
+2024-04-22 23:34:45.888 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:34:45.890 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:34:49.942 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:34:49.953 +04:00 Notification is sent on same window time.
+2024-04-22 23:34:59.964 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:34:59.966 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:35:02.929 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:35:02 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 23:35:02.932 +04:00 HTTP GET //Account/GetPhoto responded 404 in 0.0152 ms
+2024-04-22 23:35:04.046 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:35:04.057 +04:00 Notification is sent on same window time.
+2024-04-22 23:35:07.861 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:35:07 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 23:35:07.866 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-22 23:35:07.872 +04:00 HTTP GET /Account/GetPhoto responded 500 in 8.6639 ms
+2024-04-22 23:35:07.917 +04:00 An unhandled exception occurred
+2024-04-22 23:35:07.939 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = ?messageJson={%22Path%22:%22\%22/Account/GetPhoto\%22%22,%22ProblemDetails%22:{%22Type%22:null,%22Title%22:%22An%20error%20occurred%22,%22Status%22:200,%22Detail%22:%22Sorry,%20an%20error%20occurred%20while%20processing%20your%20request.%22,%22Instance%22:null,%22Extensions%22:{}},%22Errors%22:[%22The%20view%20%27GetPhoto%27%20was%20not%20found.%20The%20following%20locations%20were%20searched:\r\n/Views/Account/GetPhoto.cshtml\r\n/Views/Shared/GetPhoto.cshtml%22]}
+Time = 4/22/2024 11:35:07 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 23:35:07.964 +04:00 HTTP GET /Home/Error responded 200 in 20.5488 ms
+2024-04-22 23:35:14.122 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:35:14.124 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:35:18.214 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:35:18.228 +04:00 Notification is sent on same window time.
+2024-04-22 23:35:28.291 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:35:28.292 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:35:32.361 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:35:32.373 +04:00 Notification is sent on same window time.
+2024-04-22 23:35:42.436 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:35:42.442 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:35:46.527 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:35:46.539 +04:00 Notification is sent on same window time.
+2024-04-22 23:35:56.610 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:35:56.612 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:36:00.694 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:36:00.706 +04:00 Notification is sent on same window time.
+2024-04-22 23:36:10.772 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:36:10.774 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:36:11.966 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:36:11 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 23:36:11.969 +04:00 HTTP GET /Account/GetPhoto/C:/Users/user/source/repos/GiorgiMatcharadze/Forum/Forum/Images/string1@gmail.com/string1@gmail.com.png responded 404 in 0.0077 ms
+2024-04-22 23:36:14.838 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:36:14.848 +04:00 Notification is sent on same window time.
+2024-04-22 23:36:24.924 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:36:24.926 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:36:28.973 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:36:28.991 +04:00 Notification is sent on same window time.
+2024-04-22 23:36:33.249 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/22/2024 11:36:33 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-22 23:36:33.252 +04:00 HTTP GET /Account/GetPhoto/path = "C:/Users/user/source/repos/GiorgiMatcharadze/Forum/Forum/Images/string1@gmail.com/string1@gmail.com.png" responded 404 in 0.0071 ms
+2024-04-22 23:36:39.066 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:36:39.067 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:36:43.145 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:36:43.157 +04:00 Notification is sent on same window time.
+2024-04-22 23:36:53.233 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:36:53.235 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:36:57.352 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:36:57.363 +04:00 Notification is sent on same window time.
+2024-04-22 23:37:07.430 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:37:07.431 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:37:11.534 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:37:11.546 +04:00 Notification is sent on same window time.
+2024-04-22 23:37:21.609 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:37:21.611 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:37:25.715 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:37:25.726 +04:00 Notification is sent on same window time.
+2024-04-22 23:37:35.784 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:37:35.796 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:37:39.907 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:37:39.921 +04:00 Notification is sent on same window time.
+2024-04-22 23:37:49.990 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:37:49.992 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:37:54.095 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:37:54.111 +04:00 Notification is sent on same window time.
+2024-04-22 23:38:04.164 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:38:04.166 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:38:08.273 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:38:08.286 +04:00 Notification is sent on same window time.
+2024-04-22 23:38:18.340 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:38:18.343 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:38:22.440 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:38:22.450 +04:00 Notification is sent on same window time.
+2024-04-22 23:38:32.474 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:38:32.476 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:38:36.598 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:38:36.614 +04:00 Notification is sent on same window time.
+2024-04-22 23:38:46.647 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:38:46.648 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:38:50.749 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:38:50.762 +04:00 Notification is sent on same window time.
+2024-04-22 23:39:00.781 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:39:00.783 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:39:04.862 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:39:04.872 +04:00 Notification is sent on same window time.
+2024-04-22 23:39:14.934 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:39:14.936 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:39:19.030 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:39:19.041 +04:00 Notification is sent on same window time.
+2024-04-22 23:39:29.108 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:39:29.111 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:39:33.191 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:39:33.205 +04:00 Notification is sent on same window time.
+2024-04-22 23:39:43.283 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:39:43.285 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:39:47.346 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:39:47.400 +04:00 Notification is sent on same window time.
+2024-04-22 23:39:57.435 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:39:57.437 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:40:01.506 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:40:01.519 +04:00 Notification is sent on same window time.
+2024-04-22 23:40:11.582 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:40:11.584 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:40:15.664 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:40:15.674 +04:00 Notification is sent on same window time.
+2024-04-22 23:40:25.734 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:40:25.736 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:40:29.815 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:40:29.845 +04:00 Notification is sent on same window time.
+2024-04-22 23:40:39.922 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:40:39.925 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:40:44.025 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:40:44.041 +04:00 Notification is sent on same window time.
+2024-04-22 23:40:54.077 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:40:54.080 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:40:58.188 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:40:58.200 +04:00 Notification is sent on same window time.
+2024-04-22 23:41:08.276 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:41:08.278 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:41:12.374 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:41:12.389 +04:00 Notification is sent on same window time.
+2024-04-22 23:41:22.452 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:41:22.455 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:41:26.543 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:41:26.561 +04:00 Notification is sent on same window time.
+2024-04-22 23:41:36.637 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:41:36.639 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:41:40.720 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:41:40.738 +04:00 Notification is sent on same window time.
+2024-04-22 23:41:50.758 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:41:50.759 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-22 23:41:54.822 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-22 23:41:54.840 +04:00 Notification is sent on same window time.

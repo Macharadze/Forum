@@ -1,0 +1,14 @@
+2024-04-25 11:26:33.724 +04:00 An exception occurred in the database while saving changes for context type 'Forum.Persistence.Context.DataContext'.
+System.InvalidOperationException: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+   at Microsoft.EntityFrameworkCore.Infrastructure.Internal.ConcurrencyDetector.EnterCriticalSection()
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+2024-04-25 18:56:44.458 +04:00 Now listening on: https://localhost:7283
+2024-04-25 18:56:44.501 +04:00 Now listening on: http://localhost:5001
+2024-04-25 18:56:44.503 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-25 18:56:44.504 +04:00 Hosting environment: Development
+2024-04-25 18:56:44.505 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Api\
+2024-04-25 18:57:41.372 +04:00 Something went wrong: Object reference not set to an instance of an object.

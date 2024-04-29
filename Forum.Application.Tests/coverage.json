@@ -1,0 +1,6310 @@
+{
+  "Forum.Api.dll": {
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Program.cs": {
+      "Program": {
+        "System.Void Program::<Main>$(System.String[])": {
+          "Lines": {
+            "11": 0,
+            "13": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "26": 0,
+            "28": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "36": 0,
+            "38": 0,
+            "40": 0,
+            "41": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "50": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "62": 0,
+            "64": 0,
+            "65": 0,
+            "67": 0,
+            "71": 0
+          },
+          "Branches": [
+            {
+              "Line": 53,
+              "Offset": 537,
+              "EndOffset": 539,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 53,
+              "Offset": 537,
+              "EndOffset": 557,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Models\\ChangePasswordModel.cs": {
+      "Forum.Api.Models.ChangePasswordModel": {
+        "System.String Forum.Api.Models.ChangePasswordModel::get_oldPassword()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Api.Models.ChangePasswordModel::get_newPassword()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Api.Models.ChangePasswordModel::get_ConfirmPassword()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Models\\ErrorDetails.cs": {
+      "Forum.Api.Models.ErrorDetails": {
+        "System.Int32 Forum.Api.Models.ErrorDetails::get_StatusCode()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Api.Models.ErrorDetails::get_Message()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Api.Models.ErrorDetails::ToString()": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "12": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Infrastructure\\Validations\\ArticleValidation.cs": {
+      "Forum.Api.Infrastructure.Validations.ArticleValidation": {
+        "System.Void Forum.Api.Infrastructure.Validations.ArticleValidation::.ctor()": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Infrastructure\\Validations\\CommentValidation.cs": {
+      "Forum.Api.Infrastructure.Validations.CommentValidation": {
+        "System.Void Forum.Api.Infrastructure.Validations.CommentValidation::.ctor()": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Infrastructure\\Validations\\UserVlidation.cs": {
+      "Forum.Api.Infrastructure.Validations.UserVlidation": {
+        "System.Boolean Forum.Api.Infrastructure.Validations.UserVlidation::ContainUniqueCharacters(System.String)": {
+          "Lines": {
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        },
+        "System.Void Forum.Api.Infrastructure.Validations.UserVlidation::.ctor()": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Infrastructure\\Middlewares\\CultureMiddleware.cs": {
+      "Forum.Api.Infrastructure.Middlewares.CultureMiddleware": {
+        "System.Void Forum.Api.Infrastructure.Middlewares.CultureMiddleware::.ctor(Microsoft.AspNetCore.Http.RequestDelegate)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Infrastructure.Middlewares.CultureMiddleware/<Invoke>d__2": {
+        "System.Void Forum.Api.Infrastructure.Middlewares.CultureMiddleware/<Invoke>d__2::MoveNext()": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "33": 0,
+            "34": 0
+          },
+          "Branches": [
+            {
+              "Line": 19,
+              "Offset": 96,
+              "EndOffset": 98,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 19,
+              "Offset": 96,
+              "EndOffset": 133,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Infrastructure\\Middlewares\\ErrorHandlingMiddleware.cs": {
+      "Forum.Api.Infrastructure.Middlewares.ErrorHandlingMiddleware": {
+        "System.Void Forum.Api.Infrastructure.Middlewares.ErrorHandlingMiddleware::.ctor(Microsoft.AspNetCore.Http.RequestDelegate)": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Infrastructure.Middlewares.ErrorHandlingMiddleware/<HandleExceptionAsync>d__3": {
+        "System.Void Forum.Api.Infrastructure.Middlewares.ErrorHandlingMiddleware/<HandleExceptionAsync>d__3::MoveNext()": {
+          "Lines": {
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Infrastructure.Middlewares.ErrorHandlingMiddleware/<Invoke>d__2": {
+        "System.Void Forum.Api.Infrastructure.Middlewares.ErrorHandlingMiddleware/<Invoke>d__2::MoveNext()": {
+          "Lines": {
+            "17": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "25": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Infrastructure\\Middlewares\\RequestResponseMiddleware.cs": {
+      "Forum.Api.Infrastructure.Middlewares.RequestResponseMiddleware": {
+        "System.Void Forum.Api.Infrastructure.Middlewares.RequestResponseMiddleware::.ctor(Microsoft.AspNetCore.Http.RequestDelegate)": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Infrastructure.Middlewares.RequestResponseMiddleware/<Invoke>d__2": {
+        "System.Void Forum.Api.Infrastructure.Middlewares.RequestResponseMiddleware/<Invoke>d__2::MoveNext()": {
+          "Lines": {
+            "14": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Infrastructure.Middlewares.RequestResponseMiddleware/<LogError>d__4": {
+        "System.Void Forum.Api.Infrastructure.Middlewares.RequestResponseMiddleware/<LogError>d__4::MoveNext()": {
+          "Lines": {
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Infrastructure.Middlewares.RequestResponseMiddleware/<LogRequestAndResponse>d__3": {
+        "System.Void Forum.Api.Infrastructure.Middlewares.RequestResponseMiddleware/<LogRequestAndResponse>d__3::MoveNext()": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Infrastructure\\MapsterConfiguration\\MapsterConfig.cs": {
+      "Forum.Api.Infrastructure.MapsterConfiguration.MapsterConfig": {
+        "System.Void Forum.Api.Infrastructure.MapsterConfiguration.MapsterConfig::RegisterMaps(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Infrastructure\\Localization\\Language.Designer.cs": {
+      "Forum.Api.Infrastructure.Localization.Language": {
+        "System.Resources.ResourceManager Forum.Api.Infrastructure.Localization.Language::get_ResourceManager()": {
+          "Lines": {
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0
+          },
+          "Branches": [
+            {
+              "Line": 41,
+              "Offset": 11,
+              "EndOffset": 13,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 11,
+              "EndOffset": 47,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Globalization.CultureInfo Forum.Api.Infrastructure.Localization.Language::get_Culture()": {
+          "Lines": {
+            "55": 0,
+            "56": 0,
+            "57": 0
+          },
+          "Branches": []
+        },
+        "System.Void Forum.Api.Infrastructure.Localization.Language::set_Culture(System.Globalization.CultureInfo)": {
+          "Lines": {
+            "58": 0,
+            "59": 0,
+            "60": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Api.Infrastructure.Localization.Language::get_Ban()": {
+          "Lines": {
+            "67": 0,
+            "68": 0,
+            "69": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Api.Infrastructure.Localization.Language::get_CommentIsNotAllowed()": {
+          "Lines": {
+            "76": 0,
+            "77": 0,
+            "78": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Api.Infrastructure.Localization.Language::get_Conflict()": {
+          "Lines": {
+            "85": 0,
+            "86": 0,
+            "87": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Api.Infrastructure.Localization.Language::get_Create()": {
+          "Lines": {
+            "94": 0,
+            "95": 0,
+            "96": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Api.Infrastructure.Localization.Language::get_Delete()": {
+          "Lines": {
+            "103": 0,
+            "104": 0,
+            "105": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Api.Infrastructure.Localization.Language::get_LogOut()": {
+          "Lines": {
+            "112": 0,
+            "113": 0,
+            "114": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Api.Infrastructure.Localization.Language::get_PasswordIsNotCorrect()": {
+          "Lines": {
+            "121": 0,
+            "122": 0,
+            "123": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Api.Infrastructure.Localization.Language::get_Update()": {
+          "Lines": {
+            "130": 0,
+            "131": 0,
+            "132": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Api.Infrastructure.Localization.Language::get_UserDoesNotExists()": {
+          "Lines": {
+            "139": 0,
+            "140": 0,
+            "141": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Api.Infrastructure.Localization.Language::get_UserIsNotAllowedToCreatePost()": {
+          "Lines": {
+            "148": 0,
+            "149": 0,
+            "150": 0
+          },
+          "Branches": []
+        },
+        "System.Void Forum.Api.Infrastructure.Localization.Language::.ctor()": {
+          "Lines": {
+            "32": 0,
+            "33": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Infrastructure\\Extensions\\ApiVersioningConfigExtension.cs": {
+      "Forum.Api.Infrastructure.Extensions.ApiVersioningConfigExtension": {
+        "System.Void Forum.Api.Infrastructure.Extensions.ApiVersioningConfigExtension::ConfigureApiVersioning(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Infrastructure\\Extensions\\AuthExtension.cs": {
+      "Forum.Api.Infrastructure.Extensions.AuthExtension": {
+        "Microsoft.Extensions.DependencyInjection.IServiceCollection Forum.Api.Infrastructure.Extensions.AuthExtension::AddTokenAuth(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.String)": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Infrastructure\\Extensions\\CultureExtention.cs": {
+      "Forum.Api.Infrastructure.Extensions.CultureExtention": {
+        "Microsoft.AspNetCore.Builder.IApplicationBuilder Forum.Api.Infrastructure.Extensions.CultureExtention::UseCultureMiddleware(Microsoft.AspNetCore.Builder.IApplicationBuilder)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Infrastructure\\Extensions\\HandlerExtension.cs": {
+      "Forum.Api.Infrastructure.Extensions.HandlerExtension": {
+        "Microsoft.AspNetCore.Builder.IApplicationBuilder Forum.Api.Infrastructure.Extensions.HandlerExtension::UseHandlerMiddleware(Microsoft.AspNetCore.Builder.IApplicationBuilder)": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Infrastructure\\Extensions\\IdentityConfigurationExtension.cs": {
+      "Forum.Api.Infrastructure.Extensions.IdentityConfigurationExtension": {
+        "System.Void Forum.Api.Infrastructure.Extensions.IdentityConfigurationExtension::ConfigureIdentity(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Infrastructure\\Extensions\\RequestResponseExtension.cs": {
+      "Forum.Api.Infrastructure.Extensions.RequestResponseExtension": {
+        "Microsoft.AspNetCore.Builder.IApplicationBuilder Forum.Api.Infrastructure.Extensions.RequestResponseExtension::UseRequestResponseMiddleware(Microsoft.AspNetCore.Builder.IApplicationBuilder)": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Infrastructure\\Extensions\\ServiceExtension.cs": {
+      "Forum.Api.Infrastructure.Extensions.ServiceExtension": {
+        "System.Void Forum.Api.Infrastructure.Extensions.ServiceExtension::AddServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "36": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Infrastructure\\Extensions\\SwaggerConfigExtension.cs": {
+      "Forum.Api.Infrastructure.Extensions.SwaggerConfigExtension": {
+        "System.Void Forum.Api.Infrastructure.Extensions.SwaggerConfigExtension::ConfigureSwagger(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Infrastructure\\Auth\\JWTConfiguration.cs": {
+      "Forum.Api.Infrastructure.Auth.JWTConfiguration": {
+        "System.String Forum.Api.Infrastructure.Auth.JWTConfiguration::get_Secret()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 Forum.Api.Infrastructure.Auth.JWTConfiguration::get_ExpirationInMinutes()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Infrastructure\\Auth\\JWTHelper.cs": {
+      "Forum.Api.Infrastructure.Auth.JWTHelper": {
+        "System.String Forum.Api.Infrastructure.Auth.JWTHelper::GenerateSecurityToken(Microsoft.Extensions.Options.IOptions`1<Forum.Api.Infrastructure.Auth.JWTConfiguration>,System.Collections.Generic.List`1<System.Security.Claims.Claim>)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "27": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Controllers\\AccountController.cs": {
+      "Forum.Api.Controllers.AccountController": {
+        "System.Void Forum.Api.Controllers.AccountController::.ctor(Forum.Application.IUser.IUserService,Microsoft.Extensions.Options.IOptions`1<Forum.Api.Infrastructure.Auth.JWTConfiguration>)": {
+          "Lines": {
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Controllers.AccountController/<BanAccount>d__6": {
+        "System.Void Forum.Api.Controllers.AccountController/<BanAccount>d__6::MoveNext()": {
+          "Lines": {
+            "132": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "143": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Controllers.AccountController/<ChangePassword>d__15": {
+        "System.Void Forum.Api.Controllers.AccountController/<ChangePassword>d__15::MoveNext()": {
+          "Lines": {
+            "343": 0,
+            "345": 0,
+            "346": 0,
+            "348": 0,
+            "350": 0,
+            "351": 0,
+            "352": 0,
+            "354": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Controllers.AccountController/<Delete>d__7": {
+        "System.Void Forum.Api.Controllers.AccountController/<Delete>d__7::MoveNext()": {
+          "Lines": {
+            "157": 0,
+            "159": 0,
+            "160": 0,
+            "161": 0,
+            "163": 0,
+            "164": 0,
+            "165": 0,
+            "168": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Controllers.AccountController/<GetAll>d__8": {
+        "System.Void Forum.Api.Controllers.AccountController/<GetAll>d__8::MoveNext()": {
+          "Lines": {
+            "180": 0,
+            "181": 0,
+            "182": 0,
+            "183": 0,
+            "185": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Controllers.AccountController/<GetAllArticles>d__14": {
+        "System.Void Forum.Api.Controllers.AccountController/<GetAllArticles>d__14::MoveNext()": {
+          "Lines": {
+            "316": 0,
+            "318": 0,
+            "319": 0,
+            "320": 0,
+            "321": 0,
+            "323": 0,
+            "324": 0,
+            "325": 0,
+            "328": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Controllers.AccountController/<GetAllComments>d__13": {
+        "System.Void Forum.Api.Controllers.AccountController/<GetAllComments>d__13::MoveNext()": {
+          "Lines": {
+            "290": 0,
+            "292": 0,
+            "293": 0,
+            "295": 0,
+            "296": 0,
+            "298": 0,
+            "299": 0,
+            "300": 0,
+            "303": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Controllers.AccountController/<GetByEmail>d__12": {
+        "System.Void Forum.Api.Controllers.AccountController/<GetByEmail>d__12::MoveNext()": {
+          "Lines": {
+            "266": 0,
+            "268": 0,
+            "269": 0,
+            "270": 0,
+            "271": 0,
+            "273": 0,
+            "274": 0,
+            "275": 0,
+            "278": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Controllers.AccountController/<GetById>d__9": {
+        "System.Void Forum.Api.Controllers.AccountController/<GetById>d__9::MoveNext()": {
+          "Lines": {
+            "199": 0,
+            "201": 0,
+            "202": 0,
+            "203": 0,
+            "204": 0,
+            "206": 0,
+            "207": 0,
+            "208": 0,
+            "211": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Controllers.AccountController/<Login>d__5": {
+        "System.Void Forum.Api.Controllers.AccountController/<Login>d__5::MoveNext()": {
+          "Lines": {
+            "98": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "117": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Controllers.AccountController/<Logout>d__4": {
+        "System.Void Forum.Api.Controllers.AccountController/<Logout>d__4::MoveNext()": {
+          "Lines": {
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Controllers.AccountController/<Register>d__3": {
+        "System.Void Forum.Api.Controllers.AccountController/<Register>d__3::MoveNext()": {
+          "Lines": {
+            "54": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "63": 0,
+            "65": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "72": 0
+          },
+          "Branches": [
+            {
+              "Line": 59,
+              "Offset": 206,
+              "EndOffset": 208,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 59,
+              "Offset": 206,
+              "EndOffset": 237,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Api.Controllers.AccountController/<Update>d__10": {
+        "System.Void Forum.Api.Controllers.AccountController/<Update>d__10::MoveNext()": {
+          "Lines": {
+            "224": 0,
+            "226": 0,
+            "227": 0,
+            "228": 0,
+            "230": 0,
+            "231": 0,
+            "232": 0,
+            "235": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Controllers.AccountController/<UploadImage>d__11": {
+        "System.Void Forum.Api.Controllers.AccountController/<UploadImage>d__11::MoveNext()": {
+          "Lines": {
+            "247": 0,
+            "249": 0,
+            "250": 0,
+            "252": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Controllers\\ArticleController.cs": {
+      "Forum.Api.Controllers.ArticleController": {
+        "System.Void Forum.Api.Controllers.ArticleController::.ctor(Forum.Application.IArticle.IArticleService)": {
+          "Lines": {
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Controllers.ArticleController/<Accept>d__8": {
+        "System.Void Forum.Api.Controllers.ArticleController/<Accept>d__8::MoveNext()": {
+          "Lines": {
+            "172": 0,
+            "174": 0,
+            "175": 0,
+            "177": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Controllers.ArticleController/<CreateArticle>d__3": {
+        "System.Void Forum.Api.Controllers.ArticleController/<CreateArticle>d__3::MoveNext()": {
+          "Lines": {
+            "68": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "77": 0,
+            "78": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "84": 0
+          },
+          "Branches": [
+            {
+              "Line": 73,
+              "Offset": 206,
+              "EndOffset": 208,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 73,
+              "Offset": 206,
+              "EndOffset": 237,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Api.Controllers.ArticleController/<DeleteArticle>d__4": {
+        "System.Void Forum.Api.Controllers.ArticleController/<DeleteArticle>d__4::MoveNext()": {
+          "Lines": {
+            "98": 0,
+            "100": 0,
+            "101": 0,
+            "103": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Controllers.ArticleController/<GetAllArticles>d__5": {
+        "System.Void Forum.Api.Controllers.ArticleController/<GetAllArticles>d__5::MoveNext()": {
+          "Lines": {
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "121": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Controllers.ArticleController/<GetArticle>d__6": {
+        "System.Void Forum.Api.Controllers.ArticleController/<GetArticle>d__6::MoveNext()": {
+          "Lines": {
+            "134": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "140": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Controllers.ArticleController/<GetComments>d__2": {
+        "System.Void Forum.Api.Controllers.ArticleController/<GetComments>d__2::MoveNext()": {
+          "Lines": {
+            "46": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "53": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Controllers.ArticleController/<GetPendingArticles>d__7": {
+        "System.Void Forum.Api.Controllers.ArticleController/<GetPendingArticles>d__7::MoveNext()": {
+          "Lines": {
+            "152": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "158": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Controllers.ArticleController/<Update>d__9": {
+        "System.Void Forum.Api.Controllers.ArticleController/<Update>d__9::MoveNext()": {
+          "Lines": {
+            "190": 0,
+            "192": 0,
+            "193": 0,
+            "195": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Api\\Controllers\\CommentController.cs": {
+      "Forum.Api.Controllers.CommentController": {
+        "System.Void Forum.Api.Controllers.CommentController::.ctor(Forum.Application.IComment.ICommentService)": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Controllers.CommentController/<CreateComment>d__2": {
+        "System.Void Forum.Api.Controllers.CommentController/<CreateComment>d__2::MoveNext()": {
+          "Lines": {
+            "45": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "54": 0,
+            "55": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "61": 0
+          },
+          "Branches": [
+            {
+              "Line": 50,
+              "Offset": 206,
+              "EndOffset": 208,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 50,
+              "Offset": 206,
+              "EndOffset": 237,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Api.Controllers.CommentController/<DeleteComment>d__3": {
+        "System.Void Forum.Api.Controllers.CommentController/<DeleteComment>d__3::MoveNext()": {
+          "Lines": {
+            "74": 0,
+            "76": 0,
+            "77": 0,
+            "79": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Api.Controllers.CommentController/<GetCommentById>d__4": {
+        "System.Void Forum.Api.Controllers.CommentController/<GetCommentById>d__4::MoveNext()": {
+          "Lines": {
+            "93": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "99": 0,
+            "101": 0,
+            "103": 0
+          },
+          "Branches": [
+            {
+              "Line": 96,
+              "Offset": 170,
+              "EndOffset": 172,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 96,
+              "Offset": 170,
+              "EndOffset": 196,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Forum.Application.dll": {
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Application\\MapsterConfiguration\\MapsterConfig.cs": {
+      "Forum.Application.MapsterConfiguration.MapsterConfig": {
+        "System.Void Forum.Application.MapsterConfiguration.MapsterConfig::RegisterMaps(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "8": 0,
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Application\\IUser\\UserSerrvice.cs": {
+      "Forum.Application.IUser.UserSerrvice": {
+        "System.Void Forum.Application.IUser.UserSerrvice::.ctor(Forum.Application.UOW.IUserUOW)": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Application.IUser.UserSerrvice/<BanAccount>d__2": {
+        "System.Void Forum.Application.IUser.UserSerrvice/<BanAccount>d__2::MoveNext()": {
+          "Lines": {
+            "20": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "36": 0
+          },
+          "Branches": [
+            {
+              "Line": 23,
+              "Offset": 189,
+              "EndOffset": 191,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 189,
+              "EndOffset": 203,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Application.IUser.UserSerrvice/<ChangePassword>d__17": {
+        "System.Void Forum.Application.IUser.UserSerrvice/<ChangePassword>d__17::MoveNext()": {
+          "Lines": {
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "190": 0,
+            "191": 0,
+            "192": 0
+          },
+          "Branches": [
+            {
+              "Line": 186,
+              "Offset": 48,
+              "EndOffset": 50,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 186,
+              "Offset": 48,
+              "EndOffset": 62,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Application.IUser.UserSerrvice/<Create>d__4": {
+        "System.Void Forum.Application.IUser.UserSerrvice/<Create>d__4::MoveNext()": {
+          "Lines": {
+            "55": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "61": 0,
+            "64": 0
+          },
+          "Branches": [
+            {
+              "Line": 57,
+              "Offset": 171,
+              "EndOffset": 173,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 57,
+              "Offset": 171,
+              "EndOffset": 185,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Application.IUser.UserSerrvice/<Delete>d__6": {
+        "System.Void Forum.Application.IUser.UserSerrvice/<Delete>d__6::MoveNext()": {
+          "Lines": {
+            "73": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "79": 0,
+            "81": 0
+          },
+          "Branches": [
+            {
+              "Line": 75,
+              "Offset": 169,
+              "EndOffset": 171,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 75,
+              "Offset": 169,
+              "EndOffset": 183,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Application.IUser.UserSerrvice/<DeleteIMage>d__7": {
+        "System.Void Forum.Application.IUser.UserSerrvice/<DeleteIMage>d__7::MoveNext()": {
+          "Lines": {
+            "84": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "90": 0,
+            "91": 0,
+            "94": 0
+          },
+          "Branches": [
+            {
+              "Line": 86,
+              "Offset": 183,
+              "EndOffset": 185,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 86,
+              "Offset": 183,
+              "EndOffset": 197,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Application.IUser.UserSerrvice/<GetAll>d__8": {
+        "System.Void Forum.Application.IUser.UserSerrvice/<GetAll>d__8::MoveNext()": {
+          "Lines": {
+            "97": 0,
+            "99": 0,
+            "101": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Application.IUser.UserSerrvice/<GetAllArticles>d__14": {
+        "System.Void Forum.Application.IUser.UserSerrvice/<GetAllArticles>d__14::MoveNext()": {
+          "Lines": {
+            "162": 0,
+            "164": 0,
+            "165": 0,
+            "166": 0,
+            "168": 0,
+            "171": 0
+          },
+          "Branches": [
+            {
+              "Line": 164,
+              "Offset": 170,
+              "EndOffset": 172,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 164,
+              "Offset": 170,
+              "EndOffset": 184,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Application.IUser.UserSerrvice/<GetAllComments>d__13": {
+        "System.Void Forum.Application.IUser.UserSerrvice/<GetAllComments>d__13::MoveNext()": {
+          "Lines": {
+            "149": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "155": 0,
+            "159": 0
+          },
+          "Branches": [
+            {
+              "Line": 151,
+              "Offset": 170,
+              "EndOffset": 172,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 151,
+              "Offset": 170,
+              "EndOffset": 184,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Application.IUser.UserSerrvice/<GetByEmail>d__12": {
+        "System.Void Forum.Application.IUser.UserSerrvice/<GetByEmail>d__12::MoveNext()": {
+          "Lines": {
+            "137": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "143": 0,
+            "146": 0
+          },
+          "Branches": [
+            {
+              "Line": 139,
+              "Offset": 170,
+              "EndOffset": 172,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 139,
+              "Offset": 170,
+              "EndOffset": 184,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Application.IUser.UserSerrvice/<GetById>d__9": {
+        "System.Void Forum.Application.IUser.UserSerrvice/<GetById>d__9::MoveNext()": {
+          "Lines": {
+            "104": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "110": 0,
+            "113": 0
+          },
+          "Branches": [
+            {
+              "Line": 106,
+              "Offset": 170,
+              "EndOffset": 172,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 106,
+              "Offset": 170,
+              "EndOffset": 184,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Application.IUser.UserSerrvice/<GetCurrentUser>d__16": {
+        "System.Void Forum.Application.IUser.UserSerrvice/<GetCurrentUser>d__16::MoveNext()": {
+          "Lines": {
+            "179": 0,
+            "180": 0,
+            "181": 0,
+            "182": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Application.IUser.UserSerrvice/<Login>d__5": {
+        "System.Void Forum.Application.IUser.UserSerrvice/<Login>d__5::MoveNext()": {
+          "Lines": {
+            "67": 0,
+            "69": 0,
+            "71": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Application.IUser.UserSerrvice/<Logout>d__15": {
+        "System.Void Forum.Application.IUser.UserSerrvice/<Logout>d__15::MoveNext()": {
+          "Lines": {
+            "174": 0,
+            "175": 0,
+            "176": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Application.IUser.UserSerrvice/<UnBanAccount>d__3": {
+        "System.Void Forum.Application.IUser.UserSerrvice/<UnBanAccount>d__3::MoveNext()": {
+          "Lines": {
+            "38": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "53": 0
+          },
+          "Branches": [
+            {
+              "Line": 38,
+              "Offset": 26,
+              "EndOffset": 37,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 26,
+              "EndOffset": 197,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 42,
+              "Offset": 543,
+              "EndOffset": 222,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 388,
+              "EndOffset": 393,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 388,
+              "EndOffset": 524,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 42,
+              "Offset": 543,
+              "EndOffset": 548,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Application.IUser.UserSerrvice/<Update>d__10": {
+        "System.Void Forum.Application.IUser.UserSerrvice/<Update>d__10::MoveNext()": {
+          "Lines": {
+            "116": 0,
+            "119": 0,
+            "121": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Application.IUser.UserSerrvice/<UploadImage>d__11": {
+        "System.Void Forum.Application.IUser.UserSerrvice/<UploadImage>d__11::MoveNext()": {
+          "Lines": {
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "131": 0,
+            "132": 0,
+            "134": 0
+          },
+          "Branches": [
+            {
+              "Line": 125,
+              "Offset": 183,
+              "EndOffset": 185,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 125,
+              "Offset": 183,
+              "EndOffset": 197,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Application\\IComment\\CommentService.cs": {
+      "Forum.Application.IComment.CommentService": {
+        "System.Void Forum.Application.IComment.CommentService::.ctor(Forum.Application.UOW.ICommentUOW)": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Application.IComment.CommentService/<CreateAsync>d__2": {
+        "System.Void Forum.Application.IComment.CommentService/<CreateAsync>d__2::MoveNext()": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": [
+            {
+              "Line": 24,
+              "Offset": 326,
+              "EndOffset": 328,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 326,
+              "EndOffset": 340,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Application.IComment.CommentService/<DeleteAsync>d__3": {
+        "System.Void Forum.Application.IComment.CommentService/<DeleteAsync>d__3::MoveNext()": {
+          "Lines": {
+            "32": 0,
+            "33": 0,
+            "34": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Application.IComment.CommentService/<GetByIdAsync>d__4": {
+        "System.Void Forum.Application.IComment.CommentService/<GetByIdAsync>d__4::MoveNext()": {
+          "Lines": {
+            "37": 0,
+            "38": 0,
+            "40": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Application.IComment.CommentService/<OwnerAccount>d__5": {
+        "System.Void Forum.Application.IComment.CommentService/<OwnerAccount>d__5::MoveNext()": {
+          "Lines": {
+            "44": 0,
+            "46": 0,
+            "48": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Application.IComment.CommentService/<OwnerArticle>d__6": {
+        "System.Void Forum.Application.IComment.CommentService/<OwnerArticle>d__6::MoveNext()": {
+          "Lines": {
+            "51": 0,
+            "53": 0,
+            "55": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Application\\IArticle\\ArticleService.cs": {
+      "Forum.Application.IArticle.ArticleService": {
+        "System.Void Forum.Application.IArticle.ArticleService::.ctor(Forum.Application.UOW.IArticleUOW)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Application.IArticle.ArticleService/<Comments>d__2": {
+        "System.Void Forum.Application.IArticle.ArticleService/<Comments>d__2::MoveNext()": {
+          "Lines": {
+            "21": 0,
+            "23": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Application.IArticle.ArticleService/<Create>d__3": {
+        "System.Void Forum.Application.IArticle.ArticleService/<Create>d__3::MoveNext()": {
+          "Lines": {
+            "28": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "34": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Application.IArticle.ArticleService/<DeActive>d__4": {
+        "System.Void Forum.Application.IArticle.ArticleService/<DeActive>d__4::MoveNext()": {
+          "Lines": {
+            "37": 0,
+            "39": 0,
+            "41": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Application.IArticle.ArticleService/<Delete>d__5": {
+        "System.Void Forum.Application.IArticle.ArticleService/<Delete>d__5::MoveNext()": {
+          "Lines": {
+            "44": 0,
+            "46": 0,
+            "48": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Application.IArticle.ArticleService/<GetAll>d__6": {
+        "System.Void Forum.Application.IArticle.ArticleService/<GetAll>d__6::MoveNext()": {
+          "Lines": {
+            "51": 0,
+            "53": 0,
+            "55": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Application.IArticle.ArticleService/<GetAllArticlesByEmail>d__7": {
+        "System.Void Forum.Application.IArticle.ArticleService/<GetAllArticlesByEmail>d__7::MoveNext()": {
+          "Lines": {
+            "58": 0,
+            "59": 0,
+            "60": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Application.IArticle.ArticleService/<GetArticle>d__8": {
+        "System.Void Forum.Application.IArticle.ArticleService/<GetArticle>d__8::MoveNext()": {
+          "Lines": {
+            "63": 0,
+            "65": 0,
+            "66": 0,
+            "68": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Application.IArticle.ArticleService/<Owner>d__9": {
+        "System.Void Forum.Application.IArticle.ArticleService/<Owner>d__9::MoveNext()": {
+          "Lines": {
+            "72": 0,
+            "73": 0,
+            "74": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Application.IArticle.ArticleService/<PendingArticle>d__10": {
+        "System.Void Forum.Application.IArticle.ArticleService/<PendingArticle>d__10::MoveNext()": {
+          "Lines": {
+            "77": 0,
+            "79": 0,
+            "81": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Application.IArticle.ArticleService/<Search>d__11": {
+        "System.Void Forum.Application.IArticle.ArticleService/<Search>d__11::MoveNext()": {
+          "Lines": {
+            "84": 0,
+            "85": 0,
+            "86": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Application.IArticle.ArticleService/<Update>d__12": {
+        "System.Void Forum.Application.IArticle.ArticleService/<Update>d__12::MoveNext()": {
+          "Lines": {
+            "89": 0,
+            "91": 0,
+            "93": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Application\\Exceptions\\CommentIsNotAllowedException.cs": {
+      "Forum.Application.Exceptions.CommentIsNotAllowedException": {
+        "System.Void Forum.Application.Exceptions.CommentIsNotAllowedException::.ctor(System.String)": {
+          "Lines": {
+            "5": 0,
+            "6": 0,
+            "7": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Application\\Exceptions\\ConfirmedPasswordIsNotCorrect.cs": {
+      "Forum.Application.Exceptions.ConfirmedPasswordIsNotCorrect": {
+        "System.Void Forum.Application.Exceptions.ConfirmedPasswordIsNotCorrect::.ctor(System.String)": {
+          "Lines": {
+            "5": 0,
+            "6": 0,
+            "7": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Application\\Exceptions\\PasswordIsNotCorrect.cs": {
+      "Forum.Application.Exceptions.PasswordIsNotCorrect": {
+        "System.Void Forum.Application.Exceptions.PasswordIsNotCorrect::.ctor(System.String)": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Application\\Exceptions\\UserAlreadyExistException.cs": {
+      "Forum.Application.Exceptions.UserAlreadyExistException": {
+        "System.Void Forum.Application.Exceptions.UserAlreadyExistException::.ctor(System.String)": {
+          "Lines": {
+            "5": 0,
+            "6": 0,
+            "7": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Application\\Exceptions\\UserDoesnotExistException.cs": {
+      "Forum.Application.Exceptions.UserDoesnotExistException": {
+        "System.Void Forum.Application.Exceptions.UserDoesnotExistException::.ctor(System.String)": {
+          "Lines": {
+            "6": 0,
+            "7": 0,
+            "8": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Application\\Exceptions\\UserDoesNotHaveEnoughCommentsToPostArticleExpection.cs": {
+      "Forum.Application.Exceptions.UserDoesNotHaveEnoughCommentsToPostArticleExpection": {
+        "System.Void Forum.Application.Exceptions.UserDoesNotHaveEnoughCommentsToPostArticleExpection::.ctor(System.String)": {
+          "Lines": {
+            "5": 0,
+            "6": 0,
+            "7": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Application\\Exceptions\\UserIsBannedException.cs": {
+      "Forum.Application.Exceptions.UserIsBannedException": {
+        "System.Void Forum.Application.Exceptions.UserIsBannedException::.ctor(System.String)": {
+          "Lines": {
+            "5": 0,
+            "6": 0,
+            "7": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Application\\CommentModel\\CommentRequestModel.cs": {
+      "Forum.Application.CommentModel.CommentRequestModel": {
+        "System.String Forum.Application.CommentModel.CommentRequestModel::get_Content()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Application\\CommentModel\\CommentResponseModel.cs": {
+      "Forum.Application.CommentModel.CommentResponseModel": {
+        "System.String Forum.Application.CommentModel.CommentResponseModel::get_Content()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Application.CommentModel.CommentResponseModel::get_UserName()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Application.CommentModel.CommentResponseModel::get_Path()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime Forum.Application.CommentModel.CommentResponseModel::get_Date()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Application\\ArticleModel\\ArticleRequestModel.cs": {
+      "Forum.Application.ArticleModel.ArticleRequestModel": {
+        "System.String Forum.Application.ArticleModel.ArticleRequestModel::get_Title()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Application.ArticleModel.ArticleRequestModel::get_Content()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Http.IFormFile Forum.Application.ArticleModel.ArticleRequestModel::get_file()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Application\\ArticleModel\\ArticleResponse.cs": {
+      "Forum.Application.ArticleModel.ArticleResponse": {
+        "System.Guid Forum.Application.ArticleModel.ArticleResponse::get_Id()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Application.ArticleModel.ArticleResponse::get_Title()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Application.ArticleModel.ArticleResponse::get_Content()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<Forum.Application.CommentModel.CommentResponseModel> Forum.Application.ArticleModel.ArticleResponse::get_Comments()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Application\\AccountModel\\AccountRequestmodel.cs": {
+      "Forum.Application.AccountModel.AccountRequestmodel": {
+        "System.String Forum.Application.AccountModel.AccountRequestmodel::get_UserName()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Application.AccountModel.AccountRequestmodel::get_Email()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Application.AccountModel.AccountRequestmodel::get_PhoneNumber()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Application\\AccountModel\\AccountResponseModel.cs": {
+      "Forum.Application.AccountModel.AccountResponseModel": {
+        "System.String Forum.Application.AccountModel.AccountResponseModel::get_UserName()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Application.AccountModel.AccountResponseModel::get_Path()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Application.AccountModel.AccountResponseModel::get_Email()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Application.AccountModel.AccountResponseModel::get_PhoneNumber()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<Forum.Application.ArticleModel.ArticleResponse> Forum.Application.AccountModel.AccountResponseModel::get_ArticleResponses()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Application\\AccountModel\\JWTresponseModel.cs": {
+      "Forum.Application.AccountModel.JWTresponseModel": {
+        "System.Collections.Generic.List`1<System.Security.Claims.Claim> Forum.Application.AccountModel.JWTresponseModel::get_Claims()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Application\\AccountModel\\LoginModel.cs": {
+      "Forum.Application.AccountModel.LoginModel": {
+        "System.String Forum.Application.AccountModel.LoginModel::get_UserName()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Application.AccountModel.LoginModel::get_Password()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Application\\AccountModel\\RegisterModel.cs": {
+      "Forum.Application.AccountModel.RegisterModel": {
+        "System.String Forum.Application.AccountModel.RegisterModel::get_Username()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Application.AccountModel.RegisterModel::get_Email()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Application.AccountModel.RegisterModel::get_Phone()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean Forum.Application.AccountModel.RegisterModel::get_Gender()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Application.AccountModel.RegisterModel::get_Password()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "Forum.Domain.dll": {
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Domain\\Comments\\Comment.cs": {
+      "Forum.Domain.Comments.Comment": {
+        "System.String Forum.Domain.Comments.Comment::get_Content()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "Forum.Domain.Accounts.Account Forum.Domain.Comments.Comment::get_User()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "Forum.Domain.Articles.Article Forum.Domain.Comments.Comment::get_Article()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Domain\\Base\\BaseClass.cs": {
+      "Forum.Domain.Base.BaseClass": {
+        "System.Guid Forum.Domain.Base.BaseClass::get_Id()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "Forum.Domain.Enums.Status Forum.Domain.Base.BaseClass::get_Status()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime Forum.Domain.Base.BaseClass::get_CreatedAt()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> Forum.Domain.Base.BaseClass::get_ModifiedAt()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Domain\\Bans\\AccountBan.cs": {
+      "Forum.Domain.Bans.AccountBan": {
+        "System.Guid Forum.Domain.Bans.AccountBan::get_Id()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime Forum.Domain.Bans.AccountBan::get_StartDate()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime Forum.Domain.Bans.AccountBan::get_EndDate()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Domain.Bans.AccountBan::get_AccountID()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Domain\\Articles\\Article.cs": {
+      "Forum.Domain.Articles.Article": {
+        "System.String Forum.Domain.Articles.Article::get_Title()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Domain.Articles.Article::get_Content()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "Forum.Domain.Enums.State Forum.Domain.Articles.Article::get_State()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "Forum.Domain.Accounts.Account Forum.Domain.Articles.Article::get_User()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Domain.Articles.Article::get_Path()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<Forum.Domain.Comments.Comment> Forum.Domain.Articles.Article::get_Comments()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Domain\\Accounts\\Account.cs": {
+      "Forum.Domain.Accounts.Account": {
+        "System.Boolean Forum.Domain.Accounts.Account::get_Gender()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "Forum.Domain.Enums.Status Forum.Domain.Accounts.Account::get_Status()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean Forum.Domain.Accounts.Account::get_IsBanned()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Domain.Accounts.Account::get_Path()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<Forum.Domain.Articles.Article> Forum.Domain.Accounts.Account::get_Articles()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.ICollection`1<Forum.Domain.Comments.Comment> Forum.Domain.Accounts.Account::get_Comments()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "Forum.Infrastructure.dll": {
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Infrastructure\\UnitOfWorks\\AccountUOW.cs": {
+      "Forum.Infrastructure.UnitOfWorks.AccountUOW": {
+        "Forum.Application.IBanAccount.IBanAccountRepository Forum.Infrastructure.UnitOfWorks.AccountUOW::get__banAccountRepository()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "Forum.Application.IUser.IRepository.IUserRepository Forum.Infrastructure.UnitOfWorks.AccountUOW::get__userRepository()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Void Forum.Infrastructure.UnitOfWorks.AccountUOW::.ctor(Forum.Persistence.Context.DataContext,Forum.Application.IBanAccount.IBanAccountRepository,Forum.Application.IUser.IRepository.IUserRepository)": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Infrastructure\\UnitOfWorks\\ArticleUOW.cs": {
+      "Forum.Infrastructure.UnitOfWorks.ArticleUOW": {
+        "Forum.Application.IArticle.IRepository.IArticleRepository Forum.Infrastructure.UnitOfWorks.ArticleUOW::get__articleRepository()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        },
+        "Forum.Application.IUser.IRepository.IUserRepository Forum.Infrastructure.UnitOfWorks.ArticleUOW::get__userRepository()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.Void Forum.Infrastructure.UnitOfWorks.ArticleUOW::.ctor(Forum.Persistence.Context.DataContext,Forum.Application.IArticle.IRepository.IArticleRepository,Forum.Application.IUser.IRepository.IUserRepository)": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Infrastructure\\UnitOfWorks\\CommentUOW.cs": {
+      "Forum.Infrastructure.UnitOfWorks.CommentUOW": {
+        "Forum.Application.IArticle.IRepository.IArticleRepository Forum.Infrastructure.UnitOfWorks.CommentUOW::get__articleRepository()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "Forum.Application.IComment.IRepository.ICommentRepository Forum.Infrastructure.UnitOfWorks.CommentUOW::get__commentRepository()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        },
+        "Forum.Application.IUser.IRepository.IUserRepository Forum.Infrastructure.UnitOfWorks.CommentUOW::get__userRepository()": {
+          "Lines": {
+            "20": 0
+          },
+          "Branches": []
+        },
+        "System.Void Forum.Infrastructure.UnitOfWorks.CommentUOW::.ctor(Forum.Persistence.Context.DataContext,Forum.Application.IComment.IRepository.ICommentRepository,Forum.Application.IUser.IRepository.IUserRepository,Forum.Application.IArticle.IRepository.IArticleRepository)": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Infrastructure\\UnitOfWorks\\UnitOFWork.cs": {
+      "Forum.Infrastructure.UnitOfWorks.UnitOFWork": {
+        "System.Void Forum.Infrastructure.UnitOfWorks.UnitOFWork::SaveChanges()": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0
+          },
+          "Branches": []
+        },
+        "System.Void Forum.Infrastructure.UnitOfWorks.UnitOFWork::Dispose()": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": []
+        },
+        "System.Void Forum.Infrastructure.UnitOfWorks.UnitOFWork::.ctor(Forum.Persistence.Context.DataContext)": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.UnitOfWorks.UnitOFWork/<SaveChangesAsync>d__3": {
+        "System.Void Forum.Infrastructure.UnitOfWorks.UnitOFWork/<SaveChangesAsync>d__3::MoveNext()": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Infrastructure\\Comments\\CommentRepository.cs": {
+      "Forum.Infrastructure.Comments.CommentRepository": {
+        "System.Void Forum.Infrastructure.Comments.CommentRepository::.ctor(Forum.Persistence.Context.DataContext)": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Comments.CommentRepository/<Create>d__1": {
+        "System.Void Forum.Infrastructure.Comments.CommentRepository/<Create>d__1::MoveNext()": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "27": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Comments.CommentRepository/<Delete>d__2": {
+        "System.Void Forum.Infrastructure.Comments.CommentRepository/<Delete>d__2::MoveNext()": {
+          "Lines": {
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0
+          },
+          "Branches": [
+            {
+              "Line": 32,
+              "Offset": 179,
+              "EndOffset": 184,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 179,
+              "EndOffset": 312,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Infrastructure.Comments.CommentRepository/<GetAll>d__3": {
+        "System.Void Forum.Infrastructure.Comments.CommentRepository/<GetAll>d__3::MoveNext()": {
+          "Lines": {
+            "40": 0,
+            "41": 0,
+            "42": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Comments.CommentRepository/<GetById>d__4": {
+        "System.Void Forum.Infrastructure.Comments.CommentRepository/<GetById>d__4::MoveNext()": {
+          "Lines": {
+            "45": 0,
+            "46": 0,
+            "47": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Comments.CommentRepository/<Update>d__5": {
+        "System.Void Forum.Infrastructure.Comments.CommentRepository/<Update>d__5::MoveNext()": {
+          "Lines": {
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Infrastructure\\Base\\BaseRepository.cs": {
+      "Forum.Infrastructure.Base.BaseRepository`1": {
+        "System.Linq.IQueryable`1<T> Forum.Infrastructure.Base.BaseRepository`1::get_Table()": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.Threading.Tasks.Task`1<System.Boolean> Forum.Infrastructure.Base.BaseRepository`1::AnyAsync(System.Threading.CancellationToken,System.Linq.Expressions.Expression`1<System.Func`2<T,System.Boolean>>)": {
+          "Lines": {
+            "67": 0,
+            "68": 0,
+            "69": 0
+          },
+          "Branches": []
+        },
+        "System.Void Forum.Infrastructure.Base.BaseRepository`1::.ctor(Microsoft.EntityFrameworkCore.DbContext)": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Base.BaseRepository`1/<AddAsync>d__8": {
+        "System.Void Forum.Infrastructure.Base.BaseRepository`1/<AddAsync>d__8::MoveNext()": {
+          "Lines": {
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Base.BaseRepository`1/<GetAllAsync>d__5": {
+        "System.Void Forum.Infrastructure.Base.BaseRepository`1/<GetAllAsync>d__5::MoveNext()": {
+          "Lines": {
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Base.BaseRepository`1/<GetAllAsync>d__6": {
+        "System.Void Forum.Infrastructure.Base.BaseRepository`1/<GetAllAsync>d__6::MoveNext()": {
+          "Lines": {
+            "32": 0,
+            "33": 0,
+            "34": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Base.BaseRepository`1/<GetAsync>d__7": {
+        "System.Void Forum.Infrastructure.Base.BaseRepository`1/<GetAsync>d__7::MoveNext()": {
+          "Lines": {
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Base.BaseRepository`1/<RemoveAsync>d__10": {
+        "System.Void Forum.Infrastructure.Base.BaseRepository`1/<RemoveAsync>d__10::MoveNext()": {
+          "Lines": {
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0
+          },
+          "Branches": [
+            {
+              "Line": 59,
+              "Offset": 31,
+              "EndOffset": 33,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 59,
+              "Offset": 31,
+              "EndOffset": 38,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Infrastructure.Base.BaseRepository`1/<UpdateAsync>d__9": {
+        "System.Void Forum.Infrastructure.Base.BaseRepository`1/<UpdateAsync>d__9::MoveNext()": {
+          "Lines": {
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0
+          },
+          "Branches": [
+            {
+              "Line": 50,
+              "Offset": 31,
+              "EndOffset": 33,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 50,
+              "Offset": 31,
+              "EndOffset": 38,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Infrastructure\\BanAccounts\\BanAccountRepository.cs": {
+      "Forum.Infrastructure.BanAccounts.BanAccountRepository": {
+        "System.Void Forum.Infrastructure.BanAccounts.BanAccountRepository::.ctor(Forum.Persistence.Context.DataContext)": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "12": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.BanAccounts.BanAccountRepository/<Add>d__1": {
+        "System.Void Forum.Infrastructure.BanAccounts.BanAccountRepository/<Add>d__1::MoveNext()": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.BanAccounts.BanAccountRepository/<CheckIfExpired>d__2": {
+        "System.Void Forum.Infrastructure.BanAccounts.BanAccountRepository/<CheckIfExpired>d__2::MoveNext()": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": [
+            {
+              "Line": 21,
+              "Offset": 44,
+              "EndOffset": 46,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 44,
+              "EndOffset": 160,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Infrastructure.BanAccounts.BanAccountRepository/<GetAll>d__3": {
+        "System.Void Forum.Infrastructure.BanAccounts.BanAccountRepository/<GetAll>d__3::MoveNext()": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Infrastructure\\BackgroundWorker\\TurnOffComments.cs": {
+      "Forum.Infrastructure.BackgroundWorker.TurnOffComments": {
+        "System.Void Forum.Infrastructure.BackgroundWorker.TurnOffComments::.ctor(System.IServiceProvider)": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.BackgroundWorker.TurnOffComments/<ExecuteAsync>d__2": {
+        "System.Void Forum.Infrastructure.BackgroundWorker.TurnOffComments/<ExecuteAsync>d__2::MoveNext()": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "31": 0
+          },
+          "Branches": [
+            {
+              "Line": 23,
+              "Offset": 331,
+              "EndOffset": 85,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 331,
+              "EndOffset": 336,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Infrastructure\\BackgroundWorker\\BanAccount.cs": {
+      "Forum.Infrastructure.BackgroundWorkers.BanAccount": {
+        "System.Void Forum.Infrastructure.BackgroundWorkers.BanAccount::.ctor(System.IServiceProvider)": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.BackgroundWorkers.BanAccount/<ExecuteAsync>d__2": {
+        "System.Void Forum.Infrastructure.BackgroundWorkers.BanAccount/<ExecuteAsync>d__2::MoveNext()": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "30": 0
+          },
+          "Branches": [
+            {
+              "Line": 22,
+              "Offset": 331,
+              "EndOffset": 85,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 331,
+              "EndOffset": 336,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Infrastructure\\Articles\\ArticleRepository.cs": {
+      "Forum.Infrastructure.Articles.ArticleRepository": {
+        "System.Void Forum.Infrastructure.Articles.ArticleRepository::.ctor(Forum.Persistence.Context.DataContext,Microsoft.Extensions.Options.IOptions`1<Forum.Persistence.ConfigurationsAppsettingJson.LimitConfiguration>,Microsoft.AspNetCore.Http.IHttpContextAccessor,Microsoft.Extensions.Options.IOptions`1<Forum.Persistence.ConfigurationsAppsettingJson.ImagesAddress>)": {
+          "Lines": {
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Articles.ArticleRepository/<>c": {
+        "System.Boolean Forum.Infrastructure.Articles.ArticleRepository/<>c::<GetAll>b__8_0(Forum.Domain.Articles.Article)": {
+          "Lines": {
+            "89": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean Forum.Infrastructure.Articles.ArticleRepository/<>c::<PendingArticles>b__12_0(Forum.Domain.Articles.Article)": {
+          "Lines": {
+            "118": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime Forum.Infrastructure.Articles.ArticleRepository/<>c::<DeActive>b__13_0(Forum.Domain.Comments.Comment)": {
+          "Lines": {
+            "127": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Articles.ArticleRepository/<>c__DisplayClass15_0": {
+        "System.Boolean Forum.Infrastructure.Articles.ArticleRepository/<>c__DisplayClass15_0::<Search>b__0(Forum.Domain.Articles.Article)": {
+          "Lines": {
+            "157": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Articles.ArticleRepository/<Add>d__5": {
+        "System.Void Forum.Infrastructure.Articles.ArticleRepository/<Add>d__5::MoveNext()": {
+          "Lines": {
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "49": 0,
+            "50": 0
+          },
+          "Branches": [
+            {
+              "Line": 34,
+              "Offset": 64,
+              "EndOffset": 69,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 34,
+              "Offset": 64,
+              "EndOffset": 271,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Infrastructure.Articles.ArticleRepository/<Comments>d__14": {
+        "System.Void Forum.Infrastructure.Articles.ArticleRepository/<Comments>d__14::MoveNext()": {
+          "Lines": {
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Articles.ArticleRepository/<DeActive>d__13": {
+        "System.Void Forum.Infrastructure.Articles.ArticleRepository/<DeActive>d__13::MoveNext()": {
+          "Lines": {
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "145": 0,
+            "146": 0
+          },
+          "Branches": [
+            {
+              "Line": 122,
+              "Offset": 16,
+              "EndOffset": 27,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 122,
+              "Offset": 16,
+              "EndOffset": 177,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 124,
+              "Offset": 871,
+              "EndOffset": 220,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 128,
+              "Offset": 460,
+              "EndOffset": 465,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 130,
+              "Offset": 512,
+              "EndOffset": 517,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 130,
+              "Offset": 512,
+              "EndOffset": 648,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 128,
+              "Offset": 460,
+              "EndOffset": 654,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 138,
+              "Offset": 701,
+              "EndOffset": 706,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 138,
+              "Offset": 701,
+              "EndOffset": 837,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 124,
+              "Offset": 871,
+              "EndOffset": 876,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Infrastructure.Articles.ArticleRepository/<Delete>d__7": {
+        "System.Void Forum.Infrastructure.Articles.ArticleRepository/<Delete>d__7::MoveNext()": {
+          "Lines": {
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Articles.ArticleRepository/<GetAll>d__8": {
+        "System.Void Forum.Infrastructure.Articles.ArticleRepository/<GetAll>d__8::MoveNext()": {
+          "Lines": {
+            "87": 0,
+            "88": 0,
+            "90": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Articles.ArticleRepository/<GetById>d__9": {
+        "System.Void Forum.Infrastructure.Articles.ArticleRepository/<GetById>d__9::MoveNext()": {
+          "Lines": {
+            "93": 0,
+            "94": 0,
+            "96": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Articles.ArticleRepository/<GetNumberOfPosts>d__11": {
+        "System.Void Forum.Infrastructure.Articles.ArticleRepository/<GetNumberOfPosts>d__11::MoveNext()": {
+          "Lines": {
+            "111": 0,
+            "112": 0,
+            "113": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Articles.ArticleRepository/<PendingArticles>d__12": {
+        "System.Void Forum.Infrastructure.Articles.ArticleRepository/<PendingArticles>d__12::MoveNext()": {
+          "Lines": {
+            "116": 0,
+            "117": 0,
+            "119": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Articles.ArticleRepository/<Search>d__15": {
+        "System.Void Forum.Infrastructure.Articles.ArticleRepository/<Search>d__15::MoveNext()": {
+          "Lines": {
+            "155": 0,
+            "156": 0,
+            "158": 0,
+            "159": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Articles.ArticleRepository/<Update>d__10": {
+        "System.Void Forum.Infrastructure.Articles.ArticleRepository/<Update>d__10::MoveNext()": {
+          "Lines": {
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0
+          },
+          "Branches": [
+            {
+              "Line": 101,
+              "Offset": 179,
+              "EndOffset": 181,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 101,
+              "Offset": 179,
+              "EndOffset": 229,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Infrastructure.Articles.ArticleRepository/<UploadImage>d__6": {
+        "System.Void Forum.Infrastructure.Articles.ArticleRepository/<UploadImage>d__6::MoveNext()": {
+          "Lines": {
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "61": 0,
+            "62": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0
+          },
+          "Branches": [
+            {
+              "Line": 53,
+              "Offset": 33,
+              "EndOffset": 35,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 53,
+              "Offset": 33,
+              "EndOffset": 39,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 55,
+              "Offset": 81,
+              "EndOffset": 86,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 57,
+              "Offset": 475,
+              "EndOffset": 121,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 61,
+              "Offset": 188,
+              "EndOffset": 190,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 61,
+              "Offset": 188,
+              "EndOffset": 202,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 65,
+              "Offset": 253,
+              "EndOffset": 255,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 65,
+              "Offset": 253,
+              "EndOffset": 267,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 57,
+              "Offset": 475,
+              "EndOffset": 480,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 55,
+              "Offset": 81,
+              "EndOffset": 515,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Infrastructure\\Accounts\\AccounrRepository.cs": {
+      "Forum.Infrastructure.Accounts.AccounrRepository": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository::.ctor(Forum.Persistence.Context.DataContext,Microsoft.AspNetCore.Identity.UserManager`1<Forum.Domain.Accounts.Account>,Microsoft.AspNetCore.Http.IHttpContextAccessor,Microsoft.AspNetCore.Identity.SignInManager`1<Forum.Domain.Accounts.Account>,Microsoft.Extensions.Options.IOptions`1<Forum.Persistence.ConfigurationsAppsettingJson.ImagesAddress>)": {
+          "Lines": {
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<>c": {
+        "System.Boolean Forum.Infrastructure.Accounts.AccounrRepository/<>c::<GetAll>b__11_0(Forum.Domain.Accounts.Account)": {
+          "Lines": {
+            "118": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<AddIMage>d__20": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<AddIMage>d__20::MoveNext()": {
+          "Lines": {
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "179": 0,
+            "180": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<BanAccount>d__16": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<BanAccount>d__16::MoveNext()": {
+          "Lines": {
+            "143": 0,
+            "144": 0,
+            "146": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<ChangePassword>d__27": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<ChangePassword>d__27::MoveNext()": {
+          "Lines": {
+            "244": 0,
+            "245": 0,
+            "246": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<Create>d__6": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<Create>d__6::MoveNext()": {
+          "Lines": {
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<Delete>d__7": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<Delete>d__7::MoveNext()": {
+          "Lines": {
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "88": 0,
+            "89": 0,
+            "91": 0,
+            "92": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<DeleteArticles>d__8": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<DeleteArticles>d__8::MoveNext()": {
+          "Lines": {
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "99": 0,
+            "100": 0
+          },
+          "Branches": [
+            {
+              "Line": 96,
+              "Offset": 86,
+              "EndOffset": 38,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 96,
+              "Offset": 86,
+              "EndOffset": 88,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<DeleteComment>d__9": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<DeleteComment>d__9::MoveNext()": {
+          "Lines": {
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "106": 0,
+            "107": 0
+          },
+          "Branches": [
+            {
+              "Line": 103,
+              "Offset": 86,
+              "EndOffset": 38,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 103,
+              "Offset": 86,
+              "EndOffset": 88,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<DeleteIMage>d__22": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<DeleteIMage>d__22::MoveNext()": {
+          "Lines": {
+            "207": 0,
+            "208": 0,
+            "209": 0,
+            "211": 0,
+            "213": 0,
+            "214": 0
+          },
+          "Branches": [
+            {
+              "Line": 208,
+              "Offset": 39,
+              "EndOffset": 41,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 208,
+              "Offset": 39,
+              "EndOffset": 58,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<ExistByEmail>d__25": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<ExistByEmail>d__25::MoveNext()": {
+          "Lines": {
+            "233": 0,
+            "234": 0,
+            "236": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<ExistById>d__24": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<ExistById>d__24::MoveNext()": {
+          "Lines": {
+            "228": 0,
+            "229": 0,
+            "230": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<GetAll>d__11": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<GetAll>d__11::MoveNext()": {
+          "Lines": {
+            "116": 0,
+            "117": 0,
+            "119": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<GetAllArticles>d__10": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<GetAllArticles>d__10::MoveNext()": {
+          "Lines": {
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<GetAllComments>d__12": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<GetAllComments>d__12::MoveNext()": {
+          "Lines": {
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<GetAuthorizedId>d__19": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<GetAuthorizedId>d__19::MoveNext()": {
+          "Lines": {
+            "167": 0,
+            "168": 0,
+            "169": 0,
+            "170": 0,
+            "172": 0,
+            "173": 0
+          },
+          "Branches": [
+            {
+              "Line": 168,
+              "Offset": 36,
+              "EndOffset": 38,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 168,
+              "Offset": 36,
+              "EndOffset": 42,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 169,
+              "Offset": 73,
+              "EndOffset": 75,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 169,
+              "Offset": 73,
+              "EndOffset": 86,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<GetByEmail>d__13": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<GetByEmail>d__13::MoveNext()": {
+          "Lines": {
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<GetById>d__14": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<GetById>d__14::MoveNext()": {
+          "Lines": {
+            "134": 0,
+            "135": 0,
+            "136": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<GetCurrentUser>d__18": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<GetCurrentUser>d__18::MoveNext()": {
+          "Lines": {
+            "161": 0,
+            "162": 0,
+            "163": 0,
+            "164": 0,
+            "165": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<Login>d__5": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<Login>d__5::MoveNext()": {
+          "Lines": {
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "39": 0,
+            "40": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "61": 0,
+            "62": 0,
+            "64": 0,
+            "65": 0
+          },
+          "Branches": [
+            {
+              "Line": 36,
+              "Offset": 221,
+              "EndOffset": 223,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 36,
+              "Offset": 221,
+              "EndOffset": 250,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 39,
+              "Offset": 265,
+              "EndOffset": 267,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 39,
+              "Offset": 265,
+              "EndOffset": 294,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 43,
+              "Offset": 466,
+              "EndOffset": 471,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 55,
+              "Offset": 1199,
+              "EndOffset": 994,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 55,
+              "Offset": 1199,
+              "EndOffset": 1204,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 43,
+              "Offset": 466,
+              "EndOffset": 1259,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<Logout>d__26": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<Logout>d__26::MoveNext()": {
+          "Lines": {
+            "239": 0,
+            "240": 0,
+            "241": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<UnBanAccount>d__17": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<UnBanAccount>d__17::MoveNext()": {
+          "Lines": {
+            "153": 0,
+            "154": 0,
+            "156": 0,
+            "158": 0,
+            "159": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<Update>d__15": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<Update>d__15::MoveNext()": {
+          "Lines": {
+            "138": 0,
+            "139": 0,
+            "140": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<Update>d__23": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<Update>d__23::MoveNext()": {
+          "Lines": {
+            "217": 0,
+            "218": 0,
+            "219": 0,
+            "220": 0,
+            "221": 0,
+            "222": 0,
+            "223": 0,
+            "225": 0
+          },
+          "Branches": []
+        }
+      },
+      "Forum.Infrastructure.Accounts.AccounrRepository/<UploadImage>d__21": {
+        "System.Void Forum.Infrastructure.Accounts.AccounrRepository/<UploadImage>d__21::MoveNext()": {
+          "Lines": {
+            "182": 0,
+            "183": 0,
+            "184": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "190": 0,
+            "191": 0,
+            "193": 0,
+            "194": 0,
+            "195": 0,
+            "197": 0,
+            "198": 0,
+            "199": 0,
+            "200": 0,
+            "201": 0,
+            "202": 0,
+            "203": 0,
+            "204": 0
+          },
+          "Branches": [
+            {
+              "Line": 183,
+              "Offset": 33,
+              "EndOffset": 35,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 183,
+              "Offset": 33,
+              "EndOffset": 39,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 185,
+              "Offset": 81,
+              "EndOffset": 86,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 186,
+              "Offset": 475,
+              "EndOffset": 121,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 190,
+              "Offset": 188,
+              "EndOffset": 190,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 190,
+              "Offset": 188,
+              "EndOffset": 202,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 194,
+              "Offset": 253,
+              "EndOffset": 255,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 194,
+              "Offset": 253,
+              "EndOffset": 267,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 186,
+              "Offset": 475,
+              "EndOffset": 480,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 185,
+              "Offset": 81,
+              "EndOffset": 515,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Forum.Persistence.dll": {
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Persistence\\Seed\\AccountSeed.cs": {
+      "Forum.Persistence.Seed.AccountSeed": {
+        "System.Void Forum.Persistence.Seed.AccountSeed::Initialize(System.IServiceProvider)": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "20": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Void Forum.Persistence.Seed.AccountSeed::Migrate(Forum.Persistence.Context.DataContext)": {
+          "Lines": {
+            "25": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        },
+        "System.Void Forum.Persistence.Seed.AccountSeed::SeedEverything(Forum.Persistence.Context.DataContext,Microsoft.AspNetCore.Identity.UserManager`1<Forum.Domain.Accounts.Account>,Microsoft.AspNetCore.Identity.RoleManager`1<Microsoft.AspNetCore.Identity.IdentityRole`1<System.Guid>>)": {
+          "Lines": {
+            "29": 0,
+            "30": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "36": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 15,
+              "EndOffset": 17,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 15,
+              "EndOffset": 24,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 37,
+              "EndOffset": 39,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 37,
+              "EndOffset": 48,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void Forum.Persistence.Seed.AccountSeed::SeedRoles(Microsoft.AspNetCore.Identity.RoleManager`1<Microsoft.AspNetCore.Identity.IdentityRole`1<System.Guid>>,System.Boolean&)": {
+          "Lines": {
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0
+          },
+          "Branches": []
+        },
+        "System.Void Forum.Persistence.Seed.AccountSeed::SeedAdmin(Forum.Persistence.Context.DataContext,Microsoft.AspNetCore.Identity.UserManager`1<Forum.Domain.Accounts.Account>,System.Boolean&)": {
+          "Lines": {
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "61": 0,
+            "63": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0
+          },
+          "Branches": [
+            {
+              "Line": 66,
+              "Offset": 181,
+              "EndOffset": 183,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 66,
+              "Offset": 181,
+              "EndOffset": 231,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Persistence\\Migrations\\20240408161712_ModifiedDeleteBehavior.cs": {
+      "Forum.Persistence.Migrations.ModifiedDeleteBehavior": {
+        "System.Void Forum.Persistence.Migrations.ModifiedDeleteBehavior::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0
+          },
+          "Branches": []
+        },
+        "System.Void Forum.Persistence.Migrations.ModifiedDeleteBehavior::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "162": 0,
+            "163": 0,
+            "164": 0,
+            "166": 0,
+            "167": 0,
+            "169": 0,
+            "170": 0,
+            "172": 0,
+            "173": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Persistence\\Migrations\\20240408161712_ModifiedDeleteBehavior.Designer.cs": {
+      "Forum.Persistence.Migrations.ModifiedDeleteBehavior": {
+        "System.Void Forum.Persistence.Migrations.ModifiedDeleteBehavior::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "25": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "160": 0,
+            "161": 0,
+            "162": 0,
+            "163": 0,
+            "164": 0,
+            "165": 0,
+            "166": 0,
+            "167": 0,
+            "168": 0,
+            "169": 0,
+            "170": 0,
+            "171": 0,
+            "172": 0,
+            "173": 0,
+            "174": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "179": 0,
+            "180": 0,
+            "181": 0,
+            "182": 0,
+            "183": 0,
+            "184": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "189": 0,
+            "190": 0,
+            "192": 0,
+            "193": 0,
+            "194": 0,
+            "195": 0,
+            "196": 0,
+            "197": 0,
+            "198": 0,
+            "199": 0,
+            "200": 0,
+            "201": 0,
+            "202": 0,
+            "203": 0,
+            "204": 0,
+            "205": 0,
+            "206": 0,
+            "207": 0,
+            "208": 0,
+            "209": 0,
+            "210": 0,
+            "211": 0,
+            "212": 0,
+            "213": 0,
+            "214": 0,
+            "216": 0,
+            "217": 0,
+            "218": 0,
+            "219": 0,
+            "220": 0,
+            "221": 0,
+            "222": 0,
+            "223": 0,
+            "225": 0,
+            "226": 0,
+            "227": 0,
+            "228": 0,
+            "229": 0,
+            "230": 0,
+            "231": 0,
+            "232": 0,
+            "233": 0,
+            "234": 0,
+            "235": 0,
+            "236": 0,
+            "237": 0,
+            "238": 0,
+            "239": 0,
+            "240": 0,
+            "242": 0,
+            "243": 0,
+            "244": 0,
+            "245": 0,
+            "246": 0,
+            "247": 0,
+            "248": 0,
+            "249": 0,
+            "250": 0,
+            "251": 0,
+            "252": 0,
+            "253": 0,
+            "254": 0,
+            "255": 0,
+            "256": 0,
+            "257": 0,
+            "258": 0,
+            "259": 0,
+            "261": 0,
+            "262": 0,
+            "263": 0,
+            "264": 0,
+            "265": 0,
+            "266": 0,
+            "268": 0,
+            "269": 0,
+            "270": 0,
+            "271": 0,
+            "273": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Persistence\\Migrations\\20240408161903_addIdentity.cs": {
+      "Forum.Persistence.Migrations.addIdentity": {
+        "System.Void Forum.Persistence.Migrations.addIdentity::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "161": 0,
+            "162": 0,
+            "163": 0,
+            "164": 0,
+            "165": 0,
+            "166": 0,
+            "167": 0,
+            "168": 0,
+            "169": 0,
+            "170": 0,
+            "171": 0,
+            "172": 0,
+            "173": 0,
+            "174": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "179": 0,
+            "180": 0,
+            "182": 0,
+            "183": 0,
+            "184": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "189": 0,
+            "190": 0,
+            "191": 0,
+            "192": 0,
+            "193": 0,
+            "194": 0,
+            "195": 0,
+            "196": 0,
+            "197": 0,
+            "198": 0,
+            "199": 0,
+            "200": 0,
+            "201": 0,
+            "202": 0,
+            "203": 0,
+            "204": 0,
+            "206": 0,
+            "207": 0,
+            "208": 0,
+            "209": 0,
+            "211": 0,
+            "212": 0,
+            "213": 0,
+            "214": 0,
+            "215": 0,
+            "216": 0,
+            "218": 0,
+            "219": 0,
+            "220": 0,
+            "221": 0,
+            "223": 0,
+            "224": 0,
+            "225": 0,
+            "226": 0,
+            "227": 0,
+            "228": 0,
+            "230": 0,
+            "231": 0,
+            "232": 0,
+            "233": 0,
+            "235": 0,
+            "236": 0,
+            "237": 0,
+            "238": 0,
+            "240": 0,
+            "241": 0,
+            "242": 0,
+            "243": 0,
+            "245": 0,
+            "246": 0,
+            "247": 0,
+            "248": 0,
+            "249": 0,
+            "250": 0,
+            "252": 0,
+            "253": 0,
+            "254": 0,
+            "255": 0,
+            "256": 0,
+            "257": 0,
+            "259": 0,
+            "260": 0,
+            "261": 0,
+            "262": 0,
+            "263": 0,
+            "264": 0,
+            "265": 0
+          },
+          "Branches": []
+        },
+        "System.Void Forum.Persistence.Migrations.addIdentity::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "268": 0,
+            "269": 0,
+            "270": 0,
+            "271": 0,
+            "273": 0,
+            "274": 0,
+            "275": 0,
+            "277": 0,
+            "278": 0,
+            "279": 0,
+            "281": 0,
+            "282": 0,
+            "284": 0,
+            "285": 0,
+            "287": 0,
+            "288": 0,
+            "290": 0,
+            "291": 0,
+            "293": 0,
+            "294": 0,
+            "296": 0,
+            "297": 0,
+            "299": 0,
+            "300": 0,
+            "301": 0,
+            "303": 0,
+            "304": 0,
+            "305": 0,
+            "307": 0,
+            "308": 0,
+            "309": 0,
+            "311": 0,
+            "312": 0,
+            "313": 0,
+            "315": 0,
+            "316": 0,
+            "317": 0,
+            "318": 0,
+            "320": 0,
+            "321": 0,
+            "322": 0,
+            "323": 0,
+            "325": 0,
+            "326": 0,
+            "327": 0,
+            "328": 0,
+            "329": 0,
+            "330": 0,
+            "331": 0,
+            "332": 0,
+            "333": 0,
+            "335": 0,
+            "336": 0,
+            "337": 0,
+            "338": 0,
+            "339": 0,
+            "340": 0,
+            "341": 0,
+            "342": 0,
+            "343": 0,
+            "345": 0,
+            "346": 0,
+            "347": 0,
+            "348": 0,
+            "349": 0,
+            "350": 0,
+            "351": 0,
+            "352": 0,
+            "353": 0,
+            "355": 0,
+            "356": 0,
+            "357": 0,
+            "358": 0,
+            "359": 0,
+            "360": 0,
+            "361": 0,
+            "362": 0,
+            "364": 0,
+            "365": 0,
+            "366": 0,
+            "367": 0,
+            "369": 0,
+            "370": 0,
+            "371": 0,
+            "372": 0,
+            "373": 0,
+            "374": 0,
+            "376": 0,
+            "377": 0,
+            "378": 0,
+            "379": 0,
+            "380": 0,
+            "381": 0,
+            "383": 0,
+            "384": 0,
+            "385": 0,
+            "386": 0,
+            "387": 0,
+            "388": 0,
+            "389": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Persistence\\Migrations\\20240408161903_addIdentity.Designer.cs": {
+      "Forum.Persistence.Migrations.addIdentity": {
+        "System.Void Forum.Persistence.Migrations.addIdentity::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "25": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "160": 0,
+            "161": 0,
+            "162": 0,
+            "163": 0,
+            "164": 0,
+            "165": 0,
+            "166": 0,
+            "167": 0,
+            "169": 0,
+            "170": 0,
+            "171": 0,
+            "172": 0,
+            "173": 0,
+            "174": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "179": 0,
+            "180": 0,
+            "181": 0,
+            "182": 0,
+            "183": 0,
+            "184": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "189": 0,
+            "190": 0,
+            "191": 0,
+            "192": 0,
+            "193": 0,
+            "194": 0,
+            "195": 0,
+            "196": 0,
+            "197": 0,
+            "198": 0,
+            "199": 0,
+            "200": 0,
+            "201": 0,
+            "202": 0,
+            "203": 0,
+            "205": 0,
+            "206": 0,
+            "207": 0,
+            "208": 0,
+            "209": 0,
+            "210": 0,
+            "211": 0,
+            "212": 0,
+            "213": 0,
+            "214": 0,
+            "215": 0,
+            "216": 0,
+            "217": 0,
+            "218": 0,
+            "219": 0,
+            "220": 0,
+            "221": 0,
+            "222": 0,
+            "223": 0,
+            "224": 0,
+            "225": 0,
+            "226": 0,
+            "227": 0,
+            "229": 0,
+            "230": 0,
+            "231": 0,
+            "232": 0,
+            "233": 0,
+            "234": 0,
+            "235": 0,
+            "236": 0,
+            "237": 0,
+            "238": 0,
+            "239": 0,
+            "240": 0,
+            "241": 0,
+            "242": 0,
+            "243": 0,
+            "244": 0,
+            "245": 0,
+            "246": 0,
+            "247": 0,
+            "248": 0,
+            "249": 0,
+            "250": 0,
+            "251": 0,
+            "252": 0,
+            "253": 0,
+            "254": 0,
+            "255": 0,
+            "257": 0,
+            "258": 0,
+            "259": 0,
+            "260": 0,
+            "261": 0,
+            "262": 0,
+            "263": 0,
+            "264": 0,
+            "265": 0,
+            "266": 0,
+            "267": 0,
+            "268": 0,
+            "269": 0,
+            "270": 0,
+            "271": 0,
+            "272": 0,
+            "273": 0,
+            "274": 0,
+            "275": 0,
+            "276": 0,
+            "277": 0,
+            "278": 0,
+            "279": 0,
+            "281": 0,
+            "282": 0,
+            "283": 0,
+            "284": 0,
+            "285": 0,
+            "286": 0,
+            "287": 0,
+            "288": 0,
+            "289": 0,
+            "290": 0,
+            "291": 0,
+            "292": 0,
+            "293": 0,
+            "294": 0,
+            "295": 0,
+            "296": 0,
+            "297": 0,
+            "298": 0,
+            "299": 0,
+            "300": 0,
+            "301": 0,
+            "302": 0,
+            "303": 0,
+            "305": 0,
+            "306": 0,
+            "307": 0,
+            "308": 0,
+            "309": 0,
+            "310": 0,
+            "311": 0,
+            "312": 0,
+            "313": 0,
+            "314": 0,
+            "315": 0,
+            "316": 0,
+            "317": 0,
+            "318": 0,
+            "319": 0,
+            "320": 0,
+            "321": 0,
+            "322": 0,
+            "323": 0,
+            "324": 0,
+            "326": 0,
+            "327": 0,
+            "328": 0,
+            "329": 0,
+            "330": 0,
+            "331": 0,
+            "332": 0,
+            "333": 0,
+            "334": 0,
+            "335": 0,
+            "336": 0,
+            "337": 0,
+            "338": 0,
+            "339": 0,
+            "341": 0,
+            "342": 0,
+            "343": 0,
+            "344": 0,
+            "345": 0,
+            "346": 0,
+            "347": 0,
+            "348": 0,
+            "349": 0,
+            "350": 0,
+            "351": 0,
+            "352": 0,
+            "353": 0,
+            "354": 0,
+            "355": 0,
+            "356": 0,
+            "357": 0,
+            "358": 0,
+            "360": 0,
+            "361": 0,
+            "362": 0,
+            "363": 0,
+            "364": 0,
+            "365": 0,
+            "366": 0,
+            "367": 0,
+            "369": 0,
+            "370": 0,
+            "371": 0,
+            "372": 0,
+            "373": 0,
+            "374": 0,
+            "375": 0,
+            "376": 0,
+            "377": 0,
+            "378": 0,
+            "379": 0,
+            "380": 0,
+            "381": 0,
+            "382": 0,
+            "383": 0,
+            "384": 0,
+            "386": 0,
+            "387": 0,
+            "388": 0,
+            "389": 0,
+            "390": 0,
+            "391": 0,
+            "392": 0,
+            "393": 0,
+            "394": 0,
+            "395": 0,
+            "396": 0,
+            "397": 0,
+            "398": 0,
+            "399": 0,
+            "400": 0,
+            "401": 0,
+            "402": 0,
+            "403": 0,
+            "405": 0,
+            "406": 0,
+            "407": 0,
+            "408": 0,
+            "409": 0,
+            "410": 0,
+            "411": 0,
+            "412": 0,
+            "414": 0,
+            "415": 0,
+            "416": 0,
+            "417": 0,
+            "418": 0,
+            "419": 0,
+            "420": 0,
+            "421": 0,
+            "423": 0,
+            "424": 0,
+            "425": 0,
+            "426": 0,
+            "427": 0,
+            "428": 0,
+            "429": 0,
+            "430": 0,
+            "432": 0,
+            "433": 0,
+            "434": 0,
+            "435": 0,
+            "436": 0,
+            "437": 0,
+            "438": 0,
+            "439": 0,
+            "440": 0,
+            "441": 0,
+            "442": 0,
+            "443": 0,
+            "444": 0,
+            "445": 0,
+            "447": 0,
+            "448": 0,
+            "449": 0,
+            "450": 0,
+            "451": 0,
+            "452": 0,
+            "453": 0,
+            "454": 0,
+            "456": 0,
+            "457": 0,
+            "458": 0,
+            "459": 0,
+            "460": 0,
+            "461": 0,
+            "463": 0,
+            "464": 0,
+            "465": 0,
+            "466": 0,
+            "468": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Persistence\\Migrations\\20240410180200_InitalImageInModels.cs": {
+      "Forum.Persistence.Migrations.InitalImageInModels": {
+        "System.Void Forum.Persistence.Migrations.InitalImageInModels::Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "32": 0,
+            "33": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0
+          },
+          "Branches": []
+        },
+        "System.Void Forum.Persistence.Migrations.InitalImageInModels::Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": {
+          "Lines": {
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "143": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "153": 0,
+            "154": 0,
+            "155": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "161": 0,
+            "162": 0,
+            "163": 0,
+            "165": 0,
+            "166": 0,
+            "167": 0,
+            "169": 0,
+            "170": 0,
+            "171": 0,
+            "173": 0,
+            "174": 0,
+            "175": 0,
+            "177": 0,
+            "178": 0,
+            "179": 0,
+            "181": 0,
+            "182": 0,
+            "183": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "190": 0,
+            "191": 0,
+            "192": 0,
+            "193": 0,
+            "195": 0,
+            "196": 0,
+            "197": 0,
+            "198": 0,
+            "200": 0,
+            "201": 0,
+            "202": 0,
+            "203": 0,
+            "204": 0,
+            "206": 0,
+            "207": 0,
+            "208": 0,
+            "209": 0,
+            "210": 0,
+            "212": 0,
+            "213": 0,
+            "214": 0,
+            "215": 0,
+            "217": 0,
+            "218": 0,
+            "219": 0,
+            "220": 0,
+            "222": 0,
+            "223": 0,
+            "224": 0,
+            "225": 0,
+            "227": 0,
+            "228": 0,
+            "229": 0,
+            "230": 0,
+            "231": 0,
+            "232": 0,
+            "233": 0,
+            "234": 0,
+            "235": 0,
+            "236": 0,
+            "237": 0,
+            "238": 0,
+            "239": 0,
+            "240": 0,
+            "242": 0,
+            "243": 0,
+            "244": 0,
+            "245": 0,
+            "247": 0,
+            "248": 0,
+            "249": 0,
+            "250": 0,
+            "252": 0,
+            "253": 0,
+            "254": 0,
+            "255": 0,
+            "256": 0,
+            "257": 0,
+            "259": 0,
+            "260": 0,
+            "261": 0,
+            "262": 0,
+            "263": 0,
+            "264": 0,
+            "266": 0,
+            "267": 0,
+            "268": 0,
+            "269": 0,
+            "270": 0,
+            "271": 0,
+            "273": 0,
+            "274": 0,
+            "275": 0,
+            "276": 0,
+            "277": 0,
+            "278": 0,
+            "280": 0,
+            "281": 0,
+            "282": 0,
+            "283": 0,
+            "284": 0,
+            "285": 0,
+            "286": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Persistence\\Migrations\\20240410180200_InitalImageInModels.Designer.cs": {
+      "Forum.Persistence.Migrations.InitalImageInModels": {
+        "System.Void Forum.Persistence.Migrations.InitalImageInModels::BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "25": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 0,
+            "142": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "160": 0,
+            "161": 0,
+            "162": 0,
+            "163": 0,
+            "165": 0,
+            "166": 0,
+            "167": 0,
+            "168": 0,
+            "169": 0,
+            "170": 0,
+            "171": 0,
+            "172": 0,
+            "173": 0,
+            "174": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "179": 0,
+            "180": 0,
+            "181": 0,
+            "182": 0,
+            "183": 0,
+            "184": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "189": 0,
+            "190": 0,
+            "191": 0,
+            "192": 0,
+            "193": 0,
+            "194": 0,
+            "195": 0,
+            "196": 0,
+            "197": 0,
+            "198": 0,
+            "199": 0,
+            "201": 0,
+            "202": 0,
+            "203": 0,
+            "204": 0,
+            "205": 0,
+            "206": 0,
+            "207": 0,
+            "208": 0,
+            "209": 0,
+            "210": 0,
+            "211": 0,
+            "212": 0,
+            "213": 0,
+            "214": 0,
+            "215": 0,
+            "216": 0,
+            "217": 0,
+            "218": 0,
+            "219": 0,
+            "220": 0,
+            "221": 0,
+            "222": 0,
+            "223": 0,
+            "224": 0,
+            "225": 0,
+            "226": 0,
+            "227": 0,
+            "229": 0,
+            "230": 0,
+            "231": 0,
+            "232": 0,
+            "233": 0,
+            "234": 0,
+            "235": 0,
+            "236": 0,
+            "237": 0,
+            "238": 0,
+            "239": 0,
+            "240": 0,
+            "241": 0,
+            "242": 0,
+            "243": 0,
+            "244": 0,
+            "245": 0,
+            "246": 0,
+            "247": 0,
+            "248": 0,
+            "249": 0,
+            "250": 0,
+            "251": 0,
+            "253": 0,
+            "254": 0,
+            "255": 0,
+            "256": 0,
+            "257": 0,
+            "258": 0,
+            "259": 0,
+            "260": 0,
+            "261": 0,
+            "262": 0,
+            "263": 0,
+            "264": 0,
+            "265": 0,
+            "266": 0,
+            "267": 0,
+            "268": 0,
+            "269": 0,
+            "270": 0,
+            "271": 0,
+            "272": 0,
+            "273": 0,
+            "274": 0,
+            "275": 0,
+            "277": 0,
+            "278": 0,
+            "279": 0,
+            "280": 0,
+            "281": 0,
+            "282": 0,
+            "283": 0,
+            "284": 0,
+            "285": 0,
+            "286": 0,
+            "287": 0,
+            "288": 0,
+            "289": 0,
+            "290": 0,
+            "291": 0,
+            "292": 0,
+            "293": 0,
+            "294": 0,
+            "295": 0,
+            "296": 0,
+            "298": 0,
+            "299": 0,
+            "300": 0,
+            "301": 0,
+            "302": 0,
+            "303": 0,
+            "304": 0,
+            "305": 0,
+            "306": 0,
+            "307": 0,
+            "308": 0,
+            "309": 0,
+            "310": 0,
+            "311": 0,
+            "313": 0,
+            "314": 0,
+            "315": 0,
+            "316": 0,
+            "317": 0,
+            "318": 0,
+            "319": 0,
+            "320": 0,
+            "321": 0,
+            "322": 0,
+            "323": 0,
+            "324": 0,
+            "325": 0,
+            "326": 0,
+            "327": 0,
+            "328": 0,
+            "329": 0,
+            "330": 0,
+            "332": 0,
+            "333": 0,
+            "334": 0,
+            "335": 0,
+            "336": 0,
+            "337": 0,
+            "338": 0,
+            "339": 0,
+            "340": 0,
+            "341": 0,
+            "343": 0,
+            "344": 0,
+            "345": 0,
+            "346": 0,
+            "347": 0,
+            "348": 0,
+            "349": 0,
+            "350": 0,
+            "351": 0,
+            "352": 0,
+            "353": 0,
+            "354": 0,
+            "355": 0,
+            "356": 0,
+            "357": 0,
+            "358": 0,
+            "359": 0,
+            "360": 0,
+            "362": 0,
+            "363": 0,
+            "364": 0,
+            "365": 0,
+            "366": 0,
+            "367": 0,
+            "368": 0,
+            "369": 0,
+            "371": 0,
+            "372": 0,
+            "373": 0,
+            "374": 0,
+            "375": 0,
+            "376": 0,
+            "377": 0,
+            "378": 0,
+            "380": 0,
+            "381": 0,
+            "382": 0,
+            "383": 0,
+            "384": 0,
+            "385": 0,
+            "386": 0,
+            "387": 0,
+            "389": 0,
+            "390": 0,
+            "391": 0,
+            "392": 0,
+            "393": 0,
+            "394": 0,
+            "395": 0,
+            "396": 0,
+            "397": 0,
+            "398": 0,
+            "399": 0,
+            "400": 0,
+            "401": 0,
+            "402": 0,
+            "404": 0,
+            "405": 0,
+            "406": 0,
+            "407": 0,
+            "408": 0,
+            "409": 0,
+            "410": 0,
+            "411": 0,
+            "413": 0,
+            "414": 0,
+            "415": 0,
+            "416": 0,
+            "417": 0,
+            "418": 0,
+            "420": 0,
+            "421": 0,
+            "422": 0,
+            "423": 0,
+            "425": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Persistence\\Migrations\\DataContextModelSnapshot.cs": {
+      "Forum.Persistence.Migrations.DataContextModelSnapshot": {
+        "System.Void Forum.Persistence.Migrations.DataContextModelSnapshot::BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "17": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "23": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "64": 0,
+            "65": 0,
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0,
+            "89": 0,
+            "90": 0,
+            "91": 0,
+            "92": 0,
+            "93": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "97": 0,
+            "98": 0,
+            "99": 0,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "108": 0,
+            "109": 0,
+            "110": 0,
+            "111": 0,
+            "112": 0,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "116": 0,
+            "117": 0,
+            "118": 0,
+            "119": 0,
+            "120": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "127": 0,
+            "128": 0,
+            "129": 0,
+            "130": 0,
+            "131": 0,
+            "132": 0,
+            "133": 0,
+            "134": 0,
+            "135": 0,
+            "136": 0,
+            "137": 0,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "142": 0,
+            "143": 0,
+            "144": 0,
+            "145": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "149": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "154": 0,
+            "155": 0,
+            "156": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "160": 0,
+            "161": 0,
+            "163": 0,
+            "164": 0,
+            "165": 0,
+            "166": 0,
+            "167": 0,
+            "168": 0,
+            "169": 0,
+            "170": 0,
+            "171": 0,
+            "172": 0,
+            "173": 0,
+            "174": 0,
+            "175": 0,
+            "176": 0,
+            "177": 0,
+            "178": 0,
+            "179": 0,
+            "180": 0,
+            "181": 0,
+            "182": 0,
+            "183": 0,
+            "184": 0,
+            "185": 0,
+            "186": 0,
+            "187": 0,
+            "188": 0,
+            "189": 0,
+            "190": 0,
+            "191": 0,
+            "192": 0,
+            "193": 0,
+            "194": 0,
+            "195": 0,
+            "196": 0,
+            "197": 0,
+            "199": 0,
+            "200": 0,
+            "201": 0,
+            "202": 0,
+            "203": 0,
+            "204": 0,
+            "205": 0,
+            "206": 0,
+            "207": 0,
+            "208": 0,
+            "209": 0,
+            "210": 0,
+            "211": 0,
+            "212": 0,
+            "213": 0,
+            "214": 0,
+            "215": 0,
+            "216": 0,
+            "217": 0,
+            "218": 0,
+            "219": 0,
+            "220": 0,
+            "221": 0,
+            "222": 0,
+            "223": 0,
+            "224": 0,
+            "225": 0,
+            "227": 0,
+            "228": 0,
+            "229": 0,
+            "230": 0,
+            "231": 0,
+            "232": 0,
+            "233": 0,
+            "234": 0,
+            "235": 0,
+            "236": 0,
+            "237": 0,
+            "238": 0,
+            "239": 0,
+            "240": 0,
+            "241": 0,
+            "242": 0,
+            "243": 0,
+            "244": 0,
+            "245": 0,
+            "246": 0,
+            "247": 0,
+            "248": 0,
+            "249": 0,
+            "251": 0,
+            "252": 0,
+            "253": 0,
+            "254": 0,
+            "255": 0,
+            "256": 0,
+            "257": 0,
+            "258": 0,
+            "259": 0,
+            "260": 0,
+            "261": 0,
+            "262": 0,
+            "263": 0,
+            "264": 0,
+            "265": 0,
+            "266": 0,
+            "267": 0,
+            "268": 0,
+            "269": 0,
+            "270": 0,
+            "271": 0,
+            "272": 0,
+            "273": 0,
+            "275": 0,
+            "276": 0,
+            "277": 0,
+            "278": 0,
+            "279": 0,
+            "280": 0,
+            "281": 0,
+            "282": 0,
+            "283": 0,
+            "284": 0,
+            "285": 0,
+            "286": 0,
+            "287": 0,
+            "288": 0,
+            "289": 0,
+            "290": 0,
+            "291": 0,
+            "292": 0,
+            "293": 0,
+            "294": 0,
+            "296": 0,
+            "297": 0,
+            "298": 0,
+            "299": 0,
+            "300": 0,
+            "301": 0,
+            "302": 0,
+            "303": 0,
+            "304": 0,
+            "305": 0,
+            "306": 0,
+            "307": 0,
+            "308": 0,
+            "309": 0,
+            "311": 0,
+            "312": 0,
+            "313": 0,
+            "314": 0,
+            "315": 0,
+            "316": 0,
+            "317": 0,
+            "318": 0,
+            "319": 0,
+            "320": 0,
+            "321": 0,
+            "322": 0,
+            "323": 0,
+            "324": 0,
+            "325": 0,
+            "326": 0,
+            "327": 0,
+            "328": 0,
+            "330": 0,
+            "331": 0,
+            "332": 0,
+            "333": 0,
+            "334": 0,
+            "335": 0,
+            "336": 0,
+            "337": 0,
+            "338": 0,
+            "339": 0,
+            "341": 0,
+            "342": 0,
+            "343": 0,
+            "344": 0,
+            "345": 0,
+            "346": 0,
+            "347": 0,
+            "348": 0,
+            "349": 0,
+            "350": 0,
+            "351": 0,
+            "352": 0,
+            "353": 0,
+            "354": 0,
+            "355": 0,
+            "356": 0,
+            "357": 0,
+            "358": 0,
+            "360": 0,
+            "361": 0,
+            "362": 0,
+            "363": 0,
+            "364": 0,
+            "365": 0,
+            "366": 0,
+            "367": 0,
+            "369": 0,
+            "370": 0,
+            "371": 0,
+            "372": 0,
+            "373": 0,
+            "374": 0,
+            "375": 0,
+            "376": 0,
+            "378": 0,
+            "379": 0,
+            "380": 0,
+            "381": 0,
+            "382": 0,
+            "383": 0,
+            "384": 0,
+            "385": 0,
+            "387": 0,
+            "388": 0,
+            "389": 0,
+            "390": 0,
+            "391": 0,
+            "392": 0,
+            "393": 0,
+            "394": 0,
+            "395": 0,
+            "396": 0,
+            "397": 0,
+            "398": 0,
+            "399": 0,
+            "400": 0,
+            "402": 0,
+            "403": 0,
+            "404": 0,
+            "405": 0,
+            "406": 0,
+            "407": 0,
+            "408": 0,
+            "409": 0,
+            "411": 0,
+            "412": 0,
+            "413": 0,
+            "414": 0,
+            "415": 0,
+            "416": 0,
+            "418": 0,
+            "419": 0,
+            "420": 0,
+            "421": 0,
+            "423": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Persistence\\Context\\DataContext.cs": {
+      "Forum.Persistence.Context.DataContext": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<Forum.Domain.Accounts.Account> Forum.Persistence.Context.DataContext::get_Accounts()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<Forum.Domain.Comments.Comment> Forum.Persistence.Context.DataContext::get_Comments()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<Forum.Domain.Articles.Article> Forum.Persistence.Context.DataContext::get_Articles()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<Forum.Domain.Bans.AccountBan> Forum.Persistence.Context.DataContext::get_Bans()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.Void Forum.Persistence.Context.DataContext::OnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)": {
+          "Lines": {
+            "22": 0
+          },
+          "Branches": []
+        },
+        "System.Void Forum.Persistence.Context.DataContext::OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0
+          },
+          "Branches": []
+        },
+        "System.Void Forum.Persistence.Context.DataContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<Forum.Persistence.Context.DataContext>)": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "21": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Persistence\\Configuration\\AccountConfiguration.cs": {
+      "Forum.Persistence.Configuration.AccountConfiguration": {
+        "System.Void Forum.Persistence.Configuration.AccountConfiguration::Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder`1<Forum.Domain.Accounts.Account>)": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "20": 0,
+            "21": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Persistence\\Configuration\\ArticleConfiguration.cs": {
+      "Forum.Persistence.Configuration.ArticleConfiguration": {
+        "System.Void Forum.Persistence.Configuration.ArticleConfiguration::Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder`1<Forum.Domain.Articles.Article>)": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Persistence\\Configuration\\BanConfiguration.cs": {
+      "Forum.Persistence.Configuration.BanConfiguration": {
+        "System.Void Forum.Persistence.Configuration.BanConfiguration::Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder`1<Forum.Domain.Bans.AccountBan>)": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Persistence\\Configuration\\CommentConfiguration.cs": {
+      "Forum.Persistence.Configuration.CommentConfiguration": {
+        "System.Void Forum.Persistence.Configuration.CommentConfiguration::Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder`1<Forum.Domain.Comments.Comment>)": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "18": 0,
+            "20": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Persistence\\ConfigurationsOfAppsettingJson\\ConnectionStrings.cs": {
+      "Forum.Persistence.ConfigurationsAppsettingJson.ConnectionStrings": {
+        "System.String Forum.Persistence.ConfigurationsAppsettingJson.ConnectionStrings::get_DefaultConnection()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String Forum.Persistence.ConfigurationsAppsettingJson.ConnectionStrings::get_SecondConnection()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Persistence\\ConfigurationsOfAppsettingJson\\ImagesAddress.cs": {
+      "Forum.Persistence.ConfigurationsAppsettingJson.ImagesAddress": {
+        "System.String Forum.Persistence.ConfigurationsAppsettingJson.ImagesAddress::get_Address()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\user\\source\\repos\\GiorgiMatcharadze\\Forum\\Forum\\Forum.Persistence\\ConfigurationsOfAppsettingJson\\LimitConfiguration.cs": {
+      "Forum.Persistence.ConfigurationsAppsettingJson.LimitConfiguration": {
+        "System.Int32 Forum.Persistence.ConfigurationsAppsettingJson.LimitConfiguration::get_LowerBound()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 Forum.Persistence.ConfigurationsAppsettingJson.LimitConfiguration::get_Time()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 Forum.Persistence.ConfigurationsAppsettingJson.LimitConfiguration::get_MaxRowPerPage()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

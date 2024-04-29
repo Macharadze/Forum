@@ -1,0 +1,39 @@
+﻿@model Forum.Web.Models.UserArticleModel;
+
+@{
+    ViewData["Title"] = "UserArticles";
+    bool owner = Model.IsOwner;
+}
+
+<h1>UserArticles</h1>
+
+
+<table class="table">
+    <tbody>
+@foreach (var item in Model.Articles) {
+        <tr>
+            <td>
+                <a>
+                    @Html.ActionLink(item.Title, "Article", new { id = item.Id })
+                    </a>
+                </td>
+            <td>
+                    @if (owner){
+                 <div style="display:flex; justify-content:center; align-items:center;">
+
+                            <button type="button" class="btn btn-primary button-margin">
+                                @Html.ActionLink("Update", "Update","Article",new {id = item.Id })
+                            </button>
+           
+                    <form asp-action="Delete" asp-controller="Article" method="post">
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                        </div>
+
+                    }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,23 @@
+2024-04-24 17:55:26.344 +04:00 Initializing UI Database
+2024-04-24 17:55:31.302 +04:00 Now listening on: https://localhost:7245
+2024-04-24 17:55:31.308 +04:00 Now listening on: http://localhost:5178
+2024-04-24 17:55:31.636 +04:00 Application started. Press Ctrl+C to shut down.
+2024-04-24 17:55:31.638 +04:00 Hosting environment: Development
+2024-04-24 17:55:31.639 +04:00 Content root path: C:\Users\user\source\repos\GiorgiMatcharadze\Forum\Forum\Forum.Web\
+2024-04-24 17:55:31.731 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-04-24 17:55:31.747 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-04-24 17:55:32.992 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 4/24/2024 5:55:32 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-04-24 17:55:33.639 +04:00 HTTP GET / responded 200 in 602.3794 ms
+2024-04-24 17:55:36.051 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.

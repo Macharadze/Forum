@@ -1,0 +1,1 @@
+2024-04-24 17:55:36.051 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.

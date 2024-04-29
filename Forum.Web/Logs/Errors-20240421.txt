@@ -1,0 +1,29 @@
+2024-04-21 19:45:26.342 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 19:45:28.649 +04:00 An unhandled exception has occurred while executing the request.
+2024-04-21 20:04:29.733 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:04:34.895 +04:00 HTTP POST /Account/Login responded 500 in 229.4644 ms
+2024-04-21 20:04:34.971 +04:00 An unhandled exception occurred
+2024-04-21 20:05:49.312 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:05:54.102 +04:00 HTTP POST /Account/Login responded 500 in 265.1968 ms
+2024-04-21 20:05:54.176 +04:00 An unhandled exception occurred
+2024-04-21 20:07:09.185 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:07:20.141 +04:00 HTTP POST /Account/Login responded 500 in 7192.5544 ms
+2024-04-21 20:07:20.214 +04:00 An unhandled exception occurred
+2024-04-21 20:07:24.319 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:08:58.287 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:09:02.679 +04:00 HTTP POST /Account/Login responded 500 in 2637.7089 ms
+2024-04-21 20:09:02.730 +04:00 An unhandled exception occurred
+2024-04-21 20:15:46.576 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:16:00.980 +04:00 HTTP POST /Account/Login responded 500 in 5485.5803 ms
+2024-04-21 20:16:01.036 +04:00 An unhandled exception occurred
+2024-04-21 20:16:05.129 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:33:41.503 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:33:56.136 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:34:00.263 +04:00 HTTP POST /Account/Login responded 500 in 3448.0951 ms
+2024-04-21 20:34:00.344 +04:00 An unhandled exception occurred
+2024-04-21 20:34:10.266 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:34:24.399 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:34:38.500 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:35:54.313 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-21 20:36:00.897 +04:00 HTTP POST /Account/Login responded 500 in 2856.6002 ms
+2024-04-21 20:36:00.945 +04:00 An unhandled exception occurred

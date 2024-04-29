@@ -1,0 +1,679 @@
+2024-04-23 01:02:54.799 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:03:13.465 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 01:03:13.492 +04:00 HTTP GET /Account/GetPhoto responded 500 in 15215.0801 ms
+2024-04-23 01:03:15.996 +04:00 An unhandled exception occurred
+2024-04-23 01:03:20.145 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:03:34.244 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:03:48.325 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:04:27.418 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:05:06.556 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:06:55.181 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:07:19.413 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 01:07:19.428 +04:00 HTTP GET /Account/GetPhoto responded 500 in 4731.2721 ms
+2024-04-23 01:07:19.454 +04:00 An unhandled exception occurred
+2024-04-23 01:07:23.511 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:07:37.630 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:07:51.727 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:08:05.848 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:08:19.958 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:08:34.107 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:09:01.053 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:09:58.936 +04:00 HTTP GET /Account/GetPhoto responded 500 in 41373.5608 ms
+2024-04-23 01:09:58.936 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:09:59.008 +04:00 An unhandled exception occurred
+2024-04-23 01:10:22.897 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:10:37.001 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:10:51.121 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:11:05.225 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:11:19.309 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:11:33.428 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:11:47.559 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:13:53.783 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:14:08.515 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:14:22.596 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:14:36.733 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:14:50.849 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:15:04.967 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:15:19.121 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:15:33.205 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:15:47.287 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:16:01.385 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:16:15.495 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:16:29.618 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:16:43.721 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:16:57.819 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:17:11.891 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:17:25.994 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:17:40.120 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:17:54.221 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:18:08.346 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:18:22.466 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:18:36.608 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:18:50.732 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:19:04.845 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:19:18.945 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:22:18.135 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:22:30.596 +04:00 HTTP GET /Account/GetPhoto responded 500 in 7512.0064 ms
+2024-04-23 01:22:30.633 +04:00 An unhandled exception occurred
+2024-04-23 01:22:34.801 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:22:48.930 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:23:03.056 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:23:17.186 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:23:31.326 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:23:45.433 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:23:59.576 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:24:13.786 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:24:27.897 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:24:42.030 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:24:58.618 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:25:13.255 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:25:27.348 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:25:41.469 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:25:55.563 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:26:09.646 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:26:23.742 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:26:37.839 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:26:51.950 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:27:06.063 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:27:20.141 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:27:34.236 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:27:48.326 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:28:02.427 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:29:13.065 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:29:27.706 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:29:41.842 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:29:55.941 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 01:30:10.045 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:09:51.416 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:09:56.945 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:09:56.962 +04:00 HTTP GET /Account/GetPhoto responded 500 in 23.3081 ms
+2024-04-23 16:09:57.039 +04:00 An unhandled exception occurred
+2024-04-23 16:10:07.002 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:10:07.411 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:10:07.416 +04:00 HTTP GET /Account/GetPhoto responded 500 in 9.1997 ms
+2024-04-23 16:10:07.445 +04:00 An unhandled exception occurred
+2024-04-23 16:10:11.026 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:10:11.031 +04:00 HTTP GET /Account/GetPhoto responded 500 in 7.7452 ms
+2024-04-23 16:10:11.073 +04:00 An unhandled exception occurred
+2024-04-23 16:10:11.134 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:10:11.139 +04:00 HTTP GET /Account/GetPhoto responded 500 in 6.2129 ms
+2024-04-23 16:10:11.181 +04:00 An unhandled exception occurred
+2024-04-23 16:10:13.946 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:10:13.951 +04:00 HTTP GET /Account/GetPhoto responded 500 in 6.5433 ms
+2024-04-23 16:10:13.976 +04:00 An unhandled exception occurred
+2024-04-23 16:10:14.005 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:10:14.010 +04:00 HTTP GET /Account/GetPhoto responded 500 in 4.8655 ms
+2024-04-23 16:10:14.037 +04:00 An unhandled exception occurred
+2024-04-23 16:10:21.133 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:10:35.278 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:10:49.383 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:13:04.399 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:13:04.476 +04:00 HTTP GET /Account/GetPhoto responded 500 in 122833.5946 ms
+2024-04-23 16:13:04.486 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:13:04.526 +04:00 An unhandled exception occurred
+2024-04-23 16:13:18.676 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:13:27.251 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:13:27.262 +04:00 HTTP GET /Account/GetPhoto responded 500 in 6194.2281 ms
+2024-04-23 16:13:27.311 +04:00 An unhandled exception occurred
+2024-04-23 16:13:33.830 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:13:47.986 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:14:02.097 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:14:18.506 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:14:32.641 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:14:46.770 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:15:00.912 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:15:15.054 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:15:29.188 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:15:43.327 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:15:57.488 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:16:11.613 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:16:25.777 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:16:39.970 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:16:54.136 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:17:08.303 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:17:37.879 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:17:56.112 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:18:10.265 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:18:24.425 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:18:38.599 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:18:52.801 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:19:06.947 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:19:21.084 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:19:39.545 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:19:56.236 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:20:10.517 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:20:37.786 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:20:53.705 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:21:07.902 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:21:22.056 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:21:36.191 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:21:50.366 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:22:04.502 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:22:18.649 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:22:32.743 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:22:46.897 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:23:01.034 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:23:15.177 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:23:29.340 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:23:43.504 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:24:01.357 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:24:17.434 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:24:33.431 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:24:33.462 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:24:33.476 +04:00 HTTP GET /Account/GetPhoto responded 500 in 3171.2650 ms
+2024-04-23 16:24:33.537 +04:00 An unhandled exception occurred
+2024-04-23 16:24:41.927 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:24:41.942 +04:00 HTTP GET /Account/GetPhoto responded 500 in 2011.6090 ms
+2024-04-23 16:24:41.986 +04:00 An unhandled exception occurred
+2024-04-23 16:24:47.707 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:24:56.933 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:24:56.953 +04:00 HTTP GET /Account/GetPhoto responded 500 in 5058.0225 ms
+2024-04-23 16:24:57.008 +04:00 An unhandled exception occurred
+2024-04-23 16:25:04.402 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:25:18.601 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:25:32.720 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:25:46.851 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:26:00.995 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:26:15.191 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:26:29.356 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:26:43.515 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:26:57.645 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:27:11.823 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:27:25.940 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:27:40.076 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:27:54.249 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:28:08.407 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:28:22.551 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:28:36.716 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:28:50.862 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:29:05.048 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:29:19.221 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:29:33.359 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:29:47.547 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:30:01.708 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:30:16.021 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:30:30.238 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:30:44.451 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:30:58.652 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:31:12.760 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:31:26.874 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:31:41.039 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:31:55.159 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:32:09.346 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:32:23.509 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:32:37.670 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:32:51.850 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:33:06.021 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:33:20.188 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:33:34.327 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:33:48.516 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:34:02.671 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:34:16.834 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:34:31.011 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:34:45.178 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:34:59.351 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:35:25.526 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:35:41.637 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:35:41.638 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:35:41.671 +04:00 HTTP GET /Account/GetPhoto responded 500 in 1873.3106 ms
+2024-04-23 16:35:41.725 +04:00 An unhandled exception occurred
+2024-04-23 16:35:54.889 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:35:54.907 +04:00 HTTP GET /Account/GetPhoto responded 500 in 3582.9643 ms
+2024-04-23 16:35:54.956 +04:00 An unhandled exception occurred
+2024-04-23 16:35:59.034 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:37:52.026 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:38:05.364 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:38:05.386 +04:00 HTTP GET /Account/GetPhoto responded 500 in 47.5767 ms
+2024-04-23 16:38:05.476 +04:00 An unhandled exception occurred
+2024-04-23 16:38:07.399 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:38:21.541 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:38:24.471 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:38:24.477 +04:00 HTTP GET /Account/GetPhoto responded 500 in 12.9972 ms
+2024-04-23 16:38:24.520 +04:00 An unhandled exception occurred
+2024-04-23 16:38:24.640 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:38:24.648 +04:00 HTTP GET /Account/GetPhoto responded 500 in 9.6069 ms
+2024-04-23 16:38:24.696 +04:00 An unhandled exception occurred
+2024-04-23 16:38:30.822 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:38:30.833 +04:00 HTTP GET /Account/GetPhoto responded 500 in 13.5664 ms
+2024-04-23 16:38:30.885 +04:00 An unhandled exception occurred
+2024-04-23 16:38:35.691 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:38:49.857 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:39:03.997 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:39:18.132 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:39:32.288 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:39:46.460 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:40:00.628 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:40:19.006 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:40:23.932 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:40:23.953 +04:00 HTTP GET /Account/GetPhoto responded 500 in 29.5067 ms
+2024-04-23 16:40:24.033 +04:00 An unhandled exception occurred
+2024-04-23 16:40:35.050 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:40:49.253 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:41:03.347 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:41:17.497 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:41:31.621 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:41:45.768 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:41:59.932 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:42:14.046 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:42:28.219 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:43:01.813 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:43:06.839 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:43:06.867 +04:00 HTTP GET /Account/GetPhoto responded 500 in 38.7688 ms
+2024-04-23 16:43:06.951 +04:00 An unhandled exception occurred
+2024-04-23 16:43:17.705 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:43:31.866 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:43:45.985 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:44:08.346 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:44:23.664 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:44:32.454 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:44:32.500 +04:00 HTTP GET /Account/GetPhoto responded 500 in 53.7056 ms
+2024-04-23 16:44:32.601 +04:00 An unhandled exception occurred
+2024-04-23 16:44:37.827 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:44:51.953 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:45:06.085 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:45:20.225 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:45:34.371 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:45:48.535 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:46:02.186 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:46:06.311 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:46:06.333 +04:00 HTTP GET /Account/GetPhoto responded 500 in 29.4757 ms
+2024-04-23 16:46:06.414 +04:00 An unhandled exception occurred
+2024-04-23 16:46:17.526 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:46:48.756 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:46:52.440 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:46:52.458 +04:00 HTTP GET /Account/GetPhoto responded 500 in 25.7487 ms
+2024-04-23 16:46:52.544 +04:00 An unhandled exception occurred
+2024-04-23 16:47:03.882 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:47:24.962 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:47:40.338 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:47:42.622 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 16:47:42.644 +04:00 HTTP GET /Account/GetPhoto responded 500 in 30.4262 ms
+2024-04-23 16:47:42.722 +04:00 An unhandled exception occurred
+2024-04-23 16:47:54.475 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:48:08.580 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:48:22.766 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:48:36.874 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:48:51.029 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:49:05.222 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:49:19.407 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:49:33.615 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:49:47.742 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:50:01.882 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:50:16.047 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:50:30.256 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:50:44.561 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:50:58.756 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:51:12.887 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:51:27.082 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:51:40.202 +04:00 The view 'UserArticles' was not found. Searched locations: ["/Views/Article/UserArticles.cshtml","/Views/Shared/UserArticles.cshtml"]
+2024-04-23 16:51:40.210 +04:00 HTTP GET /Article/UserArticles responded 500 in 45.9704 ms
+2024-04-23 16:51:40.413 +04:00 An unhandled exception occurred
+2024-04-23 16:51:41.236 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:51:55.399 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:52:09.567 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 16:52:23.741 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 17:07:31.236 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 17:07:38.082 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 17:07:38.098 +04:00 HTTP GET /Account/GetPhoto responded 500 in 51.1495 ms
+2024-04-23 17:07:38.183 +04:00 An unhandled exception occurred
+2024-04-23 17:07:39.867 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 17:07:39.874 +04:00 HTTP GET /Account/GetPhoto responded 500 in 22.5435 ms
+2024-04-23 17:07:39.914 +04:00 An unhandled exception occurred
+2024-04-23 17:08:15.618 +04:00 HTTP GET /Article/UserArticles responded 500 in 33834.5560 ms
+2024-04-23 17:08:18.669 +04:00 An unhandled exception occurred
+2024-04-23 17:08:22.819 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 20:14:08.823 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 20:14:25.164 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 20:14:39.291 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 20:14:53.385 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 20:14:53.408 +04:00 HTTP GET /Account/GetPhoto responded 500 in 31.1025 ms
+2024-04-23 20:14:53.495 +04:00 An unhandled exception occurred
+2024-04-23 20:14:53.500 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 20:14:58.236 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 20:14:58.250 +04:00 HTTP GET /Account/GetPhoto responded 500 in 15.4212 ms
+2024-04-23 20:14:58.322 +04:00 An unhandled exception occurred
+2024-04-23 20:15:07.688 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 20:15:21.828 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 20:15:35.984 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 20:15:50.138 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 20:16:04.305 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 20:16:18.445 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 20:54:27.907 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 20:54:33.272 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 20:54:33.288 +04:00 HTTP GET /Account/GetPhoto responded 500 in 44.4717 ms
+2024-04-23 20:54:33.367 +04:00 An unhandled exception occurred
+2024-04-23 20:54:35.159 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 20:54:35.165 +04:00 HTTP GET /Account/GetPhoto responded 500 in 11.8419 ms
+2024-04-23 20:54:35.208 +04:00 An unhandled exception occurred
+2024-04-23 20:54:43.454 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 20:56:18.680 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 20:56:25.667 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 20:56:25.685 +04:00 HTTP GET /Account/GetPhoto responded 500 in 26.9180 ms
+2024-04-23 20:56:25.764 +04:00 An unhandled exception occurred
+2024-04-23 20:56:27.057 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 20:56:27.065 +04:00 HTTP GET /Account/GetPhoto responded 500 in 8.9831 ms
+2024-04-23 20:56:27.116 +04:00 An unhandled exception occurred
+2024-04-23 20:57:40.770 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 20:57:59.615 +04:00 Connection id "0HN33MP4KCEH1", Request id "0HN33MP4KCEH1:0000003D": An unhandled exception was thrown by the application.
+2024-04-23 20:58:50.865 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 20:58:57.363 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 20:58:57.380 +04:00 HTTP GET /Account/GetPhoto responded 500 in 51.4666 ms
+2024-04-23 20:58:57.456 +04:00 An unhandled exception occurred
+2024-04-23 21:00:03.533 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:00:05.980 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 21:00:06.000 +04:00 HTTP GET /Account/GetPhoto responded 500 in 44.5491 ms
+2024-04-23 21:00:06.087 +04:00 An unhandled exception occurred
+2024-04-23 21:00:32.411 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:00:32.566 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 21:00:32.580 +04:00 HTTP GET /Account/GetPhoto responded 500 in 19.1900 ms
+2024-04-23 21:00:32.622 +04:00 An unhandled exception occurred
+2024-04-23 21:08:20.280 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:08:28.110 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 21:08:28.126 +04:00 HTTP GET /Account/GetPhoto responded 500 in 44.1837 ms
+2024-04-23 21:08:28.204 +04:00 An unhandled exception occurred
+2024-04-23 21:08:50.137 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 21:08:50.143 +04:00 HTTP GET /Account/GetPhoto responded 500 in 11.1692 ms
+2024-04-23 21:08:50.182 +04:00 An unhandled exception occurred
+2024-04-23 21:17:20.627 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:17:24.483 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 21:17:24.502 +04:00 HTTP GET /Account/GetPhoto responded 500 in 46.1374 ms
+2024-04-23 21:17:24.596 +04:00 An unhandled exception occurred
+2024-04-23 21:17:25.905 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 21:17:25.913 +04:00 HTTP GET /Account/GetPhoto responded 500 in 14.0537 ms
+2024-04-23 21:17:25.956 +04:00 An unhandled exception occurred
+2024-04-23 21:17:43.259 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:25:17.139 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:25:29.046 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 21:25:29.065 +04:00 HTTP GET /Account/GetPhoto responded 500 in 27.6592 ms
+2024-04-23 21:25:29.152 +04:00 An unhandled exception occurred
+2024-04-23 21:25:33.364 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:25:43.431 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 21:25:43.442 +04:00 HTTP GET /Account/GetPhoto responded 500 in 11.6046 ms
+2024-04-23 21:25:43.486 +04:00 An unhandled exception occurred
+2024-04-23 21:25:48.302 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:26:02.458 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:26:16.547 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:26:30.678 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:26:44.823 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:26:59.004 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:27:13.131 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:27:27.280 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:27:41.396 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:27:55.499 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:28:09.595 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:28:23.736 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:28:37.890 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:28:57.858 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:29:01.163 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 21:29:01.183 +04:00 HTTP GET /Account/GetPhoto responded 500 in 113.0962 ms
+2024-04-23 21:29:01.261 +04:00 An unhandled exception occurred
+2024-04-23 21:29:20.253 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:29:29.017 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 21:29:29.027 +04:00 HTTP GET /Account/GetPhoto responded 500 in 12.1595 ms
+2024-04-23 21:29:29.070 +04:00 An unhandled exception occurred
+2024-04-23 21:29:34.415 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:29:48.552 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:30:02.673 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:30:16.808 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:30:30.977 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:30:45.152 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:30:59.300 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:31:13.414 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:31:27.516 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:31:41.682 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:31:55.832 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:32:09.977 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:32:24.103 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:32:38.269 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:32:52.427 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:33:06.551 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:38:54.097 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:38:55.964 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 21:38:55.982 +04:00 HTTP GET /Account/GetPhoto responded 500 in 117.4505 ms
+2024-04-23 21:38:56.051 +04:00 An unhandled exception occurred
+2024-04-23 21:39:10.580 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:39:24.726 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:39:38.870 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:39:53.025 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:40:21.990 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:40:22.824 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 21:40:22.842 +04:00 HTTP GET /Account/GetPhoto responded 500 in 100.5760 ms
+2024-04-23 21:40:22.920 +04:00 An unhandled exception occurred
+2024-04-23 21:40:36.969 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:40:51.024 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 21:40:51.032 +04:00 HTTP GET /Account/GetPhoto responded 500 in 9.5617 ms
+2024-04-23 21:40:51.074 +04:00 An unhandled exception occurred
+2024-04-23 21:40:51.119 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:41:05.211 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:41:22.343 +04:00 HTTP POST /Article/Update responded 500 in 3650.7203 ms
+2024-04-23 21:41:22.441 +04:00 An unhandled exception occurred
+2024-04-23 21:41:26.116 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:41:30.647 +04:00 Failed executing DbCommand (22ms) [Parameters=[@p8='?' (DbType = Guid), @p0='?' (Size = 4000), @p1='?' (DbType = DateTime2), @p2='?' (DbType = DateTime2), @p3='?' (Size = 4000), @p4='?' (DbType = Int32), @p5='?' (DbType = Int32), @p6='?' (Size = 8000) (DbType = AnsiString), @p7='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Articles] SET [Content] = @p0, [CreatedAt] = @p1, [ModifiedAt] = @p2, [Path] = @p3, [State] = @p4, [Status] = @p5, [Title] = @p6, [UserId] = @p7
+WHERE [Id] = @p8;
+SELECT @@ROWCOUNT;
+2024-04-23 21:41:30.686 +04:00 An exception occurred in the database while saving changes for context type 'Forum.Persistence.Context.DataContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Content', table 'ForumDatabase.dbo.Articles'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__203_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:1c416270-3dd3-422d-a2be-e5b97c32042a
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-04-23 21:41:31.024 +04:00 HTTP POST /Article/Update responded 500 in 2373.7988 ms
+2024-04-23 21:41:31.190 +04:00 An unhandled exception occurred
+2024-04-23 21:41:40.557 +04:00 Failed executing DbCommand (121ms) [Parameters=[@p8='?' (DbType = Guid), @p0='?' (Size = 4000), @p1='?' (DbType = DateTime2), @p2='?' (DbType = DateTime2), @p3='?' (Size = 4000), @p4='?' (DbType = Int32), @p5='?' (DbType = Int32), @p6='?' (Size = 8000) (DbType = AnsiString), @p7='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Articles] SET [Content] = @p0, [CreatedAt] = @p1, [ModifiedAt] = @p2, [Path] = @p3, [State] = @p4, [Status] = @p5, [Title] = @p6, [UserId] = @p7
+WHERE [Id] = @p8;
+SELECT @@ROWCOUNT;
+2024-04-23 21:41:40.566 +04:00 An exception occurred in the database while saving changes for context type 'Forum.Persistence.Context.DataContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Content', table 'ForumDatabase.dbo.Articles'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__203_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:0c53bb33-936c-4dbf-81ba-a0e73da9e44d
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-04-23 21:41:40.955 +04:00 HTTP POST /Article/Update responded 500 in 6667.1984 ms
+2024-04-23 21:41:41.095 +04:00 An unhandled exception occurred
+2024-04-23 21:41:44.604 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:41:50.576 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 21:41:50.583 +04:00 HTTP GET /Account/GetPhoto responded 500 in 11.1931 ms
+2024-04-23 21:41:50.627 +04:00 An unhandled exception occurred
+2024-04-23 21:42:03.406 +04:00 Failed executing DbCommand (9ms) [Parameters=[@p8='?' (DbType = Guid), @p0='?' (Size = 4000), @p1='?' (DbType = DateTime2), @p2='?' (DbType = DateTime2), @p3='?' (Size = 4000), @p4='?' (DbType = Int32), @p5='?' (DbType = Int32), @p6='?' (Size = 8000) (DbType = AnsiString), @p7='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Articles] SET [Content] = @p0, [CreatedAt] = @p1, [ModifiedAt] = @p2, [Path] = @p3, [State] = @p4, [Status] = @p5, [Title] = @p6, [UserId] = @p7
+WHERE [Id] = @p8;
+SELECT @@ROWCOUNT;
+2024-04-23 21:42:03.419 +04:00 An exception occurred in the database while saving changes for context type 'Forum.Persistence.Context.DataContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Content', table 'ForumDatabase.dbo.Articles'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__203_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:0c53bb33-936c-4dbf-81ba-a0e73da9e44d
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-04-23 21:42:03.737 +04:00 HTTP POST /Article/Update responded 500 in 8269.8944 ms
+2024-04-23 21:42:03.887 +04:00 An unhandled exception occurred
+2024-04-23 21:42:05.421 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:42:19.569 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:42:29.464 +04:00 Failed executing DbCommand (7ms) [Parameters=[@p8='?' (DbType = Guid), @p0='?' (Size = 4000), @p1='?' (DbType = DateTime2), @p2='?' (DbType = DateTime2), @p3='?' (Size = 4000), @p4='?' (DbType = Int32), @p5='?' (DbType = Int32), @p6='?' (Size = 8000) (DbType = AnsiString), @p7='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Articles] SET [Content] = @p0, [CreatedAt] = @p1, [ModifiedAt] = @p2, [Path] = @p3, [State] = @p4, [Status] = @p5, [Title] = @p6, [UserId] = @p7
+WHERE [Id] = @p8;
+SELECT @@ROWCOUNT;
+2024-04-23 21:42:29.475 +04:00 An exception occurred in the database while saving changes for context type 'Forum.Persistence.Context.DataContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Content', table 'ForumDatabase.dbo.Articles'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__203_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:0c53bb33-936c-4dbf-81ba-a0e73da9e44d
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-04-23 21:42:29.813 +04:00 HTTP POST /Article/Update responded 500 in 3832.9263 ms
+2024-04-23 21:42:29.960 +04:00 An unhandled exception occurred
+2024-04-23 21:42:34.030 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:42:48.190 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:43:02.320 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:43:16.455 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:44:01.212 +04:00 An error occurred using the connection to database 'ForumDatabase' on server '(LocalDb)\LocalDB'.
+2024-04-23 21:44:01.227 +04:00 Failed executing DbCommand (10ms) [Parameters=[@p8='?' (DbType = Guid), @p0='?' (Size = 4000), @p1='?' (DbType = DateTime2), @p2='?' (DbType = DateTime2), @p3='?' (Size = 4000), @p4='?' (DbType = Int32), @p5='?' (DbType = Int32), @p6='?' (Size = 8000) (DbType = AnsiString), @p7='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [Articles] SET [Content] = @p0, [CreatedAt] = @p1, [ModifiedAt] = @p2, [Path] = @p3, [State] = @p4, [Status] = @p5, [Title] = @p6, [UserId] = @p7
+WHERE [Id] = @p8;
+SELECT @@ROWCOUNT;
+2024-04-23 21:44:01.229 +04:00 An exception occurred in the database while saving changes for context type 'Forum.Persistence.Context.DataContext'.
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransactionAsync(IsolationLevel isolationLevel, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransactionAsync(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-04-23 21:44:01.238 +04:00 An exception occurred in the database while saving changes for context type 'Forum.Persistence.Context.DataContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'Content', table 'ForumDatabase.dbo.Articles'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__203_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+ClientConnectionId:1c416270-3dd3-422d-a2be-e5b97c32042a
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-04-23 21:44:01.494 +04:00 HTTP POST /Article/Update responded 500 in 41541.6437 ms
+2024-04-23 21:44:01.727 +04:00 HTTP POST /Article/Update responded 500 in 1344.0650 ms
+2024-04-23 21:44:01.824 +04:00 An unhandled exception occurred
+2024-04-23 21:44:01.965 +04:00 An unhandled exception occurred
+2024-04-23 21:44:05.262 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:49:35.916 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:49:39.456 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 21:49:39.476 +04:00 HTTP GET /Account/GetPhoto responded 500 in 103.5496 ms
+2024-04-23 21:49:39.540 +04:00 An unhandled exception occurred
+2024-04-23 21:49:51.365 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:50:06.336 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:50:12.708 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 21:50:12.729 +04:00 HTTP GET /Account/GetPhoto responded 500 in 23.3928 ms
+2024-04-23 21:50:12.787 +04:00 An unhandled exception occurred
+2024-04-23 21:50:20.475 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 21:50:34.618 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 22:27:59.681 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 22:28:14.892 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 22:28:29.085 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 22:29:31.641 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 22:29:46.885 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 22:30:07.214 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 22:30:21.432 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 22:30:35.579 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 22:30:49.722 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 22:31:03.855 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 22:31:31.101 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 22:31:46.322 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 22:32:00.466 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 22:32:14.624 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 22:33:11.910 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 22:33:27.515 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 22:34:08.706 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 22:34:24.358 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 22:34:38.472 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 22:34:52.573 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 22:35:06.736 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-04-23 22:35:12.705 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-04-23 22:35:12.725 +04:00 HTTP GET /Account/GetPhoto responded 500 in 26.7751 ms
+2024-04-23 22:35:12.799 +04:00 An unhandled exception occurred
+2024-04-23 22:35:20.871 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
