@@ -54,12 +54,12 @@ namespace Forum.Api.Controllers
         {
             try
             {
-                var validation = new UserVlidation();
+                /*var validation = new UserVlidation();
                 var result = await validation.ValidateAsync(user);
                 if (!result.IsValid)
                 {
                     return BadRequest(result.Errors);
-                }
+                }*/
                 await _userService.Create(user, cancellation);
 
                 return Ok(Language.Create);
@@ -174,7 +174,7 @@ namespace Forum.Api.Controllers
         /// status code:
         /// 200 OK - If the operation is successful.
         /// </returns>
-        [AllowAnonymous]
+        [Authorize(Roles = $"{Roles.Customer}")]
         [HttpGet("Accounts")]
         public async Task<ActionResult> GetAll(CancellationToken cancellationToken)
         {

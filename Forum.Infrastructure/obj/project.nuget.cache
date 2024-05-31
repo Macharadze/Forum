@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0MU5NfOcpQHzkXH3DpWZ1omGRg+XrQ9by64T4CjURMwoQgaQPD68EshVwv/3gin3Th65tSDWbK9VK82xMK8h5w==",
+  "dgSpecHash": "K/XVCQU74xsH3PWunG+AA7UPn3D6YuZYF4bl+gAeeqsTiHmhdInjFXD+LcpDFqzAkrxCM2TlB6NLgAXigdixtw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Infrastructure\\Forum.Infrastructure.csproj",
+  "projectFilePath": "E:\\ForumApplication\\Forum\\Forum.Infrastructure\\Forum.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.28\\microsoft.aspnetcore.cryptography.internal.6.0.28.nupkg.sha512",

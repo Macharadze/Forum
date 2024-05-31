@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IIv99YqmJeQcMpMj8bvvBDSgNzCKz5lNpCo1tbAHV+Ep+Y0VcTOuWM5jAdNZTk3ouTWx6lR9cpjVZMu5pxZ2ww==",
+  "dgSpecHash": "nzM1RHvB+3Uq6Ki3IihdPchz8sEOFtKaz2G0gs/9biFJ4gvAds/3xZea8nYSOmHTJVmZz4GUxhWm9kFAfZ2Ezw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.BackgroundWorker\\Forum.BackgroundWorker.csproj",
+  "projectFilePath": "E:\\ForumApplication\\Forum\\Forum.BackgroundWorker\\Forum.BackgroundWorker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.28\\microsoft.aspnetcore.cryptography.internal.6.0.28.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.28\\microsoft.aspnetcore.cryptography.keyderivation.6.0.28.nupkg.sha512",

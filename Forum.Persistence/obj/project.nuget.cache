@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aY3hQTfOgw5x46zzuSOcQj7+8pQJqL0MMjKqHkkvOnSa1Rjw/U1f4DSWvIDVO6kY1HE4mpF3YgiHuXJRAvrl1Q==",
+  "dgSpecHash": "OClZ0eWlupdgFoSaBpL/d0t7HcugwcfUIUpWbdhcfEcW/jPX2hu4WaudtmaxErE5xAP0wGBIY78dmLvMF6GGVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Persistence\\Forum.Persistence.csproj",
+  "projectFilePath": "E:\\ForumApplication\\Forum\\Forum.Persistence\\Forum.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

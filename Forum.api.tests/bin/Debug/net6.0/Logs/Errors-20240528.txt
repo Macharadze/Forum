@@ -1,0 +1,2 @@
+2024-05-28 13:51:21.454 +04:00 BackgroundService failed
+2024-05-28 13:51:21.643 +04:00 The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.

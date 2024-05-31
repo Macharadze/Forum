@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aC/ukalmZHEu+AHWWJIACdY5jE0qga9WOlISyei5o4FigODk+bMQwNb3BxrKfa+0ExWzEfKmphHp6Zf2jxMkqg==",
+  "dgSpecHash": "SQSNVbSlgetVdnOuNkoNmyOZznWikrYCRnPlJOKC+KODhis5vUPs6ir3G2qJJzVhLHThY+shsntj/6jwINAdwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Application.Tests\\Forum.Application.Tests.csproj",
+  "projectFilePath": "E:\\ForumApplication\\Forum\\Forum.Application.Tests\\Forum.Application.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\asp.versioning.abstractions\\6.2.1\\asp.versioning.abstractions.6.2.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\asp.versioning.http\\6.5.0\\asp.versioning.http.6.5.0.nupkg.sha512",
@@ -76,6 +76,7 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0\\microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",

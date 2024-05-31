@@ -70,6 +70,6 @@ app.UseSerilogRequestLogging();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
-//AccountSeed.Initialize(app.Services);
+//await AccountSeed.Initialize(app.Services);
 
 app.Run();

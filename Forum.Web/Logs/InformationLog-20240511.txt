@@ -1,0 +1,127 @@
+2024-05-11 20:33:01.129 +04:00 Initializing UI Database
+2024-05-11 20:33:01.568 +04:00 Executing database migrations
+2024-05-11 20:33:02.122 +04:00 Saving healthchecks configuration to database
+2024-05-11 20:33:02.771 +04:00 Now listening on: https://localhost:7245
+2024-05-11 20:33:02.778 +04:00 Now listening on: http://localhost:5178
+2024-05-11 20:33:03.090 +04:00 Application started. Press Ctrl+C to shut down.
+2024-05-11 20:33:03.092 +04:00 Hosting environment: Development
+2024-05-11 20:33:03.093 +04:00 Content root path: C:\Users\user\Desktop\ForumApplication\Forum\Forum.Web\
+2024-05-11 20:33:03.206 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-05-11 20:33:03.234 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-05-11 20:33:03.839 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 5/11/2024 8:33:03 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-05-11 20:33:04.418 +04:00 HTTP GET / responded 200 in 537.4609 ms
+2024-05-11 20:33:07.606 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-05-11 20:33:08.426 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 5/11/2024 8:33:08 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-05-11 20:33:08.562 +04:00 HTTP GET /Account/Login responded 200 in 131.1988 ms
+2024-05-11 20:33:19.081 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-05-11 20:33:19.084 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-05-11 20:33:23.145 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-05-11 20:33:23.449 +04:00 Notification is sent on same window time.
+2024-05-11 20:33:33.623 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-05-11 20:33:33.625 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-05-11 20:33:37.715 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-05-11 20:33:37.922 +04:00 Notification is sent on same window time.
+2024-05-11 20:33:39.888 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 5/11/2024 8:33:39 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-05-11 20:33:40.765 +04:00 HTTP POST /Account/Login responded 302 in 867.5876 ms
+2024-05-11 20:33:40.776 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 5/11/2024 8:33:40 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-05-11 20:33:41.214 +04:00 HTTP GET /Article/Articles responded 200 in 428.5378 ms
+2024-05-11 20:33:48.039 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-05-11 20:33:48.042 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-05-11 20:33:50.086 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = ?isAuth=True
+Time = 5/11/2024 8:33:50 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.WebTools.BrowserLink.Net.ScriptInjectionFilterStream
+
+2024-05-11 20:33:50.250 +04:00 HTTP GET /Account/GetProfile responded 200 in 161.3849 ms
+2024-05-11 20:33:50.326 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = 
+Time = 5/11/2024 8:33:50 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+
+2024-05-11 20:33:50.340 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-05-11 20:33:50.363 +04:00 HTTP GET /Account/GetPhoto responded 500 in 32.8870 ms
+2024-05-11 20:33:50.461 +04:00 An unhandled exception occurred
+2024-05-11 20:33:50.849 +04:00 
+ Request Info 
+IP = ::1
+Address = https
+IsSescured = True
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream
+QueryString = ?messageJson={%22Path%22:%22\%22/Account/GetPhoto\%22%22,%22ProblemDetails%22:{%22Type%22:null,%22Title%22:%22An%20error%20occurred%22,%22Status%22:200,%22Detail%22:%22Sorry,%20an%20error%20occurred%20while%20processing%20your%20request.%22,%22Instance%22:null,%22Extensions%22:{}},%22Errors%22:[%22The%20view%20%27GetPhoto%27%20was%20not%20found.%20The%20following%20locations%20were%20searched:\r\n/Views/Account/GetPhoto.cshtml\r\n/Views/Shared/GetPhoto.cshtml%22]}
+Time = 5/11/2024 8:33:50 PM
+
+ Response Info 
+StatusCode = 200
+Body = Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseStream
+
+2024-05-11 20:33:50.967 +04:00 HTTP GET /Home/Error responded 200 in 115.1000 ms
+2024-05-11 20:33:52.109 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-05-11 20:33:52.157 +04:00 Notification is sent on same window time.
+2024-05-11 20:34:02.283 +04:00 Start processing HTTP request GET "http://localhost:8001/healthz"
+2024-05-11 20:34:02.285 +04:00 Sending HTTP request GET "http://localhost:8001/healthz"
+2024-05-11 20:34:06.347 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-05-11 20:34:06.391 +04:00 Notification is sent on same window time.

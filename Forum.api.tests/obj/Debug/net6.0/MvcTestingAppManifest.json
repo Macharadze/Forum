@@ -1,0 +1,8 @@
+{
+  "Forum.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\ForumApplication\\Forum\\Forum.Api",
+  "Forum.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\ForumApplication\\Forum\\Forum.Application",
+  "Forum.BackgroundWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\ForumApplication\\Forum\\Forum.BackgroundWorker",
+  "Forum.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\ForumApplication\\Forum\\Forum.Domain",
+  "Forum.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\ForumApplication\\Forum\\Forum.Infrastructure",
+  "Forum.Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\ForumApplication\\Forum\\Forum.Persistence"
+}

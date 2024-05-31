@@ -74,9 +74,9 @@ namespace Forum.Infrastructure.Accounts
                 Status = Domain.Enums.Status.Active
 
             };
-            await _userManager.CreateAsync(account, register.Password);
-
-            await _userManager.AddToRoleAsync(account, "Customer");
+            var t1 = await _userManager.CreateAsync(account, register.Password);
+            
+            var t2 = await _userManager.AddToRoleAsync(account, "Customer");
             await base._context.SaveChangesAsync();
         }
 

@@ -1,0 +1,8 @@
+2024-05-11 20:33:07.606 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-05-11 20:33:23.145 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-05-11 20:33:37.715 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-05-11 20:33:50.340 +04:00 The view 'GetPhoto' was not found. Searched locations: ["/Views/Account/GetPhoto.cshtml","/Views/Shared/GetPhoto.cshtml"]
+2024-05-11 20:33:50.363 +04:00 HTTP GET /Account/GetPhoto responded 500 in 32.8870 ms
+2024-05-11 20:33:50.461 +04:00 An unhandled exception occurred
+2024-05-11 20:33:52.109 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.
+2024-05-11 20:34:06.347 +04:00 GetHealthReport threw an exception when trying to get report from http://localhost:8001/healthz configured with name endpoint1.

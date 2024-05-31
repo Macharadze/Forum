@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Forum.Application.Tests", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Forum.Web", "Forum.Web\Forum.Web.csproj", "{DB1BE7EC-2534-439B-9AB0-1DF6C5134CA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forum.BackgroundWorker", "Forum.BackgroundWorker\Forum.BackgroundWorker.csproj", "{B1EB62F1-9EDB-477F-9643-999F78F469FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Forum.BackgroundWorker", "Forum.BackgroundWorker\Forum.BackgroundWorker.csproj", "{B1EB62F1-9EDB-477F-9643-999F78F469FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forum.api.tests", "Forum.api.tests\Forum.api.tests.csproj", "{693337DD-B625-4D1D-BD43-DB2C51EB6B8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,6 +69,10 @@ Global
 		{B1EB62F1-9EDB-477F-9643-999F78F469FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1EB62F1-9EDB-477F-9643-999F78F469FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1EB62F1-9EDB-477F-9643-999F78F469FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{693337DD-B625-4D1D-BD43-DB2C51EB6B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693337DD-B625-4D1D-BD43-DB2C51EB6B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693337DD-B625-4D1D-BD43-DB2C51EB6B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693337DD-B625-4D1D-BD43-DB2C51EB6B8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -84,6 +90,7 @@ Global
 		{DC2809E8-2134-40B4-AC71-A0D636CA8373} = {ABB1CE13-7D23-4892-8281-101898D007D3}
 		{DB1BE7EC-2534-439B-9AB0-1DF6C5134CA2} = {F53BDABF-3BC2-4388-A973-154DC25F6D4D}
 		{B1EB62F1-9EDB-477F-9643-999F78F469FF} = {AB77648B-01EF-46BB-8148-9F45C292F6FA}
+		{693337DD-B625-4D1D-BD43-DB2C51EB6B8D} = {ABB1CE13-7D23-4892-8281-101898D007D3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {19D30C76-13C5-44C4-A6D7-2301E3BC1147}

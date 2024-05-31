@@ -1,0 +1,5 @@
+2024-05-26 16:58:19.228 +04:00 Now listening on: https://localhost:7283
+2024-05-26 16:58:19.263 +04:00 Now listening on: http://localhost:5001
+2024-05-26 16:58:19.266 +04:00 Application started. Press Ctrl+C to shut down.
+2024-05-26 16:58:19.267 +04:00 Hosting environment: Development
+2024-05-26 16:58:19.267 +04:00 Content root path: E:\ForumApplication\Forum\Forum.Api\

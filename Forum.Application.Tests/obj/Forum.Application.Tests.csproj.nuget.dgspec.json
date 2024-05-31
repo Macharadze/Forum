@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Application.Tests\\Forum.Application.Tests.csproj": {}
+    "E:\\ForumApplication\\Forum\\Forum.Application.Tests\\Forum.Application.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Api\\Forum.Api.csproj": {
+    "E:\\ForumApplication\\Forum\\Forum.Api\\Forum.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Api\\Forum.Api.csproj",
+        "projectUniqueName": "E:\\ForumApplication\\Forum\\Forum.Api\\Forum.Api.csproj",
         "projectName": "Forum.Api",
-        "projectPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Api\\Forum.Api.csproj",
+        "projectPath": "E:\\ForumApplication\\Forum\\Forum.Api\\Forum.Api.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Api\\obj\\",
+        "outputPath": "E:\\ForumApplication\\Forum\\Forum.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,20 +32,20 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Application\\Forum.Application.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Application\\Forum.Application.csproj"
+              "E:\\ForumApplication\\Forum\\Forum.Application\\Forum.Application.csproj": {
+                "projectPath": "E:\\ForumApplication\\Forum\\Forum.Application\\Forum.Application.csproj"
               },
-              "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.BackgroundWorker\\Forum.BackgroundWorker.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.BackgroundWorker\\Forum.BackgroundWorker.csproj"
+              "E:\\ForumApplication\\Forum\\Forum.BackgroundWorker\\Forum.BackgroundWorker.csproj": {
+                "projectPath": "E:\\ForumApplication\\Forum\\Forum.BackgroundWorker\\Forum.BackgroundWorker.csproj"
               },
-              "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj"
+              "E:\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj": {
+                "projectPath": "E:\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj"
               },
-              "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Infrastructure\\Forum.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Infrastructure\\Forum.Infrastructure.csproj"
+              "E:\\ForumApplication\\Forum\\Forum.Infrastructure\\Forum.Infrastructure.csproj": {
+                "projectPath": "E:\\ForumApplication\\Forum\\Forum.Infrastructure\\Forum.Infrastructure.csproj"
               },
-              "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Persistence\\Forum.Persistence.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Persistence\\Forum.Persistence.csproj"
+              "E:\\ForumApplication\\Forum\\Forum.Persistence\\Forum.Persistence.csproj": {
+                "projectPath": "E:\\ForumApplication\\Forum\\Forum.Persistence\\Forum.Persistence.csproj"
               }
             }
           }
@@ -124,6 +124,10 @@
               "target": "Package",
               "version": "[6.0.28, )"
             },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.4, )"
+            },
             "Serilog": {
               "target": "Package",
               "version": "[3.1.1, )"
@@ -168,14 +172,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Application.Tests\\Forum.Application.Tests.csproj": {
+    "E:\\ForumApplication\\Forum\\Forum.Application.Tests\\Forum.Application.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Application.Tests\\Forum.Application.Tests.csproj",
+        "projectUniqueName": "E:\\ForumApplication\\Forum\\Forum.Application.Tests\\Forum.Application.Tests.csproj",
         "projectName": "Forum.Application.Tests",
-        "projectPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Application.Tests\\Forum.Application.Tests.csproj",
+        "projectPath": "E:\\ForumApplication\\Forum\\Forum.Application.Tests\\Forum.Application.Tests.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Application.Tests\\obj\\",
+        "outputPath": "E:\\ForumApplication\\Forum\\Forum.Application.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -196,17 +200,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Api\\Forum.Api.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Api\\Forum.Api.csproj"
+              "E:\\ForumApplication\\Forum\\Forum.Api\\Forum.Api.csproj": {
+                "projectPath": "E:\\ForumApplication\\Forum\\Forum.Api\\Forum.Api.csproj"
               },
-              "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Application\\Forum.Application.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Application\\Forum.Application.csproj"
+              "E:\\ForumApplication\\Forum\\Forum.Application\\Forum.Application.csproj": {
+                "projectPath": "E:\\ForumApplication\\Forum\\Forum.Application\\Forum.Application.csproj"
               },
-              "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Infrastructure\\Forum.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Infrastructure\\Forum.Infrastructure.csproj"
+              "E:\\ForumApplication\\Forum\\Forum.Infrastructure\\Forum.Infrastructure.csproj": {
+                "projectPath": "E:\\ForumApplication\\Forum\\Forum.Infrastructure\\Forum.Infrastructure.csproj"
               },
-              "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Persistence\\Forum.Persistence.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Persistence\\Forum.Persistence.csproj"
+              "E:\\ForumApplication\\Forum\\Forum.Persistence\\Forum.Persistence.csproj": {
+                "projectPath": "E:\\ForumApplication\\Forum\\Forum.Persistence\\Forum.Persistence.csproj"
               }
             }
           }
@@ -278,14 +282,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Application\\Forum.Application.csproj": {
+    "E:\\ForumApplication\\Forum\\Forum.Application\\Forum.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Application\\Forum.Application.csproj",
+        "projectUniqueName": "E:\\ForumApplication\\Forum\\Forum.Application\\Forum.Application.csproj",
         "projectName": "Forum.Application",
-        "projectPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Application\\Forum.Application.csproj",
+        "projectPath": "E:\\ForumApplication\\Forum\\Forum.Application\\Forum.Application.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Application\\obj\\",
+        "outputPath": "E:\\ForumApplication\\Forum\\Forum.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -306,8 +310,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj"
+              "E:\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj": {
+                "projectPath": "E:\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj"
               }
             }
           }
@@ -347,14 +351,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.BackgroundWorker\\Forum.BackgroundWorker.csproj": {
+    "E:\\ForumApplication\\Forum\\Forum.BackgroundWorker\\Forum.BackgroundWorker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.BackgroundWorker\\Forum.BackgroundWorker.csproj",
+        "projectUniqueName": "E:\\ForumApplication\\Forum\\Forum.BackgroundWorker\\Forum.BackgroundWorker.csproj",
         "projectName": "Forum.BackgroundWorker",
-        "projectPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.BackgroundWorker\\Forum.BackgroundWorker.csproj",
+        "projectPath": "E:\\ForumApplication\\Forum\\Forum.BackgroundWorker\\Forum.BackgroundWorker.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.BackgroundWorker\\obj\\",
+        "outputPath": "E:\\ForumApplication\\Forum\\Forum.BackgroundWorker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -375,8 +379,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Application\\Forum.Application.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Application\\Forum.Application.csproj"
+              "E:\\ForumApplication\\Forum\\Forum.Application\\Forum.Application.csproj": {
+                "projectPath": "E:\\ForumApplication\\Forum\\Forum.Application\\Forum.Application.csproj"
               }
             }
           }
@@ -416,14 +420,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj": {
+    "E:\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj",
+        "projectUniqueName": "E:\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj",
         "projectName": "Forum.Domain",
-        "projectPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj",
+        "projectPath": "E:\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Domain\\obj\\",
+        "outputPath": "E:\\ForumApplication\\Forum\\Forum.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -481,14 +485,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Infrastructure\\Forum.Infrastructure.csproj": {
+    "E:\\ForumApplication\\Forum\\Forum.Infrastructure\\Forum.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Infrastructure\\Forum.Infrastructure.csproj",
+        "projectUniqueName": "E:\\ForumApplication\\Forum\\Forum.Infrastructure\\Forum.Infrastructure.csproj",
         "projectName": "Forum.Infrastructure",
-        "projectPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Infrastructure\\Forum.Infrastructure.csproj",
+        "projectPath": "E:\\ForumApplication\\Forum\\Forum.Infrastructure\\Forum.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Infrastructure\\obj\\",
+        "outputPath": "E:\\ForumApplication\\Forum\\Forum.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -509,11 +513,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Application\\Forum.Application.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Application\\Forum.Application.csproj"
+              "E:\\ForumApplication\\Forum\\Forum.Application\\Forum.Application.csproj": {
+                "projectPath": "E:\\ForumApplication\\Forum\\Forum.Application\\Forum.Application.csproj"
               },
-              "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Persistence\\Forum.Persistence.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Persistence\\Forum.Persistence.csproj"
+              "E:\\ForumApplication\\Forum\\Forum.Persistence\\Forum.Persistence.csproj": {
+                "projectPath": "E:\\ForumApplication\\Forum\\Forum.Persistence\\Forum.Persistence.csproj"
               }
             }
           }
@@ -561,14 +565,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Persistence\\Forum.Persistence.csproj": {
+    "E:\\ForumApplication\\Forum\\Forum.Persistence\\Forum.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Persistence\\Forum.Persistence.csproj",
+        "projectUniqueName": "E:\\ForumApplication\\Forum\\Forum.Persistence\\Forum.Persistence.csproj",
         "projectName": "Forum.Persistence",
-        "projectPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Persistence\\Forum.Persistence.csproj",
+        "projectPath": "E:\\ForumApplication\\Forum\\Forum.Persistence\\Forum.Persistence.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Persistence\\obj\\",
+        "outputPath": "E:\\ForumApplication\\Forum\\Forum.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -589,8 +593,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj"
+              "E:\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj": {
+                "projectPath": "E:\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj"
               }
             }
           }

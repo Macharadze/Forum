@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4QqaV7RwJ57CcUNoGlS9mM90An0uxZIHfia8kjWJQeF3JzqLkSw2j2WbwEed4De1wQtIZyt6oIdcsxanpyAgyw==",
+  "dgSpecHash": "UGnFpLZrBn0UNm2tYOY7JcjQPTmFR1a/VPUFMbjZpuXSoB5+BrwArSabWwU9c2KSKT++iGT97z+KkzmWAsKuPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Api\\Forum.Api.csproj",
+  "projectFilePath": "E:\\ForumApplication\\Forum\\Forum.Api\\Forum.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\asp.versioning.abstractions\\6.2.1\\asp.versioning.abstractions.6.2.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\asp.versioning.http\\6.5.0\\asp.versioning.http.6.5.0.nupkg.sha512",
@@ -72,6 +72,7 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",

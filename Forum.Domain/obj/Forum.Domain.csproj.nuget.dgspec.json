@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj": {}
+    "E:\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj": {
+    "E:\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj",
+        "projectUniqueName": "E:\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj",
         "projectName": "Forum.Domain",
-        "projectPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj",
+        "projectPath": "E:\\ForumApplication\\Forum\\Forum.Domain\\Forum.Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\ForumApplication\\Forum\\Forum.Domain\\obj\\",
+        "outputPath": "E:\\ForumApplication\\Forum\\Forum.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

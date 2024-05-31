@@ -48,9 +48,9 @@ namespace Forum.Api.Infrastructure.Extensions
                     }
                 });
 
-                var xmlFile = $"{Assembly.GetEntryAssembly().GetName().Name}.xml";
+               /* var xmlFile = $"{Assembly.GetEntryAssembly().GetName().Name}.xml";
                 var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
-                option.IncludeXmlComments(xmlPath);
+                option.IncludeXmlComments(xmlPath);*/
             });
         }
     }
